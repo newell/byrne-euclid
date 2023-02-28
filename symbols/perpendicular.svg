@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="151"
+   height="150"
+   viewBox="0 0 116.27 150"
+   preserveAspectRatio="xMidYMid "
+   class="svg"
+   id="svg9"
+   sodipodi:docname="perpendicular.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="782"
+     inkscape:window-height="480"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="93.635"
+     inkscape:cy="75"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9" />
+  <metadata
+     id="metadata2">
+    <rdf:rdf>
+      <rdf:description
+         dc:title="perpendicular"
+         dc:publisher="Hiox"
+         dc:date="2015-05-15"
+         dc:format="image/svg+xml"
+         dc:language="en">
+        <dc:creator>
+          <rdf:bag>
+            <rdf:li>svgimages.com</rdf:li>
+          </rdf:bag>
+        </dc:creator>
+      </rdf:description>
+    </rdf:rdf>
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0.1,0,0,-0.1,-56.365,225)"
+     data-darkreader-inline-fill=""
+     data-darkreader-inline-stroke=""
+     style="fill:#040404;stroke:none"
+     id="g5">
+    <path
+       d="M 1090,1565 V 880 H 740 390 v -65 -65 h 755 755 v 65 65 h -340 -340 v 685 685 h -65 -65 z"
+       id="node1"
+       class="node"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="matrix(0.1,0,0,-0.1,-56.365,225)"
+     data-darkreader-inline-fill=""
+     data-darkreader-inline-stroke=""
+     style="fill:#9c9c9c;stroke:none"
+     id="g7" />
+</svg>
