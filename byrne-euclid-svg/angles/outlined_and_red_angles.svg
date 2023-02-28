@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 72 44.51" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 33 -- Outlined and red angles</title>
+  <path class="stroke-black stroke-thin" d="M43.51,1C20.03,1,1,20.03,1,43.51h42.51" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-red" d="M71,11.09C63.59,4.8,54,1,43.51,1v42.51L71,11.09z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

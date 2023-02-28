@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 27 figure</title>
+  <path class="fill-red" data-name="angle-red-bottom" d="M119.54,235.73c14.86,14.79,35.34,23.93,57.96,23.93c16.27,0,31.42-4.75,44.18-12.9L177.5,177.5L119.54,235.73z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-top" d="M168.95,77.97c11.26,5.8,24.02,9.09,37.56,9.09c5.61,0,11.08-0.57,16.38-1.64L206.51,4.9L168.95,77.97z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="177.5" y1="177.5" x2="54.05" y2="301.53" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="271.62" y1="325.06" x2="177.5" y2="177.5" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="54.05" y1="301.53" x2="206.51" y2="4.9" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="271.62" y1="325.06" x2="206.51" y2="4.9" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-blue" data-name="circle-blue" cx="177.5" cy="177.5" r="175" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-trans" data-name="arc-black-dotted-trans" d="M271.62,325.06c-27.18,17.37-59.47,27.44-94.12,27.44c-48.18,0-91.81-19.47-123.46-50.97" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-black stroke-dotted" data-name="arc-black-dotted" d="M271.62,325.06c-27.18,17.37-59.47,27.44-94.12,27.44c-48.18,0-91.81-19.47-123.46-50.97" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

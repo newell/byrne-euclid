@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 66.81 70" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 33 -- Black, red, and blue angle</title>
+  <path class="fill-blue" d="M33.05,0L45,68.96c7.78-1.34,15.13-3.95,21.81-7.63L33.05,0z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M33.05,70c4.07,0,8.06-0.37,11.94-1.04L33.05,0L21.89,69.1C25.53,69.69,29.25,70,33.05,70z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" d="M33.05,0L0,61.71c6.72,3.61,14.09,6.14,21.89,7.39L33.05,0z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

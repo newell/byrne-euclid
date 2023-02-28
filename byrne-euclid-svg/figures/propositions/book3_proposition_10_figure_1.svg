@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="max-height: 240px;" viewBox="0 0 355 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 10 figure</title>
+  <line class="stroke-yellow" data-name="line-yellow-top" x1="177.5" y1="177.5" x2="344.83" y2="177.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-top" x1="177.5" y1="177.5" x2="177.5" y2="344.83" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-top" x1="177.5" y1="177.5" x2="177.5" y2="10.17" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <ellipse class="stroke-red" data-name="ellipse-red" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -73.5229 177.5)" cx="177.5" cy="177.5" rx="147.17" ry="198.95" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <ellipse class="stroke-blue" data-name="ellipse-blue" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -73.5229 177.5)" cx="177.5" cy="177.5" rx="198.95" ry="147.17" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

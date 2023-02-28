@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 245.45" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Definition 2 figure</title>
+  <polyline class="fill-red" data-name="par-red" points="250.8,0.13 350,0.19 336.92,79.15 237.75,79.09 237.73,79.08 250.8,0.19 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-blue" data-name="par-blue" points="210.18,245.45 237.73,79.08 237.75,79.09 27.55,78.96 0,245.26 210.18,245.39 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-yellow" data-name="par-yellow-left" points="250.8,0.19 237.73,79.08 237.75,79.09 27.55,78.96 40.62,0 250.8,0.13 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-yellow" data-name="par-yellow-right" points="210.18,245.45 237.73,79.08 237.75,79.09 336.92,79.15 309.38,245.45 210.18,245.39 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

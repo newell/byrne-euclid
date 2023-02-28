@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 285.86" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 19 figure</title>
+  <path class="fill-blue" data-name="angle-blue" d="M32.91,217.14L2.5,283.36h72.87C75.37,253.98,57.97,228.67,32.91,217.14z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M303.7,221.34c-18.34,14.45-30.14,36.85-30.14,62.02h78.94L303.7,221.34z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="131.5" y1="2.5" x2="2.5" y2="283.36" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="352.5" y1="283.36" x2="131.5" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="2.5" y1="283.36" x2="352.5" y2="283.36" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 75 40" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Two right angles</title>
+  <path class="stroke-black stroke-thin" d="M37.5,2.5c-19.33,0-35,15.67-35,35h70C72.5,18.17,56.83,2.5,37.5,2.5z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="37.5" y1="2.5" x2="37.5" y2="37.5" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

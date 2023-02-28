@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline line-long" viewBox="0 0 105 5" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 29 -- Blue, dotted blue, and yellow line</title>
+  <line class="stroke-blue stroke-dotted" x1="39.4" y1="2.5" x2="76.3" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="2.5" y1="2.5" x2="39.4" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" x1="76.3" y1="2.5" x2="102.5" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

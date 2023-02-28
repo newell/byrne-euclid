@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 329.53" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 29 figure</title>
+  <path class="fill-blue" data-name="angle-blue" d="M221.54,102.46c0,0-43.91,0-82.94,0c0,8.28,1.22,16.27,3.48,23.81L221.54,102.46z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M142.07,126.27c7.16,23.94,24.84,43.33,47.68,52.81c15.64-37.72,31.78-76.62,31.78-76.62L142.07,126.27z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-top" d="M189.75,179.08c9.79,4.07,20.52,6.31,31.78,6.31c45.81,0,82.94-37.13,82.94-82.94h-82.94C221.54,102.46,205.4,141.37,189.75,179.08z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M253.32,25.83c-11.37,27.42-31.78,76.62-31.78,76.62h82.94C304.48,67.91,283.35,38.3,253.32,25.83z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-bottom" d="M231.85,277.55c0-34.55-21.12-64.15-51.15-76.62c-15.64,37.72-31.78,76.62-31.78,76.62H231.85z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="2.5" y1="102.46" x2="352.5" y2="102.46" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="2.5" y1="277.55" x2="352.5" y2="277.55" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="128.38" y1="327.03" x2="263" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="221.54" y1="102.46" x2="40.34" y2="156.76" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-trans" x1="221.54" y1="102.46" x2="335.09" y2="68.43" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="221.54" y1="102.46" x2="335.09" y2="68.43" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

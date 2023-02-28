@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 564.93" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 8 figure 2</title>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="177.5" y1="212.43" x2="177.5" y2="1.12" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="177.5" y1="387.43" x2="177.5" y2="212.43" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="177.5" y1="1.12" x2="121.38" y2="221.62" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="177.5" y1="387.43" x2="121.38" y2="221.62" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="177.5" y1="1.12" x2="36.01" y2="284.45" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="177.5" y1="387.43" x2="36.01" y2="284.45" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-black" data-name="circle" cx="177.5" cy="387.43" r="175" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

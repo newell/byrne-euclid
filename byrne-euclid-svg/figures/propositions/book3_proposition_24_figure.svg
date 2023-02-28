@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 223.39" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 24 figure</title>
+  <path class="fill-red" data-name="segment-red" d="M352.5,85.78C311.15,34.97,248.12,2.5,177.5,2.5S43.85,34.97,2.5,85.78H352.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-blue" data-name="curve-blue" d="M352.5,85.78C311.15,34.97,248.12,2.5,177.5,2.5S43.85,34.97,2.5,85.78" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-black" data-name="line-black" d="M2.5,85.78h350" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-yellow" data-name="segment-yellow" d="M352.5,220.89c-41.35-50.82-104.38-83.28-175-83.28s-133.65,32.47-175,83.28H352.5z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-red" data-name="curve-red" d="M352.5,220.89c-41.35-50.82-104.38-83.28-175-83.28s-133.65,32.47-175,83.28" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-blue" data-name="line-blue" d="M2.5,220.89h350" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 70 37.24" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 20 -- Black and blue angles</title>
+  <path class="fill-blue" d="M36.54,0l-9.88,35.92c3.15,0.86,6.46,1.33,9.88,1.33c14.7,0,27.4-8.51,33.46-20.88L36.54,0z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" d="M26.65,35.92L36.54,0L0,7.25C2.73,21.11,13.16,32.21,26.65,35.92z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

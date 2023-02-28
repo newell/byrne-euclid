@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352.5 311.78" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 3 figure</title>
+  <line class="stroke-black" data-name="line-black" x1="148.69" y1="148.69" x2="294.88" y2="148.69" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="294.88" y1="148.69" x2="352.5" y2="148.69" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="321.15" y1="309.28" x2="321.15" y2="163.09" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="148.69" y1="148.69" x2="250.2" y2="43.49" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-blue" data-name="circle" cx="148.69" cy="148.69" r="146.19" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

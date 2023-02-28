@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline xlarge" viewBox="0 0 100 18.93" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 13 -- Dotted blue and red lines</title>
+  <path class="stroke-dotted stroke-red" d="M0,16.43h42.03" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <path class="stroke-dotted stroke-blue" d="M0,2.5h100" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

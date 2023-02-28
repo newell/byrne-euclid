@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 47.42 30" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Three lines joined at a point</title>
+  <polyline class="stroke-black stroke-thin" points="44.92,27.5 23.71,2.5 2.5,27.5 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="23.71" y1="2.5" x2="23.71" y2="27.5" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

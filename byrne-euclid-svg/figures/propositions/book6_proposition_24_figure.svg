@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 341.08" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 24 figure</title>
+  <polyline class="stroke-black stroke-thin" data-name="corner-red" points="352.5,2.5 295.55,207.85 138.64,207.85 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polyline class="stroke-black stroke-thin" data-name="corner-all" points="102.39,338.58 259.3,338.58 295.55,207.85 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polyline class="stroke-black stroke-thin" data-name="corner-blue" points="2.5,338.58 102.39,338.58 138.64,207.85 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polygon class="fill-blue" data-name="triangle-blue" points="138.64,207.85 38.75,207.85 2.5,338.58 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="triangle-red" points="138.64,207.85 352.5,2.5 195.59,2.5 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="par" points="38.75,207.85 138.64,207.85 195.59,2.5 95.7,2.5 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="38.75" y1="207.85" x2="138.64" y2="207.85" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="38.75" y1="207.85" x2="2.5" y2="338.58" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="95.7" y1="2.5" x2="38.75" y2="207.85" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="95.7" y1="2.5" x2="38.75" y2="207.85" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="195.59" y1="2.5" x2="95.7" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-blue-dotted-trans" x1="352.5" y1="2.5" x2="195.59" y2="2.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="352.5" y1="2.5" x2="195.59" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

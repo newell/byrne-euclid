@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 344.71 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 30 figure</title>
+  <path class="fill-yellow" data-name="angle-yellow" d="M232.14,19.93l-21.63,52.91c0,0,28.58,0,57.16,0C267.66,48.93,252.98,28.46,232.14,19.93z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M182.76,140.72l-21.63,52.91c0,0,31.18,0,57.16,0C218.28,169.72,203.6,149.25,182.76,140.72z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M146.85,228.56l-21.63,52.91c0,0,34.98,0,57.16,0C182.37,257.56,167.68,237.09,146.85,228.56z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="2.5" y1="281.47" x2="342.21" y2="281.47" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="7.08" y1="72.84" x2="324.82" y2="72.84" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="19.89" y1="193.63" x2="324.82" y2="193.63" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="239.26" y1="2.5" x2="96.18" y2="352.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

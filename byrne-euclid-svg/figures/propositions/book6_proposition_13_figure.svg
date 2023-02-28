@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 186.56" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 13 figure</title>
+  <path class="fill-blue" data-name="angle" d="M248.92,17.69L206.82,45c8.95,13.77,24.46,22.88,42.11,22.88c10.07,0,19.44-2.97,27.3-8.07L248.92,17.69z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-black stroke-thin" data-name="line-black-thin" d="M2.5,177.5h350" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-thin" data-name="tick" x1="177.5" y1="169.25" x2="177.5" y2="185.56" style="stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-yellow-dotted-trans" x1="248.92" y1="17.69" x2="352.5" y2="177.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow stroke-dotted" data-name="line-yellow-dotted" x1="248.92" y1="17.69" x2="352.5" y2="177.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="2.5" y1="177.5" x2="248.92" y2="17.69" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-red" data-name="line-red" d="M248.92,177.5H352.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-blue" data-name="line-blue" d="M2.5,177.5h246.42" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="248.92" y1="17.69" x2="248.92" y2="177.41" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-red" data-name="curve" d="M352.5,177.5c0-96.65-78.35-175-175-175s-175,78.35-175,175" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

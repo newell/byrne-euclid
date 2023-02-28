@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 221.49" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 3 figure</title>
+  <rect class="fill-red" data-name="rect-red" x="2.5" y="2.5" width="216.49" height="216.49" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-yellow" data-name="rect-yellow" x="218.99" y="2.5" width="133.51" height="216.49" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="stroke-yellow" data-name="line-yellow" points="352.5,218.99 352.5,2.5 218.99,2.5 " style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polyline class="stroke-blue" data-name="line-blue-edge" points="2.5,218.99 2.5,2.5 218.99,2.5 218.99,218.99 " style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="218.99" y1="218.99" x2="352.5" y2="218.99" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="218.99" y1="218.99" x2="2.5" y2="218.99" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

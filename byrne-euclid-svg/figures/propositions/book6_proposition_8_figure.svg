@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 324.87 140.93" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 8 figure</title>
+  <polygon class="fill-yellow" data-name="triangle-yellow" points="243.25,0 0,140.93 243.25,140.93 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="triangle-red" points="243.25,0 324.87,140.93 243.25,140.93 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-trans" data-name="angle-trans" d="M303.73,104.43c-12.58,7.3-21.04,20.91-21.04,36.51h42.18L303.73,104.43z" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M243.25,0v38.7c7.07,0,13.69-1.9,19.39-5.21L243.25,0z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M209.77,19.4c6.7,11.54,19.18,19.3,33.48,19.3V0L209.77,19.4z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M243.25,102.24c-21.37,0-38.7,17.33-38.7,38.7c10.35,0,38.7,0,38.7,0V102.24z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-black" data-name="angle-outline" d="M303.73,104.43c-12.58,7.3-21.04,20.91-21.04,36.51h42.18L303.73,104.43z" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-blue stroke-blue" data-name="arc" d="M308.23,112.2l-4.5-7.77c-12.58,7.3-21.04,20.91-21.04,36.51h8.97C291.67,128.66,298.33,117.95,308.23,112.2z" style="fill:#0e638e;fill-opacity:1;stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <path class="fill-black" data-name="angle-black" d="M0,140.93h57.02c0-10.42-2.8-20.18-7.68-28.59L0,140.93z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="243.25" y1="0" x2="243.25" y2="140.93" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-trans ignore" data-name="mask" d="M243.9-4.48L-14.81,145.41h350L243.9-4.48z M243.25,0l81.62,140.93H0L243.25,0z" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

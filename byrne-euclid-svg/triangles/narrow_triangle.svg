@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 75 44.78" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 15 -- Narrow triangle</title>
+  <path class="fill-yellow" d="M37.5,26.52c-3.97,0-7.59,1.48-10.35,3.92l10.46,11.85h0.14l10.24-11.72C45.22,28.05,41.54,26.52,37.5,26.52z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" x1="2.5" y1="2.5" x2="72.5" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" x1="2.5" y1="2.5" x2="37.61" y2="42.28" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" x1="2.5" y1="2.5" x2="37.61" y2="42.28" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" x1="72.5" y1="2.5" x2="37.75" y2="42.28" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" x1="72.5" y1="2.5" x2="37.75" y2="42.28" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 42.08 71" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 47 -- Blue triangle and black angle</title>
+  <polyline class="fill-blue" points="12.43,20.96 41.08,20.98 41.03,71 12.42,20.96 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" d="M28.94,14.93c-0.9,1.81-1.4,3.85-1.4,6.01c0,0.01,0,0.02,0,0.03l13.54,0.01L28.94,14.93z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="41.08" y1="20.98" x2="1" y2="1" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="1" y1="1" x2="12.42" y2="20.96" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

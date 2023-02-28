@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332.26 228.35" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 40 figure</title>
+  <polyline class="fill-blue" data-name="tri-blue" points="202.81,54.22 204.82,15.5 329.76,225.85 202.88,54.23 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-red" data-name="tri-red" points="202.81,54.22 193.9,225.85 329.76,225.85 202.88,54.23 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="tri-yellow" points="139.63,225.85 2.5,225.85 101.19,54.23 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="329.76" y1="225.85" x2="204.82" y2="15.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-trans" x1="193.9" y1="225.85" x2="205.49" y2="2.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="193.9" y1="225.85" x2="205.49" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="101.19" y1="54.23" x2="202.88" y2="54.23" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="101.19" y1="54.23" x2="204.82" y2="15.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-right" x1="193.9" y1="225.85" x2="329.76" y2="225.85" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="139.63" y1="225.85" x2="193.9" y2="225.85" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-left" x1="2.5" y1="225.85" x2="139.63" y2="225.85" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polygon class="fill-trans ignore" data-name="mask" points="91.74,41.09 -20.24,235.84 -3.24,235.84 108.74,41.09 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

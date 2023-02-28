@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 70 72" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 45 -- Triangles</title>
+  <polygon class="fill-red" points="54.11,22.11 29.44,43.22 28.78,1 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" points="69,71 29.44,43.22 54.11,22.11 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-blue" points="29.44,43.22 1,56.56 69,71 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-thin stroke-blue" x1="29.44" y1="43.22" x2="1" y2="56.56" style="stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-thin stroke-blue" x1="1" y1="56.56" x2="69" y2="71" style="stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-thin stroke-yellow" x1="54.11" y1="22.11" x2="69" y2="71" style="stroke:#fac22b;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-thin stroke-red" x1="28.78" y1="1" x2="54.11" y2="22.11" style="stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-thin stroke-red" x1="29.44" y1="43.22" x2="28.78" y2="1" style="stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-thin stroke-blue" x1="29.44" y1="43.22" x2="54.11" y2="22.11" style="stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-thin stroke-red" x1="69" y1="71" x2="29.44" y2="43.22" style="stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

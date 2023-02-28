@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 101.79 77.91" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 35 -- Left triangle</title>
+  <polygon class="fill-yellow" points="2.5,2.5 33.95,75.41 101.79,2.5 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" x1="2.5" y1="2.5" x2="33.95" y2="75.41" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polyline class="fill-trans ignore" points="126.47,2.5 45.01,90.05 20.33,90.05 101.79,2.5 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans ignore" x="-23.53" y="-25.91" width="142.47" height="28.41" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

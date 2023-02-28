@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline xlarge" viewBox="0 0 100 36.66" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 24 -- Blue, red, and yellow triangle</title>
+  <polygon class="fill-blue" points="38.9,36.66 24.05,22.4 0,36.66 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" points="38.9,36.66 100,36.66 76.68,14.26 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" points="24.05,22.4 38.9,36.66 76.68,14.26 61.83,0 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

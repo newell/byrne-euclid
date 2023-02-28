@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 235.34" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 43 figure</title>
+  <polygon class="fill-red" data-name="tri-red-top" points="271.98,235.34 142.67,78.45 323.99,78.45 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="tri-red-bottom" points="90.66,235.34 142.67,78.45 271.98,235.34 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-blue" data-name="par-blue" points="350,0 323.99,78.45 142.67,78.45 168.68,0 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-black" data-name="par-black" points="0,235.34 90.66,235.34 142.67,78.45 52.02,78.45 " style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="tri-yellow-bottom" points="52.02,78.45 78.02,0 142.67,78.45 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="tri-yellow-top" points="168.68,0 78.02,0 142.67,78.45 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

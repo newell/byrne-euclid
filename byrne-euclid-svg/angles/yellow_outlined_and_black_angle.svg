@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base" viewBox="0 0 72 55.47" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 12 -- Yellow outlined and black angle</title>
+  <path class="stroke-black stroke-thin" d="M1,3.62l16.53,50.86l31.43-43.26" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-yellow" d="M1,3.62l2.86,8.81c4.3-1.4,8.89-2.16,13.66-2.16c9.71,0,18.69,3.14,25.98,8.45l5.44-7.49C40.13,4.8,29.27,1,17.53,1C11.76,1,6.21,1.92,1,3.62z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-yellow stroke-thin" d="M1,3.62l2.86,8.81c4.3-1.4,8.89-2.16,13.66-2.16c9.71,0,18.69,3.14,25.98,8.45l5.44-7.49C40.13,4.8,29.27,1,17.53,1C11.76,1,6.21,1.92,1,3.62z" style="stroke:#fac22b;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-black" d="M48.95,11.22L17.53,54.47H71C71,36.69,62.31,20.94,48.95,11.22z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-black stroke-thin" d="M48.95,11.22L17.53,54.47H71C71,36.69,62.31,20.94,48.95,11.22z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

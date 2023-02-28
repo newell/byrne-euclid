@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 42.56 74.48" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop B -- Yellow, black, and blue triangle</title>
+  <line class="stroke-yellow stroke-dotted" x1="11.27" y1="42.93" x2="2.39" y2="72.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" x1="2.39" y1="72.5" x2="40.06" y2="43.56" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" x1="40.06" y1="43.56" x2="23.39" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" x1="23.39" y1="2.5" x2="11.27" y2="42.93" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

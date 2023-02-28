@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 247.33" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 14 figure</title>
+  <path class="fill-red" data-name="angle-red" d="M223.32,186.98c3.5-7.59,5.47-16.03,5.47-24.93h-59.57C169.22,162.04,200.55,176.48,223.32,186.98z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M203.17,113.11c-14.44,20.81-33.95,48.94-33.95,48.94h59.57C228.79,141.76,218.65,123.86,203.17,113.11z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M203.17,113.11c-9.63-6.69-21.33-10.63-33.95-10.63c-32.9,0-59.57,26.67-59.57,59.57h59.57C169.22,162.04,188.73,133.92,203.17,113.11z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="2.5" y1="162.04" x2="169.22" y2="162.04" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="352.5" y1="162.04" x2="169.22" y2="162.04" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="279.9" y1="2.5" x2="169.22" y2="162.04" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="348.83" y1="244.83" x2="169.22" y2="162.04" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

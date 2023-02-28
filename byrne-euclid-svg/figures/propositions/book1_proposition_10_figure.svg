@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 308.11" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 10 figure</title>
+  <path class="fill-blue" data-name="angle-blue" d="M126.3,91.18c15.06,8.72,32.54,13.73,51.2,13.73V2.5L126.3,91.18z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M177.5,2.5v102.41c18.66,0,36.13-5.01,51.2-13.73L177.5,2.5z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="177.5" y1="2.5" x2="2.5" y2="305.61" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="352.5" y1="305.61" x2="177.5" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="177.5" y1="305.61" x2="352.5" y2="305.61" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="177.5" y1="2.5" x2="177.5" y2="305.61" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="2.5" y1="305.61" x2="177.5" y2="305.61" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

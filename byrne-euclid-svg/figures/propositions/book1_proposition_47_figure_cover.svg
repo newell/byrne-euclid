@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288.47 352.5" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 47 figure</title>
+  <polyline class="fill-yellow" data-name="rect-yellow" points="95.01,190.85 63.4,190.83 63.26,349.86 63.26,350 95.01,350 95.01,349.86 95.01,191.78 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="trap-red" points="285.97,63.53 158.54,0 95.01,127.43 137.34,148.54 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="tri-red" points="285.97,63.53 222.43,190.96 137.34,148.54 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-top" d="M222.43,190.96l19.31-38.73c-5.79-2.89-12.32-4.53-19.24-4.53c-16.95,0-31.62,9.79-38.66,24.02C200.14,179.85,222.43,190.96,222.43,190.96z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-blue" data-name="trap-blue" points="95.01,190.85 131.34,190.88 131.31,190.9 222.3,350 95.01,350 95.01,349.86 95.01,191.78 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-blue" data-name="tri-blue" points="131.34,190.88 222.43,190.96 222.3,350 131.31,190.9 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-black" data-name="square-black" x="12.08" y="107.9" transform="matrix(0.4462 -0.8949 0.8949 0.4462 -101.9575 121.8848)" width="70.84" height="70.84" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-bottom" d="M222.4,233.95l0.04-42.99c0,0-26.05-0.02-43.05-0.04C179.44,214.66,198.66,233.89,222.4,233.95z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M183.84,171.72c-2.85,5.76-4.46,12.24-4.46,19.11c0,0.03,0,0.07,0,0.1l43.05,0.04L183.84,171.72z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="222.43" y1="190.96" x2="95.01" y2="127.43" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="63.4" y1="190.83" x2="222.43" y2="190.96" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="63.4" y1="190.83" x2="95.01" y2="127.43" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-trans" x1="95.01" y1="127.43" x2="95.01" y2="349.86" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="95.01" y1="127.43" x2="95.01" y2="349.86" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-blue-dotted-trans" x1="285.97" y1="63.53" x2="222.43" y2="190.96" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="285.97" y1="63.53" x2="222.43" y2="190.96" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="222.43" y1="190.96" x2="222.3" y2="350" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="222.43" y1="190.96" x2="222.3" y2="350" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-bottom" x1="95.01" y1="127.43" x2="222.3" y2="350" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-top" x1="63.4" y1="190.83" x2="285.97" y2="63.53" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polyline class="fill-trans ignore" data-name="mask" points="0,159.22 63.4,190.83 63.26,349.86 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-trans ignore" data-name="mask" points="31.61,95.82 95.01,127.43 158.54,0 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans ignore" data-name="mask" x="58.98" y="350" width="171.59" height="12.83" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-trans ignore" data-name="mask" points="158.54,-20 293.89,47.48 293.89,67.48 158.54,0 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

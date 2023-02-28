@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352.5 372.71" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 17 figure</title>
+  <rect class="fill-red" data-name="rect-red" y="61.8" width="177.81" height="177.81" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-top" x1="177.81" y1="61.8" x2="177.81" y2="239.61" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow-top" x1="177.81" y1="239.61" x2="0" y2="239.61" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <rect class="fill-yellow" data-name="rect-yellow" x="201.69" width="148.31" height="308.57" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-top" x1="350" y1="0" x2="350" y2="308.57" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-top" x1="350" y1="308.57" x2="201.69" y2="308.57" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-bottom" x1="180.81" y1="342.29" x2="3" y2="342.29" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-bottom" x1="105.46" y1="356.25" x2="3" y2="356.25" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-bottom" x1="311.57" y1="328.33" x2="3" y2="328.33" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow-bottom" x1="180.81" y1="370.21" x2="3" y2="370.21" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <rect class="fill-trans ignore" data-name="mask" y="42.64" width="184.69" height="19.15" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans ignore" data-name="mask" x="184.69" width="17" height="318.57" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 307.88" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 13 Figure 2</title>
+  <line class="stroke-red" data-name="line-red" x1="177.51" y1="4.33" x2="177.51" y2="303.56" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-top" x1="164.53" y1="126.06" x2="190.49" y2="126.06" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-bottom" x1="164.53" y1="181.83" x2="190.49" y2="181.83" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-blue" data-name="circle-blue" d="M177.51,303.56c7.67,1.2,15.54,1.82,23.55,1.82c83.64,0,151.44-67.8,151.44-151.44S284.7,2.5,201.06,2.5c-8.01,0-15.88,0.62-23.55,1.82l0,0c-7.68-1.2-15.55-1.82-23.57-1.82C70.3,2.5,2.5,70.3,2.5,153.94s67.8,151.44,151.44,151.44C161.96,305.38,169.83,304.76,177.51,303.56L177.51,303.56z" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-black" data-name="circle-black" d="M177.51,303.56c-72.46-11.31-127.89-73.99-127.89-149.62c0-75.63,55.44-138.31,127.89-149.62l0,0c72.45,11.32,127.87,74,127.87,149.62C305.38,229.56,249.96,292.24,177.51,303.56L177.51,303.56z" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

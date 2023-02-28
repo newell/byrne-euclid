@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 115.32" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Definition 4 figure</title>
+  <polygon class="fill-yellow" points="89.79,0 0,114.32 163.88,114.32 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans stroke-dotted-thin" x1="89.79" y1="0" x2="89.79" y2="114.32" style="stroke:#fcf3d9;stroke-width:2;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:3;fill-opacity:0;"/>
+  <polygon class="fill-blue" points="360.79,8.41 277.95,8.41 185.26,114.32 268.11,114.32 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans stroke-thin" x1="277.95" y1="114.32" x2="277.95" y2="8.41" style="stroke:#fcf3d9;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted-thin" x1="277.95" y1="114.32" x2="277.95" y2="8.41" style="stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:3;fill-opacity:0;"/>
+  <polyline class="stroke-blue stroke-dotted-thin" points="360.79,8.41 360.79,114.32 268.11,114.32 " style="stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:3;fill-opacity:0;"/>
+  <polygon class="fill-black" points="595.88,0 392.74,114.32 498.27,114.32 " style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="stroke-black stroke-dotted-thin" points="595.88,0 595.88,114.32 498.27,114.32 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:3;fill-opacity:0;"/>
+  <polygon class="fill-red" points="692.36,3.11 615.08,57.37 654.41,114.32 713.03,114.32 750,60.51 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans stroke-dotted-thin" x1="692.36" y1="3.11" x2="692.36" y2="114.32" style="stroke:#fcf3d9;stroke-width:2;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:3;fill-opacity:0;"/>
+</svg>

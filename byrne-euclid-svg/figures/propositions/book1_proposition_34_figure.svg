@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 282.35" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 34 figure</title>
+  <path class="fill-blue" data-name="angle-blue" d="M130.39,77.35c22.92-16.95,37.79-44.16,37.79-74.85H75.15L130.39,77.35z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-top" d="M51.57,92.51c7.53,1.97,15.43,3.02,23.58,3.02c20.69,0,39.79-6.76,55.24-18.18L75.15,2.5L51.57,92.51z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-bottom" d="M279.85,279.85l23.58-90.01c-7.53-1.97-15.43-3.02-23.58-3.02c-20.69,0-39.79,6.76-55.24,18.18L279.85,279.85z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M224.61,205.01c-22.92,16.95-37.79,44.16-37.79,74.85h93.03L224.61,205.01z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-bottom" d="M26.08,189.84L2.5,279.85h93.03C95.53,236.62,66.04,200.28,26.08,189.84z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-top" d="M328.92,92.51L352.5,2.5h-93.03C259.47,45.73,288.96,82.07,328.92,92.51z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="2.5" y1="279.85" x2="279.85" y2="279.85" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="2.5" y1="279.85" x2="279.85" y2="279.85" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="75.15" y1="2.5" x2="2.5" y2="279.85" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="279.85" y1="279.85" x2="352.5" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="352.5" y1="2.5" x2="75.15" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="75.15" y1="2.5" x2="279.85" y2="279.85" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

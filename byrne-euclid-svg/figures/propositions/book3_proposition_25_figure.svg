@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 319.31" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 25 figure</title>
+  <line class="stroke-yellow" data-name="line-yellow" x1="100.74" y1="90.67" x2="177.5" y2="177.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="177.5" y1="177.5" x2="265.75" y2="131.59" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="199.29" y1="3.85" x2="332.19" y2="259.4" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="199.29" y1="3.85" x2="2.5" y2="177.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-blue" data-name="curve" d="M34.21,277.99C14.23,249.55,2.5,214.9,2.5,177.5c0-96.65,78.35-175,175-175s175,78.35,175,175c0,56.84-27.09,107.34-69.07,139.31" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

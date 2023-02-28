@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 105 73.81" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 14 -- Right triangle</title>
+  <path class="fill-yellow" d="M18.25,49.63L2.5,71.31h26.79C29.29,62.39,24.94,54.51,18.25,49.63z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans" x1="2.5" y1="71.31" x2="52.5" y2="2.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" x1="2.5" y1="71.31" x2="52.5" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" x1="102.5" y1="71.31" x2="52.5" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" x1="2.5" y1="71.31" x2="102.5" y2="71.31" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

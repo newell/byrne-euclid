@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 182.73" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 36 figure 2</title>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="178.34" y1="73.06" x2="45.68" y2="15.13" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="352.5" y1="149.12" x2="178.34" y2="73.06" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="178.34" y1="73.06" x2="91.37" y2="91.37" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-yellow stroke-dotted" data-name="line-yellow-dotted" x1="45.68" y1="15.13" x2="91.37" y2="91.37" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <circle class="stroke-black" data-name="circle" cx="91.37" cy="91.37" r="88.87" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="91.37" y1="91.37" x2="352.5" y2="149.12" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="91.37" y1="91.37" x2="140.2" y2="17.11" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="140.2" y1="17.11" x2="352.5" y2="149.12" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

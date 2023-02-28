@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline xlarge base" viewBox="0 0 105 52.45" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 23 -- Red segment</title>
+  <path class="stroke-red" d="M2.5,49.95C3.86,23.52,25.73,2.5,52.5,2.5s48.64,21.02,50,47.45" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" x1="2.5" y1="49.95" x2="102.5" y2="49.95" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

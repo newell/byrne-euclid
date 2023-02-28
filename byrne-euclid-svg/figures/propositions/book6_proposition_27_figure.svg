@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 177.5" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 27 figure</title>
+  <rect class="fill-red" data-name="rect-red" width="175" height="175" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-yellow" data-name="rect-yellow" x="175" y="111.19" width="175" height="63.81" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-blue" data-name="rect-blue" x="64.5" y="111.19" width="110.5" height="63.81" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="64.5" y1="175" x2="0" y2="175" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="175" y1="175" x2="64.5" y2="175" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="350" y1="175" x2="175" y2="175" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

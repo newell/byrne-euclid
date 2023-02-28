@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 53.98 105" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 5 -- Triangle with red angle</title>
+  <path class="fill-red" d="M29.14,81.03c0-10.91-6.56-20.28-15.94-24.4L2.5,81.03l24.4,10.7C28.34,88.45,29.14,84.83,29.14,81.03z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" x1="51.48" y1="102.5" x2="2.5" y2="81.03" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" x1="51.48" y1="102.5" x2="36.92" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="2.5" y1="81.03" x2="36.92" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

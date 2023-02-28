@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 214.3" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 1 figure</title>
+  <path class="fill-yellow" data-name="triangles-yellow" d="M162.12,0L350,211.8h-37.7L162.12,0z M237.53,211.8h37.7L162.12,0L237.53,211.8z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-blue" data-name="triangle-blue" points="162.12,211.8 162.12,0 199.83,211.8 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="triangle-red" points="162.12,211.8 162.12,0 135.1,211.8 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="triangles-black" d="M27.02,211.8H0L162.12,0L27.02,211.8z M162.12,0l-54.04,211.8h27.02L162.12,0z M162.12,0L54.04,211.8h27.02L162.12,0z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-right" x1="350" y1="211.8" x2="199.83" y2="211.8" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-left" x1="0" y1="211.8" x2="135.1" y2="211.8" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="162.12" y1="211.8" x2="199.83" y2="211.8" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="135.1" y1="211.8" x2="162.12" y2="211.8" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

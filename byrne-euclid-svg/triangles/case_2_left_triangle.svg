@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 75 73.91" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 26 -- Case 2: Left triangle</title>
+  <line class="stroke-red" x1="27.17" y1="2.5" x2="2.5" y2="71.41" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" x1="72.5" y1="71.41" x2="27.17" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="2.5" y1="71.41" x2="72.5" y2="71.41" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

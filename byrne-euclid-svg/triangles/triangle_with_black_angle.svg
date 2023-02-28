@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 105 99.16" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 5 -- Triangle with black angle</title>
+  <path class="fill-black" d="M43.77,34.44c13.08,0,24.32-7.86,29.26-19.12L43.77,2.5l0,0L30.95,31.76C34.87,33.48,39.21,34.44,43.77,34.44z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" x1="102.5" y1="28.24" x2="43.77" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" x1="102.5" y1="28.24" x2="2.5" y2="96.66" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" x1="2.5" y1="96.66" x2="43.77" y2="2.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" x1="2.5" y1="96.66" x2="43.77" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

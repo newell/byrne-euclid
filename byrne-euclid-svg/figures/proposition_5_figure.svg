@@ -1,0 +1,22 @@
+<svg viewBox="0 0 366.1 386.7" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" role="img">
+    <title id="svg24">Proposition 5 figure</title>
+    <path class="fill-red" data-name="angle-red-right" d="M344.66,381.7l-26.53-57.78c-12.03,5.53-22.02,14.7-28.59,26.11L344.66,381.7z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"></path>
+    <path class="fill-red" data-name="angle-red-left" d="M78.36,350.03c-6.57-11.4-16.56-20.57-28.59-26.11L23.23,381.7L78.36,350.03z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"></path>
+    <path class="fill-black" data-name="angle-black" d="M166.82,69.01c5.22,2.4,11.01,3.75,17.13,3.75s11.92-1.35,17.13-3.75L183.95,31.7L166.82,69.01z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"></path>
+    <path class="fill-blue" data-name="angle-blue-right" d="M260.43,198.26c-14.12,6.49-23.92,20.75-23.92,37.31h41.05L260.43,198.26z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"></path>
+    <path class="fill-blue" data-name="angle-blue-left" d="M107.47,198.26l-17.13,37.31h41.05C131.39,219.01,121.58,204.75,107.47,198.26z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"></path>
+    <path class="fill-yellow" data-name="angle-yellow-left" d="M125.93,256.02c3.47-6.02,5.46-13,5.46-20.45H90.34L125.93,256.02z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"></path>
+    <path class="fill-yellow" data-name="angle-yellow-right" d="M277.56,235.57h-41.05c0,7.45,1.99,14.43,5.46,20.45L277.56,235.57z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"></path>
+    <line class="stroke-blue" data-name="line-blue-left" x1="23.23" y1="381.7" x2="277.56" y2="235.57" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"></line>
+    <line class="stroke-blue" data-name="line-blue-right" x1="90.34" y1="235.57" x2="344.66" y2="381.7" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"></line>
+    <line class="stroke-red" data-name="line-red-left" x1="183.95" y1="31.7" x2="90.34" y2="235.57" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"></line>
+    <line class="stroke-yellow" data-name="line-yellow-left" x1="90.34" y1="235.57" x2="23.23" y2="381.7" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"></line>
+    <line class="stroke-red" data-name="line-red-right" x1="277.56" y1="235.57" x2="183.95" y2="31.7" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"></line>
+    <line class="stroke-yellow" data-name="line-yellow-right" x1="344.66" y1="381.7" x2="277.56" y2="235.57" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"></line>
+    <line class="stroke-black" data-name="line-black" x1="90.34" y1="235.57" x2="277.56" y2="235.57" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"></line>
+    <text data-name="a" transform="matrix(1 0 0 1 177.829 18.7405)">A</text>
+    <text data-name="b" transform="matrix(1 0 0 1 65.4148 235.5675)">B</text>
+    <text data-name="c" transform="matrix(1 0 0 1 287.2947 235.5675)">C</text>
+    <text data-name="d" transform="matrix(1 0 0 1 1.831055e-04 381.6981)">D</text>
+    <text data-name="e" transform="matrix(1 0 0 1 354.2614 381.6981)">E</text>
+</svg>

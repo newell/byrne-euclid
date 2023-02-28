@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352.5 191.53" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 44 figure</title>
+  <polyline class="fill-blue" data-name="par-blue" points="296.18,104.79 251.85,189.03 151.92,189.03 196.27,104.74 296.09,104.74 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M168.88,156.8l-16.96,32.23c0,0,18.31,0,36.42,0C188.34,175.04,180.45,162.9,168.88,156.8z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="par-yellow" points="196.27,104.74 117.66,104.74 171.46,2.5 250.07,2.5 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M134.62,72.51l-16.96,32.23c0,0,18.31,0,36.42,0C154.08,90.76,146.19,78.61,134.62,72.51z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M179.31,136.97c8.01-15.22,16.96-32.23,16.96-32.23h-36.42C159.85,118.73,167.74,130.87,179.31,136.97z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M318.29,136.52l-27.63,52.51c0,0,29.83,0,59.34,0C350,166.24,337.14,146.46,318.29,136.52z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="tri-red" points="0,2.5 20.37,104.74 160.77,2.5 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-bottom" x1="251.85" y1="189.03" x2="296.18" y2="104.79" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin-left" x1="117.66" y1="104.74" x2="73.31" y2="189.03" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="171.46" y1="2.5" x2="117.66" y2="104.74" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="171.46" y1="2.5" x2="117.66" y2="104.74" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-trans" x1="117.66" y1="104.74" x2="196.27" y2="104.74" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="117.66" y1="104.74" x2="196.27" y2="104.74" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-blue-dotted-trans" x1="250.07" y1="2.5" x2="196.27" y2="104.74" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="250.07" y1="2.5" x2="196.27" y2="104.74" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin-middle" x1="73.31" y1="189.03" x2="196.27" y2="104.74" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="350" y1="2.5" x2="196.27" y2="104.74" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-yellow-dotted-trans" x1="73.31" y1="189.03" x2="251.85" y2="189.03" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow stroke-dotted" data-name="line-yellow-dotted" x1="73.31" y1="189.03" x2="251.85" y2="189.03" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-top" x1="250.07" y1="2.5" x2="171.46" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin-right" x1="350" y1="2.5" x2="250.07" y2="2.5" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="296.18" y1="104.79" x2="350" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="196.27" y1="104.74" x2="296.09" y2="104.74" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

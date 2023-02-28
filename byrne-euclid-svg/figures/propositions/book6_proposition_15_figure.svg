@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 244.69" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 15 figure</title>
+  <polygon class="fill-blue" data-name="triangle-blue" points="88.96,2.5 326.86,2.5 196.79,98.62 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="triangle-red" points="88.96,2.5 2.5,242.19 196.79,98.62 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="triangle-yellow" points="352.5,237.42 326.86,2.5 196.79,98.62 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M240.61,137.68c9.26-10.38,14.89-24.06,14.89-39.06c0-13.07-4.28-25.14-11.5-34.89c-21.84,16.14-47.22,34.89-47.22,34.89L240.61,137.68z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M152.97,59.56c-9.26,10.38-14.89,24.06-14.89,39.06c0,13.07,4.27,25.14,11.5,34.89c17.37-12.84,47.22-34.89,47.22-34.89L152.97,59.56z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="196.79" y1="98.62" x2="352.5" y2="237.42" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="88.96" y1="2.5" x2="196.79" y2="98.62" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="196.79" y1="98.62" x2="2.5" y2="242.19" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="326.86" y1="2.5" x2="196.79" y2="98.62" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-trans" x1="88.96" y1="2.5" x2="326.86" y2="2.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="88.96" y1="2.5" x2="326.86" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

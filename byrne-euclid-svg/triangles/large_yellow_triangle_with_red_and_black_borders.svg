@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 62.96 92.79" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 37 -- Large yellow triangle with red and black borders</title>
+  <polygon class="fill-yellow" points="19.41,2.5 2.5,90.29 60.46,90.29 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" x1="19.41" y1="2.5" x2="60.46" y2="90.29" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" x1="60.46" y1="90.29" x2="2.5" y2="90.29" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polyline class="fill-trans ignore" points="-26.92,96.77 -7.66,-3.23 20.51,-3.23 1.25,96.77 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 70 37.2" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 15 -- Red and yellow angles</title>
+  <path class="fill-yellow" d="M34.73,0c-9.36,0-17.9,3.49-24.41,9.24L35,37.2h0.33L59.49,9.54C52.94,3.61,44.26,0,34.73,0z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M35,37.2L10.32,9.24C5.71,13.31,2.12,18.52,0,24.42L35,37.2z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M35,37.2L59.68,9.24c4.61,4.07,8.2,9.28,10.32,15.19L35,37.2z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

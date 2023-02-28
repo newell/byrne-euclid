@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 71 36" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 32 -- Outlined, blue and yellow angles</title>
+  <path class="fill-black" d="M36,7.37V0C16.67,0,1,15.67,1,35h7.37C8.37,19.74,20.74,7.37,36,7.37z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black" x1="36" y1="35" x2="1" y2="35" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-blue" d="M50.57,3.18C46.13,1.14,41.2,0,36,0v35L50.57,3.18z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" d="M50.57,3.18L36,35h35C71,20.87,62.62,8.71,50.57,3.18z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans" x="-3.68" y="35" width="76.18" height="3.34" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans" x="-3.68" y="22.22" width="4.68" height="14.71" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 70 74.94" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 47 -- Yellow and blue rectangles</title>
+  <polyline class="fill-yellow" points="13.96,2.51 0.06,2.5 0,72.44 0,72.5 13.96,72.5 13.96,72.44 13.96,2.92 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-blue" points="13.96,2.92 13.96,72.44 13.96,72.5 69.94,72.5 70,2.56 13.96,2.51 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

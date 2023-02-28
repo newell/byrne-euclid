@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352.08 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 6 figure</title>
+  <path class="fill-yellow" data-name="angle-yellow" d="M39.06,278.76L2.5,352.5h82.3C84.8,320.18,66.17,292.23,39.06,278.76z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M313.02,278.76c-27.11,13.47-45.74,41.42-45.74,73.74h82.3L313.02,278.76z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="349.58" y1="352.5" x2="131.2" y2="92.93" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="131.2" y1="92.93" x2="2.5" y2="352.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="176.04" y1="2.5" x2="131.2" y2="92.93" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="349.58" y1="352.5" x2="176.04" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="2.5" y1="352.5" x2="349.58" y2="352.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

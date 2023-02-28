@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 278.17" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 3 figure</title>
+  <path class="fill-blue" data-name="angle-blue-tri-left" d="M126.82,35.03c1.93,0,3.82-0.19,5.65-0.56l-5.65-28.26l-3.45,28.61C124.51,34.96,125.66,35.03,126.82,35.03z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-tri-left" d="M126.82,6.22l-12.21,26.11c2.72,1.27,5.66,2.13,8.76,2.5L126.82,6.22z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-tri-left" d="M126.82,6.22L107.08,27.2c2.21,2.08,4.75,3.82,7.53,5.12L126.82,6.22z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-left" d="M55.15,82.41c-4.27-4.02-10.03-6.49-16.36-6.49c-13.19,0-23.88,10.69-23.88,23.88h23.88L55.15,82.41z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-left" d="M145.54,75.92c-1.6,0-3.17,0.16-4.68,0.46l4.68,23.42h23.88C169.42,86.61,158.73,75.92,145.54,75.92z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-left" d="M55.15,82.41L38.79,99.8h23.88C62.67,92.95,59.78,86.77,55.15,82.41z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="arc-left" d="M141.51,79.66l-0.65-3.27c-10.95,2.18-19.2,11.83-19.2,23.42H125C125,89.84,132.1,81.53,141.51,79.66z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-black stroke-thin" data-name="angle-outline-left" d="M140.86,76.38c-10.95,2.18-19.2,11.83-19.2,23.42h23.88L140.86,76.38z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="38.79" y1="99.8" x2="126.82" y2="6.22" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="145.54" y1="99.8" x2="126.82" y2="6.22" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="2.5" y1="99.8" x2="184.5" y2="99.8" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-right" d="M277.75,187.48c0-1.55-0.12-3.07-0.32-4.57l-32.5,4.57v32.82C263.05,220.3,277.75,205.61,277.75,187.48z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-right" d="M222.13,163.88c-6.18,5.97-10.03,14.33-10.03,23.6c0,18.13,14.69,32.82,32.82,32.82v-32.82L222.13,163.88z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-tri-right" d="M292.86,44.07c1.64,0.2,3.31,0.31,5.01,0.31c2.81,0,5.56-0.28,8.21-0.81L297.87,2.5L292.86,44.07z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-tri-right" d="M297.87,2.5l-17.74,37.93c3.95,1.85,8.23,3.1,12.73,3.63L297.87,2.5z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-tri-right" d="M297.87,2.5l-28.68,30.49c3.21,3.02,6.9,5.55,10.94,7.44L297.87,2.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-black stroke-thin" data-name="angle-outline-right" d="M345.33,239.82c-16.76,3.33-29.39,18.11-29.39,35.85h36.56L345.33,239.82z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-right" d="M69.42,245.36l-28.51,30.31h41.63C82.53,263.72,77.49,252.95,69.42,245.36z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-right-top" d="M159.47,149.63c6.32,6.01,14.86,9.71,24.27,9.71c9.51,0,18.12-3.77,24.46-9.89l-24.53-25.41L159.47,149.63z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-right-bottom" d="M244.93,240.45c-19.45,0-35.22,15.77-35.22,35.22h35.22V240.45z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="arc-right" d="M346.27,244.53l-0.94-4.71c-16.76,3.33-29.39,18.11-29.39,35.85h4.8C320.75,260.26,331.72,247.42,346.27,244.53z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-quad-4" x1="40.91" y1="275.67" x2="183.6" y2="123.98" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-quad-3" x1="40.91" y1="275.67" x2="244.93" y2="275.67" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-quad-2" x1="244.93" y1="187.48" x2="244.93" y2="275.67" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="40.91" y1="275.67" x2="297.87" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="352.5" y1="275.67" x2="297.87" y2="2.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="352.5" y1="275.67" x2="297.87" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="244.93" y1="187.48" x2="244.93" y2="275.67" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polygon class="fill-trans ignore" data-name="mask" points="222.13,163.88 244.93,187.48 277.42,182.91 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="244.93" y1="187.48" x2="332.26" y2="175.21" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-quad-1" x1="244.93" y1="187.48" x2="183.67" y2="124.04" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="40.91" y1="275.67" x2="352.5" y2="275.67" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-red" data-name="circle" cx="244.93" cy="187.48" r="88.19" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

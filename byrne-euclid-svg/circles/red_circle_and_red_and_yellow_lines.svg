@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 75 75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 2 -- Red circle and red and yellow lines</title>
+  <line class="stroke-red" x1="37.5" y1="37.5" x2="42.19" y2="50.83" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" x1="49.12" y1="70.52" x2="42.19" y2="50.83" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-red" cx="37.5" cy="37.5" r="35" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

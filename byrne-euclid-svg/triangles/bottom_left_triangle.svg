@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 105 66.9" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 4 -- Bottom left triangle</title>
+  <path class="fill-yellow" d="M2.5,64.4h40.13c0-7.75-2.2-14.99-6-21.12L2.5,64.4z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M102.5,36.7c-15.3,0-27.7,12.4-27.7,27.7h27.7V36.7z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans" x1="102.5" y1="2.5" x2="2.5" y2="64.4" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" x1="102.5" y1="2.5" x2="2.5" y2="64.4" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" x1="102.5" y1="2.5" x2="102.5" y2="64.4" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" x1="102.5" y1="2.5" x2="102.5" y2="64.4" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" x1="2.5" y1="64.4" x2="102.5" y2="64.4" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 75 66.12" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 21 -- Triangle</title>
+  <line class="stroke-red stroke-dotted" x1="72.5" y1="63.62" x2="57.81" y2="26.08" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" x1="2.5" y1="63.62" x2="72.5" y2="63.62" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" x1="57.81" y1="26.08" x2="48.57" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="48.57" y1="2.5" x2="2.5" y2="63.62" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 75 43.14" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 3 -- Right triangle</title>
+  <line class="stroke-blue" x1="72.46" y1="40.95" x2="2.46" y2="2.81" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" x1="2.46" y1="2.81" x2="2.46" y2="40.95" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" x1="2.46" y1="40.95" x2="72.46" y2="40.95" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

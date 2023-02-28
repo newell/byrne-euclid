@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 352" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 33 figure</title>
+  <circle class="stroke-red stroke-thin" data-name="circle-red" cx="176" cy="176" r="175" style="stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-red stroke-thin" data-name="circle-red" cx="176" cy="176" r="170.19" style="stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-yellow" d="M50.31,54.23L66.16,155.9c5.69-0.88,11.23-2.23,16.57-4L50.31,54.23z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="stroke-black stroke-thin" points="148.09,348.79 50.31,54.23 93.36,330.29 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-black stroke-thin" d="M230.89,225.73c5.47-6.04,9.96-12.98,13.21-20.57" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="211.71" y1="240.89" x2="258.07" y2="325.12" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="188.64" y1="248.97" x2="205.05" y2="343.71" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="164.19" y1="249.12" x2="148.86" y2="344.03" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="176" y1="176" x2="95.63" y2="326.06" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-yellow" d="M176,176l35.71,64.89c7.21-3.98,13.69-9.11,19.18-15.17L176,176z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M176,176l12.64,72.97c8.24-1.42,16.01-4.18,23.08-8.08L176,176z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M176,250.07c4.31,0,8.53-0.39,12.64-1.1L176,176l-11.81,73.12C168.04,249.74,171.98,250.07,176,250.07z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M176,176l-34.97,65.3c7.11,3.81,14.91,6.5,23.17,7.82L176,176z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red stroke-red stroke-thin" data-name="arc-red-thin" d="M205.87,348.45l-0.82-4.74c-9.44,1.62-19.14,2.48-29.05,2.48c-9.24,0-18.3-0.75-27.14-2.16l-0.77,4.75c9.09,1.46,18.41,2.22,27.9,2.22C186.18,351,196.16,350.12,205.87,348.45z" style="fill:#d42a20;fill-opacity:1;stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <path class="fill-blue stroke-blue stroke-thin" data-name="arc-blue-thin" d="M258.07,325.12c-16.24,8.96-34.09,15.33-53.02,18.59l0.82,4.74c19.46-3.35,37.82-9.91,54.52-19.11L258.07,325.12z" style="fill:#0e638e;fill-opacity:1;stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <path class="fill-yellow stroke-yellow stroke-thin" d="M305.69,293.49l-3.56-3.23c-12.61,13.91-27.5,25.72-44.06,34.86l2.32,4.21C277.42,319.94,292.72,307.8,305.69,293.49z" style="fill:#fac22b;fill-opacity:1;stroke:#fac22b;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <path class="fill-black stroke-black stroke-thin" data-name="arc-black-thin" d="M148.86,344.03c-18.97-3.04-36.9-9.21-53.23-17.98l-2.27,4.24c16.79,9.01,35.22,15.36,54.74,18.49L148.86,344.03z" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <path class="stroke-black stroke-thin" d="M336.91,244.88l-4.42-1.89c-7.48,17.45-17.79,33.41-30.36,47.27l3.56,3.23C318.62,279.23,329.22,262.83,336.91,244.88z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="176" y1="176" x2="332.5" y2="242.99" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="230.89" y1="225.73" x2="302.13" y2="290.26" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

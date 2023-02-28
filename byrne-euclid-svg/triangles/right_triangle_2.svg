@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 70.93 75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 16 -- Right triangle</title>
+  <line class="stroke-blue stroke-dotted" x1="2.5" y1="37.32" x2="17.7" y2="72.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" x1="2.5" y1="37.32" x2="68.43" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-yellow" x1="17.7" y1="72.5" x2="68.43" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

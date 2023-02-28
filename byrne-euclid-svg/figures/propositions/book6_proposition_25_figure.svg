@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354.19 297.43" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 25 figure</title>
+  <path class="fill-yellow" data-name="angle-yellow" d="M272.5,254.92c18.33,0,33.19-14.86,33.19-33.19H272.5V254.92z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="stroke-black stroke-thin" data-name="rectangle-outline" x="272.5" y="221.73" width="79.18" height="73.2" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <rect class="fill-blue" data-name="rectangle-blue" x="21.72" y="221.73" width="250.79" height="73.2" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="272.5" y1="221.73" x2="272.5" y2="294.93" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polygon class="fill-red" data-name="triangle-red" points="190.1,93.59 21.72,221.73 272.5,221.73 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M21.72,254.92c18.33,0,33.19-14.86,33.19-33.19H21.72V254.92z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="triangle-yellow" points="97.14,7.57 2.5,79.58 143.45,79.58 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="2.5" y1="79.58" x2="143.45" y2="79.58" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="21.72" y1="221.73" x2="272.5" y2="221.73" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-trans" x1="272.5" y1="221.73" x2="351.69" y2="221.73" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="272.5" y1="221.73" x2="351.69" y2="221.73" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <polygon class="fill-blue" data-name="polygon" points="317.57,0 257.42,37.14 268.09,82.48 332.38,82.48 352.5,54.8 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

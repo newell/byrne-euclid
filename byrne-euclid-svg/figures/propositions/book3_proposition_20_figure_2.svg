@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 20 figure 2</title>
+  <path class="fill-blue" data-name="angle-blue" d="M177.5,177.5l-18.22,66.23c5.8,1.59,11.91,2.45,18.22,2.45c27.1,0,50.54-15.7,61.71-38.5L177.5,177.5z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M159.28,243.73l18.22-66.23l-67.38,13.36C115.16,216.43,134.4,236.9,159.28,243.73z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-bottom" d="M334.74,254.4l-28.24-62.62c-14.58,6.59-26.44,18.11-33.46,32.44L334.74,254.4z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-bottom" d="M73.19,198.19c-2.52-12.76-8.56-24.24-17.08-33.4l-50.3,46.77L73.19,198.19z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-top" d="M205.71,74.96c5.8,1.59,11.91,2.45,18.22,2.45c10.07,0,19.63-2.17,28.24-6.06L223.94,8.73L205.71,74.96z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-top" d="M205.71,74.96l18.22-66.23l-50.3,46.77C182.2,64.69,193.25,71.54,205.71,74.96z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="223.94" y1="8.73" x2="131.06" y2="346.27" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-se" x1="177.5" y1="177.5" x2="334.74" y2="254.4" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-sw" x1="177.5" y1="177.5" x2="5.81" y2="211.55" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-nw" x1="223.94" y1="8.73" x2="5.81" y2="211.55" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-ne" x1="334.74" y1="254.4" x2="223.94" y2="8.73" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-blue" data-name="circle" cx="177.5" cy="177.5" r="175" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

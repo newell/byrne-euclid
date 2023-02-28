@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155 145.91" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Vertex</title>
+  <path class="fill-yellow" data-name="angle-yellow" d="M35.82,85.69c12.29,7.1,26.55,11.17,41.76,11.17c15.16,0,29.38-4.04,41.64-11.1L77.5,13.5L35.82,85.69z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="152.5" y1="143.41" x2="77.5" y2="13.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="77.5" y1="13.5" x2="2.5" y2="143.41" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <text data-name="a" transform="matrix(1 0 0 1 91.6719 16.7402)">A</text>
+</svg>

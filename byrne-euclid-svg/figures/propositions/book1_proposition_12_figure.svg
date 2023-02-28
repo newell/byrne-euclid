@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 353.36 217.98" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 12 figure</title>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="1.68" y1="167.8" x2="42.37" y2="167.8" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-yellow stroke-dotted" data-name="line-yellow-dotted" x1="311" y1="167.8" x2="351.68" y2="167.8" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <path class="stroke-red stroke-dotted" data-name="curve-red-right" d="M311,167.8c15.37-12.5,28.94-27.11,40.32-43.37" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <path class="stroke-red stroke-dotted" data-name="curve-red-left" d="M2.05,124.43C13.42,140.69,27,155.3,42.37,167.8" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <path class="stroke-red" data-name="curve-red" d="M42.37,167.8c36.64,29.81,83.39,47.68,134.31,47.68S274.35,197.61,311,167.8" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M176.68,124.43c-23.95,0-43.37,19.42-43.37,43.37h43.37V124.43z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M176.68,124.43v43.37h43.37C220.05,143.85,200.64,124.43,176.68,124.43z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="176.68" y1="2.5" x2="176.68" y2="167.8" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-left" x1="176.68" y1="2.5" x2="42.37" y2="167.8" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-right" x1="311" y1="167.8" x2="176.68" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="176.68" y1="167.8" x2="311" y2="167.8" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="42.37" y1="167.8" x2="176.68" y2="167.8" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

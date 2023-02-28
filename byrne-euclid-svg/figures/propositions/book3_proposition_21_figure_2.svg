@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 21 figure 2</title>
+  <path class="fill-blue" data-name="segment-blue" d="M7.16,137.2c-3.05,12.94-4.66,26.43-4.66,40.3c0,96.65,78.35,175,175,175c15.84,0,31.2-2.11,45.79-6.05L7.16,137.2L7.16,137.2z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="segment-yellow" d="M223.29,346.45c74.44-20.13,129.21-88.14,129.21-168.95c0-13.87-1.61-27.36-4.66-40.3C347.84,137.2,223.29,346.45,223.29,346.45z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M131.71,8.55l18.07,66.67c17.48-4.73,32.21-16.14,41.28-31.34L131.71,8.55z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M83.68,58.17c12.43,12.03,29.36,19.44,48.03,19.44c6.25,0,12.31-0.84,18.07-2.39L131.71,8.55L83.68,58.17z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M271.46,80.28c2.64,0.47,5.35,0.74,8.13,0.74c9.41,0,18.15-2.85,25.42-7.73l-25.42-37.93L271.46,80.28z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M236.81,51.34c5.56,14.87,18.66,26.06,34.65,28.93l8.13-44.93L236.81,51.34z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="7.16" y1="137.2" x2="347.84" y2="137.2" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black" x1="7.16" y1="137.2" x2="131.71" y2="8.55" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black" x1="347.84" y1="137.2" x2="131.71" y2="8.55" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black" x1="279.59" y1="35.35" x2="7.16" y2="137.2" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black" x1="347.84" y1="137.2" x2="279.59" y2="35.35" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="223.29" y1="346.45" x2="131.71" y2="8.55" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="223.29" y1="346.45" x2="279.59" y2="35.35" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-red" data-name="circle" cx="177.5" cy="177.5" r="175" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

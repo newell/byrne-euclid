@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 70 46.29" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 20 -- Top and bottom polygon</title>
+  <polygon class="fill-yellow" points="58.01,46.29 24.32,46.29 70,22.93 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" points="70,22.93 24.32,46.29 50.46,0 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-blue" points="50.46,0 0,0 24.32,46.29 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

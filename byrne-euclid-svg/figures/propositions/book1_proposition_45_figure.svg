@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 525.89" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 45 figure</title>
+  <polygon class="fill-red" data-name="par-red" points="259.2,386.82 199.5,523.39 266.66,523.39 326.36,386.82 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-blue" data-name="par-blue" points="148.75,386.82 89.05,523.39 0,523.39 59.7,386.82 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M105.97,484.68c-5.18-2.27-10.9-3.54-16.92-3.54c-23.33,0-42.24,18.91-42.24,42.24c21.07,0,42.24,0,42.24,0L105.97,484.68z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="par-yellow" points="259.2,386.82 199.5,523.39 89.05,523.39 148.75,386.82 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M216.33,484.87c-5.3-2.39-11.17-3.73-17.36-3.73c-23.33,0-42.24,18.91-42.24,42.24c20.29,0,42.76,0,42.76,0L216.33,484.87z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M283.58,484.68c-5.18-2.27-10.9-3.54-16.92-3.54c-23.33,0-42.24,18.91-42.24,42.24h42.24L283.58,484.68z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M350,484.68c-5.18-2.27-10.9-3.54-16.92-3.54c-23.33,0-42.24,18.91-42.24,42.24h42.24L350,484.68z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="par-line-red" x1="89.05" y1="523.39" x2="148.75" y2="386.82" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="par-line-blue" x1="199.5" y1="523.39" x2="259.2" y2="386.82" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <rect class="fill-trans ignore" data-name="mask" x="55.57" y="375.26" width="270.79" height="11.56" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans ignore" data-name="mask" y="523.39" width="270.79" height="11.56" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="tri-red" points="266.66,97.03 156.22,191.55 153.23,2.5 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" data-name="tri-yellow" points="333.33,315.93 156.22,191.55 266.66,97.03 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-blue" data-name="tri-blue" points="156.22,191.55 28.86,251.25 333.33,315.93 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="tri-line-blue-edge" x1="156.22" y1="191.55" x2="28.86" y2="251.25" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="tri-line-blue-edge" x1="28.86" y1="251.25" x2="333.33" y2="315.93" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="tri-line-yellow-edge" x1="266.66" y1="97.03" x2="333.33" y2="315.93" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="tri-line-red-edge" x1="153.23" y1="2.5" x2="266.66" y2="97.03" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="tri-line-red-edge" x1="156.22" y1="191.55" x2="153.23" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="tri-line-blue" x1="156.22" y1="191.55" x2="266.66" y2="97.03" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="tri-line-red" x1="333.33" y1="315.93" x2="156.22" y2="191.55" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

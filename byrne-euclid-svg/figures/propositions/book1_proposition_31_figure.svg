@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 148.7" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 31 figure</title>
+  <path class="fill-yellow" data-name="angle-yellow" d="M190.31,58.77C206.24,31.96,223.74,2.5,223.74,2.5h-65.45C158.29,26.43,171.14,47.35,190.31,58.77z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M171.8,89.93c-15.93,26.81-33.43,56.27-33.43,56.27h65.45C203.82,122.27,190.97,101.35,171.8,89.93z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="223.74" y1="2.5" x2="138.37" y2="146.2" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-right" x1="138.37" y1="146.2" x2="352.5" y2="146.2" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-left" x1="2.5" y1="146.2" x2="138.37" y2="146.2" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="223.74" y1="2.5" x2="322.62" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="32.38" y1="2.5" x2="223.74" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

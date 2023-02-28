@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base large" viewBox="0 0 75 75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 2, Prop 4 -- Bottom and right sides of square from blue and red lines</title>
+  <polyline class="stroke-black stroke-thin" points="2.5,72.5 2.5,2.5 72.5,2.5 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="46.12" y1="72.5" x2="2.5" y2="72.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="72.5" y1="72.5" x2="46.12" y2="72.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="72.5" y1="28.88" x2="72.5" y2="72.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="72.5" y1="2.5" x2="72.5" y2="28.88" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <rect class="fill-trans" x="-4.64" y="-8.74" width="91.78" height="11.24" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans" x="-8.4" y="-11.4" width="10.9" height="89.12" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

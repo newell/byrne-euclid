@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base large" viewBox="0 0 70 60.57" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 43 -- Blue parallelogram and red and yellow triangles</title>
+  <polygon class="fill-red" points="49.92,60.57 16.64,20.19 63.31,20.19 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-blue" points="70,0 63.31,20.19 16.64,20.19 23.33,0 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-yellow" points="23.33,0 0,0 16.64,20.19 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

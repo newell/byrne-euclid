@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 213.6" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 32 figure</title>
+  <polygon class="stroke-black stroke-thin" data-name="triangle-right" points="295.57,119.81 352.5,211.1 245.96,211.1 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polygon class="stroke-black stroke-thin" data-name="triangle-left" points="115.86,2.5 2.5,211.1 245.96,211.1 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M275.77,156.24c5.88,3.2,12.63,5.03,19.8,5.03c8.06,0,15.57-2.31,21.94-6.28l-21.94-35.17L275.77,156.24z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-black stroke-thin" data-name="angle-outline" d="M265.76,174.66l-19.8,36.43h41.46C287.42,195.37,278.66,181.69,265.76,174.66z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-black" data-name="arc" d="M265.76,174.66l-5.45,10.03c9.35,5.09,15.7,15.01,15.7,26.4h11.41C287.42,195.37,278.66,181.69,265.76,174.66z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M22.3,174.66L2.5,211.1h41.46C43.96,195.37,35.2,181.69,22.3,174.66z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-top" d="M96.06,38.93c5.88,3.2,12.63,5.03,19.8,5.03c8.06,0,15.57-2.31,21.94-6.28L115.86,2.5L96.06,38.93z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M224.02,175.92c-11.72,7.32-19.52,20.34-19.52,35.17h41.46L224.02,175.92z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-bottom" d="M245.96,211.1l19.8-36.43c-5.88-3.2-12.63-5.03-19.8-5.03c-8.06,0-15.57,2.31-21.94,6.28L245.96,211.1z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="352.5" y1="211.1" x2="295.57" y2="119.81" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="352.5" y1="211.1" x2="295.57" y2="119.81" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-blue-dotted-trans" x1="295.57" y1="119.81" x2="245.96" y2="211.1" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="295.57" y1="119.81" x2="245.96" y2="211.1" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-yellow-dotted-trans" x1="245.96" y1="211.1" x2="352.5" y2="211.1" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow stroke-dotted" data-name="line-yellow-dotted" x1="245.96" y1="211.1" x2="352.5" y2="211.1" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="115.86" y1="2.5" x2="2.5" y2="211.1" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="245.96" y1="211.1" x2="115.86" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="2.5" y1="211.1" x2="245.96" y2="211.1" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

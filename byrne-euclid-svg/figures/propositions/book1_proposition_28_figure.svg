@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 237.3" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 28 figure</title>
+  <path class="fill-red" data-name="angle-red-top" d="M167.7,115.82c3.39,0,6.7-0.38,9.88-1.07l-9.88-45.19c0,0-27.61,0-46.26,0C121.44,95.11,142.15,115.82,167.7,115.82z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-top" d="M177.58,114.75c20.8-4.53,36.38-23.04,36.38-45.19c-17.36,0-46.26,0-46.26,0L177.58,114.75z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M167.7,23.3c-3.39,0-6.7,0.38-9.88,1.07l9.88,45.19c0,0,28.9,0,46.26,0C213.95,44.02,193.24,23.3,167.7,23.3z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M157.81,24.37c-20.8,4.53-36.38,23.04-36.38,45.19c18.65,0,46.26,0,46.26,0L157.81,24.37z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-bottom" d="M187.57,114.21c-3.39,0-6.7,0.38-9.88,1.07l9.88,45.19c0,0,27.59,0,46.26,0C233.83,134.92,213.12,114.21,187.57,114.21z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-bottom" d="M177.69,115.27c-20.8,4.53-36.38,23.04-36.38,45.19c17.35,0,46.26,0,46.26,0L177.69,115.27z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="2.5" y1="69.56" x2="352.5" y2="69.56" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="2.5" y1="160.46" x2="352.5" y2="160.46" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="153.03" y1="2.5" x2="203.83" y2="234.8" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

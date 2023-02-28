@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 180" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 5 figure</title>
+  <rect class="fill-black" data-name="rect-black" x="177.5" y="105.38" width="175" height="72.12" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-blue" data-name="rect-blue" x="2.5" y="105.38" width="72.12" height="72.12" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-red" data-name="rect-red" x="74.62" y="2.5" width="102.88" height="102.88" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-yellow" data-name="rect-yellow-bottom" x="74.62" y="105.38" width="102.88" height="72.12" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-yellow" data-name="rect-yellow-top" x="2.5" y="2.5" width="72.12" height="102.88" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-top-trans" x1="74.62" y1="105.38" x2="74.62" y2="2.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted-top" x1="74.62" y1="105.38" x2="74.62" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="177.5" y1="177.5" x2="74.62" y2="177.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-right" x1="177.5" y1="105.38" x2="177.5" y2="177.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-blue-dotted-trans" x1="177.5" y1="2.5" x2="177.5" y2="105.38" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="177.5" y1="2.5" x2="177.5" y2="105.38" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-left" x1="74.62" y1="177.5" x2="2.5" y2="177.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="352.5" y1="177.5" x2="352.5" y2="105.38" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="352.5" y1="177.5" x2="352.5" y2="105.38" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow-bottom" x1="177.5" y1="177.5" x2="352.5" y2="177.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-middle" x1="74.62" y1="105.38" x2="74.62" y2="177.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-bottom-trans" x1="2.5" y1="105.38" x2="177.5" y2="105.38" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted-bottom" x1="2.5" y1="105.38" x2="177.5" y2="105.38" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="2.5" y1="177.5" x2="177.5" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow-top" x1="352.5" y1="105.38" x2="177.5" y2="105.38" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <rect class="fill-trans ignore" data-name="mask" x="-5.27" y="-18.61" width="192.54" height="21.11" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans ignore" data-name="mask" x="-19.9" y="-3.98" width="22.4" height="194.2" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

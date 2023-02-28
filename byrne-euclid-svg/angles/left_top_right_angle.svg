@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base" style="vertical-align: -9px;" viewBox="0 0 54.28 75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 24 -- Left top right angle</title>
+  <path class="stroke-black stroke-dotted" d="M2.5,68.25C10,71,18.11,72.5,26.57,72.5c8.89,0,17.39-1.68,25.21-4.7" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="26.57" y1="2.5" x2="51.78" y2="67.8" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="26.57" y1="2.5" x2="2.5" y2="68.25" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

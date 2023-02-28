@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 346.59 164.31"
+   preserveAspectRatio="xMidYMid meet"
+   role="img"
+   version="1.1"
+   id="svg68"
+   sodipodi:docname="book1_proposition_26_figure_1.svg"
+   width="346.59"
+   height="164.31"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs72" />
+  <sodipodi:namedview
+     id="namedview70"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.0397163"
+     inkscape:cx="173.30841"
+     inkscape:cy="173.79868"
+     inkscape:window-width="3768"
+     inkscape:window-height="2096"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg68" />
+  <title
+     id="title2">Proposition 26 figure</title>
+  <path
+     class="fill-yellow"
+     data-name="c1r-angle-yellow"
+     d="m 213.14,129.76 -30.88,34.42 h 46.25 c 0,-13.67 -5.94,-25.95 -15.37,-34.42 z"
+     style="fill:#fac22b;fill-opacity:1;stroke-opacity:0"
+     id="path34"
+     transform="translate(0,-2.3699999)" />
+  <path
+     class="fill-black"
+     data-name="c1r-angle-black"
+     d="m 322.61,119.12 c -16.82,8.03 -28.44,25.18 -28.44,45.05 h 49.92 z"
+     style="fill:#000000;fill-opacity:1;stroke-opacity:0"
+     id="path36"
+     transform="translate(0,-2.3699999)" />
+  <path
+     class="fill-blue"
+     data-name="c1r-angle-blue"
+     d="m 322.61,119.12 21.48,45.05 -5.88,-49.56 c -5.53,0.65 -10.78,2.21 -15.6,4.51 z"
+     style="fill:#0e638e;fill-opacity:1;stroke-opacity:0"
+     id="path38"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-yellow"
+     data-name="c1r-line-yellow"
+     x1="344.09"
+     y1="164.17999"
+     x2="287.94"
+     y2="46.400002"
+     style="fill-opacity:0;stroke:#fac22b;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="line40"
+     transform="translate(0,-2.3699999)" />
+  <path
+     class="fill-black"
+     data-name="c1r-arc"
+     d="m 330.09,46.11 -0.58,-4.92 c -1.41,0.17 -2.85,0.26 -4.3,0.26 -9.39,0 -17.95,-3.54 -24.42,-9.36 l -3.31,3.69 c 7.35,6.6 17.07,10.62 27.73,10.62 1.65,0 3.28,-0.1 4.88,-0.29 z"
+     style="fill:#000000;fill-opacity:1;stroke-opacity:0"
+     id="path42"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-red"
+     data-name="c1r-line-red"
+     x1="287.94"
+     y1="46.400002"
+     x2="182.25999"
+     y2="164.17999"
+     style="fill-opacity:0;stroke:#d42a20;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="line44"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-trans"
+     data-name="c1r-line-red-dotted-trans"
+     x1="325.20001"
+     y1="4.8699999"
+     x2="287.94"
+     y2="46.400002"
+     style="fill-opacity:0;stroke:#fcf3d9;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="line46"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-red stroke-dotted"
+     data-name="c1r-line-red-dotted"
+     x1="325.20001"
+     y1="4.8699999"
+     x2="287.94"
+     y2="46.400002"
+     style="fill-opacity:0;stroke:#d42a20;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;stroke-opacity:1"
+     id="line48"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-black"
+     data-name="c1r-line-black"
+     x1="344.09"
+     y1="164.17999"
+     x2="325.20001"
+     y2="4.8699999"
+     style="fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="line50"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-blue"
+     data-name="c1r-line-blue"
+     x1="182.25999"
+     y1="164.17999"
+     x2="344.09"
+     y2="164.17999"
+     style="fill-opacity:0;stroke:#0e638e;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="line52"
+     transform="translate(0,-2.3699999)" />
+  <path
+     class="fill-yellow"
+     data-name="c1l-angle-yellow"
+     d="M 33.38,129.76 2.5,164.18 h 46.25 c 0,-13.67 -5.94,-25.95 -15.37,-34.42 z"
+     style="fill:#fac22b;fill-opacity:1;stroke-opacity:0"
+     id="path54"
+     transform="translate(0,-2.3699999)" />
+  <path
+     class="fill-red"
+     data-name="c1l-angle-red"
+     d="m 158.46,114.62 c -24.8,2.91 -44.04,23.98 -44.04,49.56 h 49.92 z"
+     style="fill:#d42a20;fill-opacity:1;stroke-opacity:0"
+     id="path56"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-red"
+     data-name="c1l-line-red"
+     x1="145.45"
+     y1="4.8699999"
+     x2="2.5"
+     y2="164.17999"
+     style="fill-opacity:0;stroke:#d42a20;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="line58"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-black"
+     data-name="c1l-line-black"
+     x1="164.33"
+     y1="164.17999"
+     x2="145.45"
+     y2="4.8699999"
+     style="fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="line60"
+     transform="translate(0,-2.3699999)" />
+  <line
+     class="stroke-blue"
+     data-name="c1l-line-blue"
+     x1="2.5"
+     y1="164.17999"
+     x2="164.33"
+     y2="164.17999"
+     style="fill-opacity:0;stroke:#0e638e;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="line62"
+     transform="translate(0,-2.3699999)" />
+  <path
+     class="fill-black"
+     data-name="c1l-arc"
+     d="m 150.33,46.11 -0.58,-4.92 c -1.41,0.17 -2.85,0.26 -4.3,0.26 -9.39,0 -17.95,-3.54 -24.42,-9.36 l -3.31,3.69 c 7.35,6.6 17.07,10.62 27.73,10.62 1.65,0 3.28,-0.1 4.88,-0.29 z"
+     style="fill:#000000;fill-opacity:1;stroke-opacity:0"
+     id="path64"
+     transform="translate(0,-2.3699999)" />
+  <text
+     transform="translate(186.9329,14.1368)"
+     class="ignore"
+     id="text66">Case I.</text>
+  <metadata
+     id="metadata896">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Proposition 26 figure</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

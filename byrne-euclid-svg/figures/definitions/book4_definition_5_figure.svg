@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 160.88" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Definition 5 figure</title>
+  <path class="fill-blue" d="M92.5,158.38h45l21.98-38.07C145.88,143.11,120.98,158.38,92.5,158.38z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M160.57,118.43l21.93-37.98l-21.93-37.98c6.28,11.24,9.87,24.19,9.87,37.98C170.44,94.23,166.86,107.19,160.57,118.43z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M159.48,40.57L137.5,2.5h-45C120.98,2.5,145.88,17.77,159.48,40.57z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M92.5,2.5h-45L25.52,40.57C39.12,17.77,64.03,2.5,92.5,2.5z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M25.52,120.31l21.98,38.07h45C64.03,158.38,39.12,143.11,25.52,120.31z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M14.56,80.44c0-13.79,3.59-26.74,9.87-37.98L2.5,80.44l21.93,37.98C18.14,107.19,14.56,94.23,14.56,80.44z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="stroke-blue" points="137.5,2.5 47.5,2.5 2.5,80.44 47.5,158.38 137.5,158.38 182.5,80.44 " style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-blue" cx="92.5" cy="80.44" r="77.94" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 44.56 72.5" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 11 -- Yellow triangle</title>
+  <polygon class="fill-yellow" points="18.75,0 2.5,60.09 42.06,70 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black" x1="2.5" y1="60.09" x2="42.06" y2="70" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polygon class="fill-trans" points="-10.68,71.84 8.75,0 18.75,0 -0.68,71.84 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-trans" points="58.24,79.54 28.58,-9.54 15.58,-9.54 45.24,79.54 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

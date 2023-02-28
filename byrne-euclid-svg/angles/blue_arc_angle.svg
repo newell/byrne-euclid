@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base" viewBox="0 0 72 53.87" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 6 -- Blue arc</title>
+  <path class="stroke-black stroke-thin" d="M48.01,1L1,52.87h70C71,32.3,62.13,13.81,48.01,1z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-blue stroke-blue stroke-thin" d="M48.01,1l-9.58,10.57c11.24,10.2,18.31,24.92,18.31,41.3H71C71,32.3,62.13,13.81,48.01,1z" style="fill:#0e638e;fill-opacity:1;stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+</svg>

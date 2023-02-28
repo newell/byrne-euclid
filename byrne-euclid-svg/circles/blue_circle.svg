@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 75 75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 22 -- Blue circle</title>
+  <circle class="stroke-blue" cx="37.5" cy="37.5" r="35" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="37.5" y1="37.5" x2="27.28" y2="70.98" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

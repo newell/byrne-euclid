@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 73.71 31.97" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop C -- Blue, yellow, red, dotted red triangle</title>
+  <line class="stroke-blue stroke-dotted" x1="1.21" y1="29.47" x2="49.97" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" x1="1.21" y1="29.47" x2="49.97" y2="29.47" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-yellow" x1="49.97" y1="2.5" x2="71.21" y2="29.47" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="49.97" y1="29.47" x2="71.21" y2="29.47" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

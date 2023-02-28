@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352.5 272.75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 22 figure</title>
+  <polygon class="fill-yellow stroke-yellow" data-name="triangle-yellow" points="67.42,20.5 2.5,88 103.53,88 " style="fill:#fac22b;fill-opacity:1;stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <line class="stroke-black" data-name="line-black" x1="2.5" y1="88" x2="103.53" y2="88" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="272.5" y1="88" x2="352.26" y2="88" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <polygon class="fill-red stroke-red" data-name="triangle-red" points="211.63,2.5 129.4,88 257.37,88 " style="fill:#d42a20;fill-opacity:1;stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="129.4" y1="88" x2="257.37" y2="88" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polygon class="fill-blue stroke-blue" data-name="poly-blue" points="120.01,152.24 48.9,141.55 5.78,199.89 40.1,270.25 112.72,270.25 148,213.51 " style="fill:#0e638e;fill-opacity:1;stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <line class="stroke-red" data-name="line-red" x1="40.1" y1="270.25" x2="112.72" y2="270.25" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="283.27" y1="270.25" x2="352.5" y2="270.25" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <polygon class="stroke-black stroke-thin" data-name="poly-outline" points="279.5,146.46 204.91,135.25 159.68,196.45 195.68,270.25 271.86,270.25 308.86,210.73 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="195.68" y1="270.25" x2="271.86" y2="270.25" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

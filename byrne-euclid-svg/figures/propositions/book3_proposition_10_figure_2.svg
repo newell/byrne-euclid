@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="max-width: 240px;" viewBox="0 0 355 633.14" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 10 figure</title>
+  <line class="stroke-yellow" data-name="line-yellow-bottom" x1="177.5" y1="462.26" x2="105.62" y2="296.03" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-bottom" x1="177.5" y1="462.26" x2="177.5" y2="313.61" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-bottom" x1="177.5" y1="462.26" x2="249.38" y2="296.04" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-red" data-name="circle-red" cx="177.5" cy="158.06" r="155.56" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-blue" data-name="circle-blue" d="M352.5,455.64c0-71.03-42.32-132.18-103.12-159.61c-10.77-4.86-24.14-11.71-35.94-6.22c-12.22,5.68-13.11,23.8-35.94,23.8c-23.3,0-24.34-15.91-35.94-21.4c-12.52-5.93-24.55-1.31-35.94,3.82C44.82,323.46,2.5,384.61,2.5,455.64c0,96.65,78.35,175,175,175S352.5,552.29,352.5,455.64z" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

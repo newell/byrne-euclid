@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.9 300.83" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Figure PQ</title>
+  <path class="fill-yellow" data-name="surface-yellow" d="M182.49 112.77H78.36l-59.2 40.17h104.13z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="surface-red" d="M182.49 112.77H78.36l-59.2 40.17h104.13z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="surface-blue" d="M182.49 112.77H78.36l-59.2 40.17h104.13z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="solid-red" d="M78.36 0.41l-59.2 40.18v112.35l59.2-40.17h104.13V.41z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="solid-yellow" d="M123.29 152.94H19.16v147.47h104.13l59.2-40.17V112.77z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-trans stroke-thin ignore" d="M19.16 40.59h104.13M78.36 0.41v259.83M123.29 40.59L182.49 0.41M182.49 260.24H78.36M78.36 260.24l-59.2 40.17M123.29 40.59v259.82M19.16 152.94h104.13M123.29 152.94l59.2-40.17M182.49 112.77H78.36M78.36 112.77l-59.2 40.17" style="stroke:#fcf3d9;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <text data-name="p" transform="translate(.048 46.103)">P</text>
+  <text data-name="r" transform="translate(0 156.451)">R</text>
+  <text data-name="s" transform="translate(191.32 116.538)">S</text>
+  <text data-name="q" transform="translate(189.732 263.668)">Q</text>
+</svg>

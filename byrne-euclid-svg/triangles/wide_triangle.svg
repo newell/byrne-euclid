@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline xlarge" viewBox="0 0 180 36.85" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 15 -- Wide triangle</title>
+  <path class="fill-red" d="M115.95,24.9c-1.59-4.36-4.24-8.2-7.64-11.22L90,34.35L115.95,24.9z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" d="M90,34.35l18.31-20.66C103.43,9.37,97.03,6.74,90,6.74c-7.03,0-13.44,2.63-18.31,6.95L90,34.35z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M90,34.35L71.69,13.69c-3.4,3.02-6.06,6.86-7.64,11.21L90,34.35z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" x1="90" y1="34.35" x2="2.5" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans stroke-dotted" x1="90" y1="34.35" x2="177.5" y2="2.5" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-yellow stroke-dotted" x1="90" y1="34.35" x2="177.5" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="2.5" y1="2.5" x2="177.5" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

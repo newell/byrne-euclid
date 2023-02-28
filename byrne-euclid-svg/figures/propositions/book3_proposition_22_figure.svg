@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 22 figure</title>
+  <path class="fill-black" data-name="angle-black-bottom" d="M158.64,316.09c-5.7-6.21-13.21-10.74-21.69-12.76L127,345.1L158.64,316.09z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-bottom" d="M127,345.1l9.95-41.77c-3.2-0.76-6.53-1.16-9.95-1.16c-6.44,0-12.56,1.42-18.04,3.97L127,345.1z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-right" d="M306.13,137.32l42.71,4.39l-30.81-29.88C311.48,118.57,307.13,127.45,306.13,137.32z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-right" d="M306.13,137.32c-0.15,1.44-0.22,2.91-0.22,4.39c0,11.19,4.28,21.37,11.29,29.01l31.64-29.01L306.13,137.32z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-top" d="M170.19,25.45c5.73,10.65,15.82,18.61,27.88,21.48l9.95-41.77L170.19,25.45z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-top" d="M208.03,5.16l-9.95,41.77c3.2,0.76,6.53,1.16,9.95,1.16c12.09,0,23.01-5,30.81-13.04L208.03,5.16z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-left" d="M17.03,107.58l18.04,38.96c13.43-6.23,23.1-19.2,24.67-34.57L17.03,107.58z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-left" d="M59.73,111.97c0.15-1.44,0.22-2.91,0.22-4.39c0-7.34-1.84-14.25-5.09-20.29l-37.84,20.29L59.73,111.97z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="17.03" y1="107.58" x2="208.03" y2="5.16" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="348.83" y1="141.71" x2="208.03" y2="5.16" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="127" y1="345.1" x2="348.83" y2="141.71" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="17.03" y1="107.58" x2="127" y2="345.1" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="208.03" y1="5.16" x2="127" y2="345.1" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="17.03" y1="107.58" x2="348.83" y2="141.71" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-red" data-name="circle" cx="177.5" cy="177.5" r="175" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

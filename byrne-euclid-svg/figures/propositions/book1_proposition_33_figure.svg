@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 321.76" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 33 figure</title>
+  <path class="fill-black" data-name="angle-black" d="M203.97,185.66c-30.71,17-51.51,49.72-51.51,87.3h99.72L203.97,185.66z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M68.13,96.01c10.8,4.01,22.49,6.2,34.69,6.2c17.49,0,33.92-4.51,48.21-12.42L102.82,2.5L68.13,96.01z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M151.03,89.8c30.71-17,51.51-49.72,51.51-87.3h-99.72L151.03,89.8z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M252.18,272.97l34.69-93.51c-10.8-4.01-22.49-6.2-34.69-6.2c-17.49,0-33.92,4.51-48.21,12.42L252.18,272.97z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="102.82" y1="2.5" x2="2.5" y2="272.97" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="352.5" y1="2.5" x2="102.82" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="252.18" y1="272.97" x2="352.5" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="2.5" y1="272.97" x2="252.18" y2="272.97" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="2.5" y1="272.97" x2="252.18" y2="272.97" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="252.18" y1="272.97" x2="102.82" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

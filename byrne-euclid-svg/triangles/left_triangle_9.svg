@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 90.08 105" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 14 -- Left triangle</title>
+  <path class="fill-black" d="M35,102.5l16.56-22.79c-4.65-3.38-10.37-5.39-16.56-5.39c-3.04,0-5.97,0.49-8.71,1.38L35,102.5z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans" x1="35" y1="102.5" x2="87.58" y2="30.14" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" x1="35" y1="102.5" x2="87.58" y2="30.14" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="2.5" y1="2.5" x2="35" y2="102.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" x1="2.5" y1="2.5" x2="87.58" y2="30.14" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline xlarge base" viewBox="0 0 105 28.8" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 24 -- Yellow segment</title>
+  <path class="fill-yellow" d="M102.5,26.3C90.69,11.78,72.68,2.5,52.5,2.5s-38.19,9.28-50,23.8H102.5z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-red" d="M102.5,26.3C90.69,11.78,72.68,2.5,52.5,2.5s-38.19,9.28-50,23.8" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-blue" d="M2.5,26.3h100" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

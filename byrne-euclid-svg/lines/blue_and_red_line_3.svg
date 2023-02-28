@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline line-long" viewBox="0 0 105 5" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 12 -- Blue and red line</title>
+  <line class="stroke-blue" x1="2.5" y1="2.5" x2="43.6" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="43.6" y1="2.5" x2="102.5" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

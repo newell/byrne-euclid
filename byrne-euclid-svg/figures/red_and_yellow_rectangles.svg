@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 70 43.3" preserveAspectRatio="xMidYMid meet" role="img">
+  <title><rect class="fill-red" width="43.3" height="43.3"></rect>Red and yellow rectangles</title>
+  <rect class="fill-red" width="43.3" height="43.3" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-yellow" x="43.3" width="26.7" height="43.3" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

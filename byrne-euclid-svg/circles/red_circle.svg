@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 75 75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 22 -- Red circle</title>
+  <circle class="stroke-red" cx="37.33" cy="37.28" r="35" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="37.33" y1="37.28" x2="66.45" y2="17.86" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

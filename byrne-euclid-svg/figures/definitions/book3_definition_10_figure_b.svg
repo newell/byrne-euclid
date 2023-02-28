@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Definition 10 figure b</title>
+  <path class="fill-red" d="M90,0C40.29,0,0,40.29,0,90s40.29,90,90,90s90-40.29,90-90S139.71,0,90,0z M90,161.43c-39.45,0-71.43-31.98-71.43-71.43c0-39.45,31.98-71.43,71.43-71.43c39.45,0,71.43,31.98,71.43,71.43C161.43,129.45,129.45,161.43,90,161.43z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <circle class="stroke-black" cx="90" cy="90" r="71.43" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="fill-blue" cx="90" cy="90" r="47.14" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

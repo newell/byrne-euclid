@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 347.3 296.26" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 14 figure</title>
+  <polygon class="fill-yellow" data-name="par-yellow" points="121.61,0 178.19,106.42 56.58,106.42 0,0 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-blue" data-name="par-blue" points="178.19,106.42 246.36,106.42 347.3,296.26 279.13,296.26 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" data-name="par-red" points="178.19,106.42 121.61,0 189.77,0 246.36,106.42 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="178.19" y1="106.42" x2="121.61" y2="0" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="178.19" y1="106.42" x2="56.58" y2="106.42" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="279.13" y1="296.26" x2="178.19" y2="106.42" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="246.36" y1="106.42" x2="178.19" y2="106.42" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-trans ignore" data-name="mask" d="M196.72-9.19H-16.72l167.3,314.64h213.44L196.72-9.19z M0,0h189.77L347.3,296.26H157.53L0,0z" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

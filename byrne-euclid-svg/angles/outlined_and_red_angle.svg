@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 72 68.59" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 11 -- Outlined and red angle</title>
+  <path class="stroke-black stroke-outline" d="M71,67.59L49.36,1c-14.2,4.61-26.4,13.63-35,25.45L71,67.59z" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-black" d="M22.17,32.11c7.42-10.19,17.94-17.97,30.18-21.94L49.36,1c-14.2,4.61-26.4,13.63-35,25.45L22.17,32.11z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M14.37,26.45C5.96,38,1,52.21,1,67.59h70L14.37,26.45z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-red stroke-thin" d="M14.37,26.45C5.96,38,1,52.21,1,67.59h70L14.37,26.45z" style="stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

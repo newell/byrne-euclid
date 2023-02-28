@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 51.84 72" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop C -- Blue outlined and yellow angle</title>
+  <path class="stroke-black stroke-thin" d="M20,1C8.43,10.13,1,24.27,1,40.16h49.84L20,1z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-blue stroke-blue stroke-thin" d="M26.95,9.83L20,1C8.43,10.13,1,24.27,1,40.16h11.23C12.23,27.85,17.99,16.9,26.95,9.83z" style="fill:#0e638e;fill-opacity:1;stroke:#0e638e;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <path class="fill-yellow stroke-yellow stroke-thin" d="M50.84,40.16H1C1,51.8,4.99,62.52,11.69,71L50.84,40.16z" style="fill:#fac22b;fill-opacity:1;stroke:#fac22b;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 281.53" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 5 figure</title>
+  <line class="stroke-yellow" data-name="line-yellow" x1="177.5" y1="7.44" x2="177.5" y2="140.77" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="177.5" y1="140.77" x2="75.97" y2="128.95" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="75.97" y1="128.95" x2="3.97" y2="120.57" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <path class="stroke-red" data-name="circle-red" d="M197.21,3.54c5.58-0.68,11.26-1.04,17.02-1.04c76.36,0,138.27,61.9,138.27,138.27s-61.9,138.27-138.27,138.27S75.97,217.13,75.97,140.77c0-53.31,30.17-99.57,74.37-122.65" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-blue" data-name="circle-blue" cx="140.77" cy="140.77" r="138.27" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-red" data-name="arc" d="M150.33,18.12c14.33-7.48,30.14-12.53,46.88-14.58" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

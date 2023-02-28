@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 480.97" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 5 figure</title>
+  <path class="fill-red" data-name="angle-red-right" d="M342.75,367.84c-27.86,4.65-49.1,28.86-49.1,58.04h58.85L342.75,367.84z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-right" d="M231.48,371.32l-36.93,54.56h65.88C260.43,403.18,248.95,383.17,231.48,371.32z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-left" d="M192.65,305.46l10.91-64.97h-65.88C137.69,273.15,161.46,300.26,192.65,305.46z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-black stroke-thin" data-name="angle-outline" d="M192.65,175.52c-31.19,5.2-54.96,32.31-54.96,64.97h65.88L192.65,175.52z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-left" d="M39.43,295.04c17.47-11.85,28.95-31.86,28.95-54.56H2.5L39.43,295.04z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-left" d="M39.43,185.93L2.5,240.49h65.88C68.38,217.79,56.9,197.78,39.43,185.93z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red stroke-red stroke-thin" data-name="arc-red" d="M195.8,194.26l-3.15-18.75c-31.19,5.2-54.96,32.31-54.96,64.97h19.01C156.69,217.25,173.61,197.96,195.8,194.26z" style="fill:#d42a20;fill-opacity:1;stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+  <path class="fill-black" data-name="angle-black-bottom" d="M163.59,478.47l10.91-64.97c-3.55-0.59-7.19-0.9-10.91-0.9c-13.69,0-26.4,4.17-36.93,11.32L163.59,478.47z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black-top" d="M163.59,68.38c3.72,0,7.36-0.31,10.91-0.91L163.59,2.5l-36.93,54.56C137.19,64.2,149.9,68.38,163.59,68.38z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-right" d="M321.1,297.77c3.32,0,6.58-0.28,9.75-0.81l-9.75-58.04l-32.99,48.74C297.52,294.04,308.87,297.77,321.1,297.77z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-black-dotted-trans" x1="194.55" y1="425.88" x2="352.5" y2="425.88" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" data-name="line-black-dotted" x1="194.55" y1="425.88" x2="352.5" y2="425.88" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-red-dotted-trans" x1="321.1" y1="238.92" x2="194.55" y2="425.88" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="321.1" y1="238.92" x2="194.55" y2="425.88" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-blue-dotted-trans" x1="352.5" y1="425.88" x2="321.1" y2="238.92" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue stroke-dotted" data-name="line-blue-dotted" x1="352.5" y1="425.88" x2="321.1" y2="238.92" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="163.59" y1="2.5" x2="2.5" y2="240.49" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="203.56" y1="240.49" x2="163.59" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="163.59" y1="478.47" x2="2.5" y2="240.49" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-trans" data-name="line-yellow-dotted-trans" x1="203.56" y1="240.49" x2="163.59" y2="478.47" style="stroke:#fcf3d9;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow stroke-dotted" data-name="line-yellow-dotted" x1="203.56" y1="240.49" x2="163.59" y2="478.47" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="2.5" y1="240.49" x2="203.56" y2="240.49" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base" viewBox="0 0 72 69.51" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 6 -- Red arc</title>
+  <path class="stroke-black stroke-thin" d="M52.49,1C22.81,9.12,1,36.26,1,68.51h70L52.49,1z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-red stroke-red stroke-thin" d="M56.26,14.76L52.49,1C22.81,9.12,1,36.26,1,68.51h14.26C15.26,42.83,32.63,21.22,56.26,14.76z" style="fill:#d42a20;fill-opacity:1;stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+</svg>

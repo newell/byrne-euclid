@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 238" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 15 figure</title>
+  <path class="fill-yellow" data-name="angle-yellow" d="M129.17,78.31c-5.22,9.01-8.22,19.46-8.22,30.62c0,13.13,4.15,25.28,11.18,35.25c20.11-14.16,50.03-35.25,50.03-35.25L129.17,78.31z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M235.16,139.56c5.22-9.01,8.22-19.46,8.22-30.62c0-13.13-4.15-25.28-11.18-35.25l-50.03,35.25C182.16,108.94,212.44,126.43,235.16,139.56z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M182.16,108.94c0,0,27.87-19.63,50.03-35.25c-11.08-15.7-29.35-25.97-50.03-25.97c-22.65,0-42.41,12.31-52.99,30.59L182.16,108.94z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M235.16,139.56l-52.99-30.62c0,0-29.93,21.08-50.03,35.25c11.08,15.7,29.35,25.97,50.03,25.97C204.81,170.15,224.57,157.84,235.16,139.56z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="2.5" y1="235.5" x2="333.25" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="22.74" y1="16.82" x2="352.5" y2="207.37" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

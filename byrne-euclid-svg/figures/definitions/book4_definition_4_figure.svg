@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 185" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Definition 4 figure</title>
+  <path class="fill-red" d="M92.5,2.5h-90v90C2.5,42.79,42.79,2.5,92.5,2.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M2.5,92.5v90h90C42.79,182.5,2.5,142.21,2.5,92.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M92.5,182.5h90v-90C182.5,142.21,142.21,182.5,92.5,182.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M92.5,2.5c49.71,0,90,40.29,90,90v-90H92.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="stroke-red" x="2.5" y="2.5" width="180" height="180" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-red" cx="92.5" cy="92.5" r="90" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

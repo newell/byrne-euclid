@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 70 70" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 9 -- Red and blue angle</title>
+  <path class="fill-red" d="M49.5,20.5C36.83,7.84,19.33,0,0,0v70L49.5,20.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M0,70h70c0-19.33-7.84-36.83-20.5-49.5L0,70z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

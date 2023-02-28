@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base large" viewBox="0 0 50.21 72.5" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 40 -- Red and blue triangles triangle</title>
+  <polyline class="fill-blue" points="5.46,12.89 6.13,0 47.71,70 5.49,12.89 " style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-red" points="5.46,12.89 2.5,70 47.71,70 5.49,12.89 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black" x1="2.5" y1="70" x2="47.71" y2="70" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <polygon class="fill-trans ignore" points="-7.8,75.72 -4.54,12.89 5.46,12.89 2.2,75.72 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-trans ignore" points="61.11,75.72 16.13,0 6.13,0 51.11,75.72 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

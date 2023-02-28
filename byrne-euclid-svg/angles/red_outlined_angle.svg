@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base" viewBox="0 0 72 71.04" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 5 -- Red outlined angle</title>
+  <path class="stroke-black stroke-thin" d="M59.4,1C26.26,6.53,1,35.33,1,70.04h70L59.4,1z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-red stroke-red stroke-thin" d="M62.75,20.92L59.4,1C26.26,6.53,1,35.33,1,70.04h20.2C21.2,45.34,39.17,24.85,62.75,20.92z" style="fill:#d42a20;fill-opacity:1;stroke:#d42a20;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 326.43 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 5 figure</title>
+  <path class="fill-red" data-name="angle-red-right" d="M323.93,352.5l-26.53-57.78c-12.03,5.53-22.02,14.7-28.59,26.11L323.93,352.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red-left" d="M57.62,320.83c-6.57-11.4-16.56-20.57-28.59-26.11L2.5,352.5L57.62,320.83z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" data-name="angle-black" d="M146.08,39.81c5.22,2.4,11.01,3.75,17.13,3.75c6.12,0,11.92-1.35,17.13-3.75L163.21,2.5L146.08,39.81z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-right" d="M239.7,169.06c-14.12,6.49-23.92,20.75-23.92,37.31h41.05L239.7,169.06z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue-left" d="M86.73,169.06L69.6,206.37h41.05C110.65,189.81,100.85,175.55,86.73,169.06z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-left" d="M105.19,226.82c3.47-6.02,5.46-13,5.46-20.45H69.6L105.19,226.82z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow-right" d="M256.83,206.37h-41.05c0,7.45,1.99,14.43,5.46,20.45L256.83,206.37z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-left" x1="2.5" y1="352.5" x2="256.83" y2="206.37" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-right" x1="69.6" y1="206.37" x2="323.93" y2="352.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-left" x1="163.21" y1="2.5" x2="69.6" y2="206.37" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow-left" x1="69.6" y1="206.37" x2="2.5" y2="352.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-right" x1="256.83" y1="206.37" x2="163.21" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow-right" x1="323.93" y1="352.5" x2="256.83" y2="206.37" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="69.6" y1="206.37" x2="256.83" y2="206.37" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 75 54.45" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 30 -- Red and dotted red arc</title>
+  <path class="stroke-red" d="M5.61,51.95c-2-4.41-3.11-9.3-3.11-14.45c0-19.33,15.67-35,35-35" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-red stroke-dotted" d="M37.5,2.5c19.33,0,35,15.67,35,35c0,5.15-1.11,10.05-3.11,14.45" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

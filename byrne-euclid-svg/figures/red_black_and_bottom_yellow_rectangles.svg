@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 70 44.08" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 2, Prop 5 -- Red, black, and bottom yellow rectangles</title>
+  <rect class="fill-black" x="25.92" y="25.92" width="44.08" height="18.17" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-red" x="0" width="25.92" height="25.92" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-yellow" x="0" y="25.92" width="25.92" height="18.17" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

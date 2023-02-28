@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153.97 155" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Axiom 12 figure</title>
+  <path class="fill-red" data-name="angle-red" d="M44.56,71.52v38.89h38.89C83.45,88.93,66.04,71.52,44.56,71.52z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M44.56,58.06c21.48,0,38.89-17.41,38.89-38.89H44.56V58.06z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="2.5" y1="19.17" x2="132.66" y2="19.17" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="2.5" y1="110.41" x2="151.47" y2="110.41" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="44.56" y1="2.5" x2="44.56" y2="152.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 70 49.64" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 37 -- Small black, red, and yellow triangles</title>
+  <polygon class="fill-yellow" points="32.77,49.64 20.19,22.73 0,49.64 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-red" points="37.23,0 32.77,49.64 70,0 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-black" points="32.77,49.64 37.23,0 20.19,22.73 " style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

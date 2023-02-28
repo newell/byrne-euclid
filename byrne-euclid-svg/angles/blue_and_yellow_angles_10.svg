@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="inline large"
+   viewBox="0 0 38.055004 38.34"
+   preserveAspectRatio="xMidYMid meet"
+   role="img"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="blue_and_yellow_angles_10.svg"
+   width="38.055004"
+   height="38.34"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="18.985915"
+     inkscape:cx="-33.41951"
+     inkscape:cy="25.097552"
+     inkscape:window-width="3768"
+     inkscape:window-height="2096"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <title
+     id="title2">Book 3, Prop 32 -- Outlined, blue and yellow angles</title>
+  <path
+     class="fill-blue"
+     d="M 50.57,3.18 C 46.13,1.14 41.2,0 36,0 v 35 z"
+     style="fill:#0e638e;fill-opacity:1;stroke-opacity:0"
+     id="path8"
+     transform="translate(-34.444995)" />
+  <path
+     class="fill-yellow"
+     d="M 50.57,3.18 36,35 H 71 C 71,20.87 62.62,8.71 50.57,3.18 Z"
+     style="fill:#fac22b;fill-opacity:1;stroke-opacity:0"
+     id="path10"
+     transform="translate(-34.444995)" />
+  <rect
+     class="fill-trans"
+     x="-3.6800001"
+     y="35"
+     width="76.18"
+     height="3.3399999"
+     style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0"
+     id="rect12"
+     transform="matrix(0.49954062,0,0,1,1.8383095,0)" />
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Book 3, Prop 32 -- Outlined, blue and yellow angles</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

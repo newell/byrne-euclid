@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large" viewBox="0 0 70 53.28" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 2, Def 2 -- Red and yellow parallelograms</title>
+  <polyline class="fill-red" points="48.47,0.03 70,0.04 67.16,17.18 45.63,17.17 45.63,17.17 48.47,0.04 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-yellow" points="48.47,0.04 45.63,17.17 45.63,17.17 0,17.14 2.84,0 48.47,0.03 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-yellow" points="39.65,53.28 45.63,17.17 45.63,17.17 67.16,17.18 61.18,53.28 39.65,53.27 " style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 72 61.98" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>BOok 6, Prop 32 -- Left triangle</title>
+  <path class="fill-red" d="M12.39,40.03L1,60.98h23.84C24.84,51.93,19.8,44.07,12.39,40.03z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" d="M21.9,21.95c3.38,1.84,7.26,2.89,11.39,2.89c4.63,0,8.96-1.33,12.61-3.61L33.29,1L21.9,21.95z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M58.39,40.75c-6.74,4.21-11.23,11.69-11.23,20.23H71L58.39,40.75z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="stroke-black stroke-thin" points="33.59,1 1,60.98 71,60.98 " style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

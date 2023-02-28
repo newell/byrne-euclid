@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 76.55 100.5" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 1 -- Black and red triangles</title>
+  <polygon class="fill-red" points="76.55,100 76.55,0 63.79,100 " style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" d="M12.76,100H0L76.55,0L12.76,100z M76.55,0L51.03,100h12.76L76.55,0z M76.55,0L25.52,100h12.76L76.55,0z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-black stroke-thin" x1="0" y1="100" x2="63.79" y2="100" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

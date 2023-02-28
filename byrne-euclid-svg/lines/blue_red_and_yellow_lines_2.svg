@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline xlarge" viewBox="0 0 105 48.31" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 12 -- Blue, red and yellow lines</title>
+  <line class="stroke-yellow" x1="2.5" y1="45.81" x2="80.99" y2="45.81" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" x1="72.27" y1="2.5" x2="2.5" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="102.5" y1="24.15" x2="2.5" y2="24.15" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

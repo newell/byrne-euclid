@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 105 77.68" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 10 -- Left triangle</title>
+  <line class="stroke-yellow" x1="2.5" y1="75.18" x2="102.5" y2="2.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" x1="2.5" y1="75.18" x2="78.9" y2="75.18" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="102.5" y1="2.5" x2="78.9" y2="75.18" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

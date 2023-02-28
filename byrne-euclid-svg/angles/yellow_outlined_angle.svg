@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 72 35.89" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop C -- Yellow outlined angle</title>
+  <path class="stroke-black stroke-thin" d="M1,34.89h70C71,22.59,67.83,11.04,62.26,1L1,34.89z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-yellow stroke-yellow stroke-thin" d="M49.39,8.12c4.4,7.93,6.9,17.06,6.9,26.77H71C71,22.59,67.83,11.04,62.26,1L49.39,8.12z" style="fill:#fac22b;fill-opacity:1;stroke:#fac22b;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline" viewBox="0 0 75 60.13" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 4, Prop 4 -- Black and outlined angles</title>
+  <path class="fill-black" d="M72.5,57.63L29.37,2.5c-8.32,6.52-15.12,14.88-19.8,24.46L72.5,57.63z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-black stroke-thin" d="M72.5,57.63L29.37,2.5c-8.32,6.52-15.12,14.88-19.8,24.46L72.5,57.63z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-black stroke-thin" d="M9.56,26.96C5.04,36.23,2.5,46.63,2.5,57.63h70L9.56,26.96z" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

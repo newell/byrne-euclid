@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 104.46 53.18" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 3, Prop 17 -- Bottom triangle</title>
+  <line class="stroke-blue stroke-dotted" x1="40.74" y1="1.96" x2="101.96" y2="50.68" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-black" x1="64.23" y1="50.68" x2="101.96" y2="50.68" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-dotted" x1="1.96" y1="50.68" x2="64.23" y2="50.68" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+  <line class="stroke-red stroke-dotted" x1="1.96" y1="50.68" x2="40.74" y2="1.96" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
+</svg>

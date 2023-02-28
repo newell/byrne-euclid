@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline base large" viewBox="0 0 75 75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 1, Prop 46 -- Square</title>
+  <path class="fill-black" d="M2.5,26.5c13.25,0,24-10.75,24-24h-24V26.5z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" d="M2.5,48.5v24h24C26.5,59.25,15.75,48.5,2.5,48.5z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M72.5,48.5c-13.25,0-24,10.75-24,24h24V48.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M48.5,2.5c0,13.25,10.75,24,24,24v-24H48.5z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" x1="2.5" y1="72.5" x2="2.5" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-yellow" x1="72.5" y1="2.5" x2="72.5" y2="72.5" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" x1="2.5" y1="2.5" x2="72.5" y2="2.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" x1="72.5" y1="72.5" x2="2.5" y2="72.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

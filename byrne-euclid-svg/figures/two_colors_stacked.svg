@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Two colors stacked</title>
+  <path class="fill-red" d="M0 0h300v100H0z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M0 100h300v100H0z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

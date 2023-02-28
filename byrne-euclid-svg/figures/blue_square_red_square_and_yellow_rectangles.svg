@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 75 75" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 2, Prop 4 -- Blue square, red square, and yellow rectangles</title>
+  <rect class="fill-yellow" x="0" y="0" width="43.62" height="26.38" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-yellow" x="43.62" y="26.38" width="26.38" height="43.62" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M41.12,26.38c-4.44,0-41.12,0-41.12,0V67.5v2.46h43.62V26.38H41.12z M41.12,67.5H2.5c4.17-4.17,34.45-34.45,38.62-38.62V67.5z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M70,26.38V0h-2.5H43.62v23.88v2.5H70z M67.5,2.5v21.38H46.12C49.79,20.21,63.83,6.17,67.5,2.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

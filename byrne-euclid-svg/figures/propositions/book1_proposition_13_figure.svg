@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 236.87" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 13 figure</title>
+  <path class="fill-blue" data-name="angle-blue" d="M251.5,148.44l-59.32,85.93h104.42C296.59,198.74,278.74,167.28,251.5,148.44z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" data-name="angle-red" d="M251.5,148.44c-16.85-11.65-37.29-18.49-59.32-18.49v104.42L251.5,148.44z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M192.18,129.95c-57.67,0-104.42,46.75-104.42,104.42h104.42V129.95z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-yellow" data-name="line-yellow" x1="192.18" y1="234.37" x2="334.52" y2="28.18" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="192.18" y1="234.37" x2="192.18" y2="2.5" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="2.5" y1="234.37" x2="352.5" y2="234.37" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

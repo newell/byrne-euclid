@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 276.69" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 8 figure</title>
+  <path class="fill-black" data-name="angle-left" d="M44.14,65.97c4.11,0.82,8.35,1.25,12.69,1.25c11.55,0,22.38-3.04,31.76-8.33L56.84,2.5L44.14,65.97z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-left" x1="174.3" y1="211.06" x2="56.84" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-left" x1="2.5" y1="274.19" x2="174.3" y2="211.06" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-left" x1="56.84" y1="2.5" x2="2.5" y2="274.19" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="fill-black" data-name="angle-right" d="M222.34,65.97c4.11,0.82,8.35,1.25,12.69,1.25c11.55,0,22.38-3.04,31.76-8.33L235.03,2.5L222.34,65.97z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue-right" x1="352.5" y1="211.06" x2="235.03" y2="2.5" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black-right" x1="180.7" y1="274.19" x2="352.5" y2="211.06" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red-right" x1="235.03" y1="2.5" x2="180.7" y2="274.19" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

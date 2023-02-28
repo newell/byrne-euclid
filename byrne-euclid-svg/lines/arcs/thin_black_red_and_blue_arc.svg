@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline xlarge" viewBox="0 0 70 10.65" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 6, Prop 33 -- Thin black, red, and blue arc</title>
+  <path class="fill-red" d="M47.11,9.65l-0.33-1.99c-3.96,0.66-8.03,0.99-12.18,0.97c-3.87-0.02-7.67-0.36-11.37-0.97l-0.33,1.99c3.81,0.63,7.71,0.98,11.69,1C38.85,10.67,43.03,10.33,47.11,9.65z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" d="M69.04,0c-6.83,3.71-14.33,6.35-22.26,7.66l0.33,1.99C55.27,8.3,62.98,5.59,70,1.77L69.04,0z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-black" d="M23.23,7.66C15.28,6.34,7.78,3.71,0.96,0L0,1.77c7.02,3.82,14.73,6.52,22.89,7.88L23.23,7.66z" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355 355" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Proposition 26 figure</title>
+  <path class="fill-red" data-name="angle-red" d="M163.13,69.22c10.93,6.21,23.57,9.77,37.04,9.77c10,0,19.54-1.96,28.27-5.51L200.17,3.96L163.13,69.22z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M231.79,220.37L177.5,177.5l-54.33,42.9c12.68,16.01,32.29,26.29,54.3,26.29C199.49,246.69,219.11,236.4,231.79,220.37z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="segment-yellow-top" d="M40.15,285.95c32.05,40.54,81.66,66.55,137.35,66.55c55.69,0,105.3-26.01,137.35-66.55L40.15,285.95L40.15,285.95z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="stroke-blue" data-name="arc-blue" d="M40.15,285.95C16.57,256.14,2.5,218.46,2.5,177.5c0-96.65,78.35-175,175-175s175,78.35,175,175c0,40.96-14.07,78.63-37.65,108.45" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="200.17" y1="3.96" x2="40.13" y2="285.95" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black stroke-thin" data-name="line-black-thin" x1="314.83" y1="285.95" x2="200.17" y2="3.96" style="stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-blue" data-name="line-blue" x1="177.5" y1="177.5" x2="40.15" y2="285.95" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-red" data-name="line-red" x1="314.85" y1="285.95" x2="177.5" y2="177.5" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <line class="stroke-black" data-name="line-black" x1="40.15" y1="285.95" x2="314.85" y2="285.95" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-blue" data-name="circle-blue" cx="177.5" cy="177.5" r="175" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-black" data-name="arc-black-top" d="M314.85,285.95c-32.05,40.54-81.66,66.55-137.35,66.55c-55.69,0-105.3-26.01-137.35-66.55" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

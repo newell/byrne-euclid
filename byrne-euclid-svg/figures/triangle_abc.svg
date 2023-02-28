@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 178.13" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Triangle ABC</title>
+  <path class="fill-red" data-name="angle-red" d="M21.82 172.56h60.89a61.69 61.69 0 0 0-9.48-32.94l-51.41 32.94z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-yellow" data-name="angle-yellow" d="M238.67 33.61l-51.71 33.14c11.03 17.16 30.27 28.55 52.19 28.55 12.12 0 23.41-3.49 32.96-9.5l-33.44-52.19z" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-blue" data-name="angle-blue" d="M294.3 120.43c-17.11 11.04-28.45 30.25-28.45 52.13h61.85l-33.4-52.13z" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <text data-name="a" transform="translate(0 173.358)">A</text>
+  <text data-name="b" transform="translate(236.278 15.968)">B</text>
+  <text data-name="c" transform="translate(338.935 173.358)">C</text>
+  <path class="stroke-red" data-name="line-red" d="M238.67 33.61l89.03 138.95" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-blue" data-name="line-blue" d="M21.82 172.56L238.67 33.61" style="stroke:#0e638e;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <path class="stroke-yellow" data-name="line-yellow" d="M327.7 172.56H21.82" style="stroke:#fac22b;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 185" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Definition 3 figure</title>
+  <path class="fill-red" d="M92.5,2.5L66.43,28.57c6.67,6.67,15.89,10.8,26.07,10.8s19.4-4.13,26.07-10.8L92.5,2.5z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M156.43,118.57L182.5,92.5l-26.07-26.07c-6.67,6.67-10.8,15.89-10.8,26.07S149.75,111.9,156.43,118.57z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M118.57,156.43c-6.67-6.67-15.89-10.8-26.07-10.8c-10.18,0-19.4,4.13-26.07,10.8L92.5,182.5L118.57,156.43z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <path class="fill-red" d="M28.57,66.43L2.5,92.5l26.07,26.07c6.67-6.67,10.8-15.89,10.8-26.07S35.25,73.1,28.57,66.43z" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="stroke-red" x="28.86" y="28.86" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -38.3148 92.5)" width="127.28" height="127.28" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+  <circle class="stroke-black" cx="92.5" cy="92.5" r="90" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="inline large base" viewBox="0 0 70 45.42" preserveAspectRatio="xMidYMid meet" role="img">
+  <title>Book 2, Prop 6 -- Blue and red squares and yellow and black rectangles</title>
+  <rect class="fill-black" x="45.42" y="24.58" width="24.58" height="20.84" style="fill:#000000;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-yellow" x="20.84" y="24.58" width="24.58" height="20.84" style="fill:#fac22b;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-blue" y="24.58" width="20.84" height="20.84" style="fill:#0e638e;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-red" x="20.84" width="24.58" height="24.58" style="fill:#d42a20;fill-opacity:1;stroke-opacity:0;"/>
+</svg>
