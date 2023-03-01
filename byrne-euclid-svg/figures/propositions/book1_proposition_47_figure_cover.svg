@@ -20,8 +20,8 @@
   <line class="stroke-red stroke-dotted" data-name="line-red-dotted" x1="222.43" y1="190.96" x2="222.3" y2="350" style="stroke:#d42a20;stroke-width:5;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:5;fill-opacity:0;"/>
   <line class="stroke-black" data-name="line-black-bottom" x1="95.01" y1="127.43" x2="222.3" y2="350" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
   <line class="stroke-black" data-name="line-black-top" x1="63.4" y1="190.83" x2="285.97" y2="63.53" style="stroke:#000000;stroke-width:5;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0;"/>
-  <polyline class="fill-trans ignore" data-name="mask" points="0,159.22 63.4,190.83 63.26,349.86 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
-  <polyline class="fill-trans ignore" data-name="mask" points="31.61,95.82 95.01,127.43 158.54,0 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
-  <rect class="fill-trans ignore" data-name="mask" x="58.98" y="350" width="171.59" height="12.83" style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
-  <polygon class="fill-trans ignore" data-name="mask" points="158.54,-20 293.89,47.48 293.89,67.48 158.54,0 " style="fill:#fcf3d9;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-trans ignore" data-name="mask" points="0,159.22 63.4,190.83 63.26,349.86 " style="fill:#b3b3b3;fill-opacity:1;stroke-opacity:0;"/>
+  <polyline class="fill-trans ignore" data-name="mask" points="31.61,95.82 95.01,127.43 158.54,0 " style="fill:#b3b3b3;fill-opacity:1;stroke-opacity:0;"/>
+  <rect class="fill-trans ignore" data-name="mask" x="58.98" y="350" width="171.59" height="12.83" style="fill:#b3b3b3;fill-opacity:1;stroke-opacity:0;"/>
+  <polygon class="fill-trans ignore" data-name="mask" points="158.54,-20 293.89,47.48 293.89,67.48 158.54,0 " style="fill:#b3b3b3;fill-opacity:1;stroke-opacity:0;"/>
 </svg>
