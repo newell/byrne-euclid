@@ -1,0 +1,169 @@
+% Don't show subsubsection titles -- these still show up in TOC (as desired)
+\makeatletter
+\titleformat{\subsubsection}[runin]{}{}{0pt}{\@gobble}
+\makeatother
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[LO,RE]{\thepage}%
+
+% TOC - image setup
+\newcounter{propimage}
+\makeatletter
+\newcommand\stdsectioninToC{
+    \titlecontents{subsubsection}[3.8em]
+    {}%
+    {\contentslabel{2.3em}}%
+    {\hspace*{2.3em}}%
+    {\titlerule*[1em]{.}\contentspage}
+}
+\newcommand\iconsectioninToC{
+    \titlecontents{subsubsection}[3.8em]
+    {\vskip 2ex}%
+    {\hspace*{-2.3em}}%
+    {
+        \contentslabel{2.3em}%
+        \stepcounter{propimage}%
+        \smash{\includegraphics[width=50pt,height=25pt,keepaspectratio]{\MyPath/toc-images/image-\the\value{propimage}}}\hspace{0.5em}%
+    }%
+    {\titlerule*[1em]{.}\contentspage}%
+}
+\AtBeginDocument{\stdsectioninToC}
+\makeatother
+
+\setcounter{secnumdepth}{-3}
+\setcounter{tocdepth}{3}
+
+% Set the Font
+\setmainfont{EBGaramond-Regular.otf}[
+    BoldFont = EBGaramond-Bold.otf,
+    ItalicFont = EBGaramond-Italic.otf,
+    BoldItalicFont = EBGaramond-BoldItalic.otf,
+    SmallCapsFont = EBGaramond12-AllSC.otf,
+    Numbers = {OldStyle,Proportional},
+    Ligatures = {Discretionary},
+    RawFeature = {+ss06}
+]
+\newfontfamily\euclidinitials{EuclidInitialsnormal.ttf}
+
+% Set the SVG paths (when I tried multiple lines to make this more readable it errored on me)
+\svgpath{{\MyPath/symbols/}{\MyPath/byrne-euclid-svg/lines/}{\MyPath/byrne-euclid-svg/lines/points/}{\MyPath/byrne-euclid-svg/lines/arcs/}{\MyPath/byrne-euclid-svg/circles/}{\MyPath/byrne-euclid-svg/triangles/}{\MyPath/byrne-euclid-svg/figures/}{\MyPath/byrne-euclid-svg/figures/definitions/}{\MyPath/byrne-euclid-svg/figures/propositions/}{\MyPath/byrne-euclid-svg/angles/}{\MyPath/byrne-euclid-svg/symbols/}{\MyPath/byrne-euclid-svg/lines/}{\MyPath/byrne-euclid-svg/lines/points/}{\MyPath/byrne-euclid-svg/lines/arcs/}{\MyPath/byrne-euclid-svg/circles/}{\MyPath/byrne-euclid-svg/triangles/}{\MyPath/byrne-euclid-svg/figures/}{\MyPath/byrne-euclid-svg/figures/definitions/}{\MyPath/byrne-euclid-svg/figures/propositions/}{\MyPath/byrne-euclid-svg/angles/}{\MyPath/byrne-euclid-svg/icons/}}
+
+% Create counter for lists.
+\newcounter{listcounter}
+
+% Colors
+\definecolor{cred}{RGB}{212,42,32} % red
+\definecolor{cyellow}{RGB}{250,194,43} % yellow
+\definecolor{cblue}{RGB}{14,99,142} % blue
+\definecolor{ctrans}{RGB}{252,243,217} % transparent
+\definecolor{background}{HTML}{fcf3d9}
+
+\newlength\mytemplena
+\newlength\mytemplenb
+\DeclareDocumentCommand\myalignalign{sm}
+{
+    \settowidth{\mytemplena}{$\displaystyle #2$}%
+    \setlength\mytemplenb{\widthof{$\displaystyle=$}/2}%
+    \hskip-\mytemplena%
+    \hskip\IfBooleanTF#1{-\mytemplenb}{+\mytemplenb}%
+}
+
+% Images
+\NewDocumentCommand{\img}{%
+    O{0}
+    O{0}
+    O{25}
+    O{0}
+    m
+}{%
+    \begin{array}{c}
+        \vspace{#1ex}\hspace{#2ex}\includesvg[width=#3pt]{#5}\hspace{#4ex}
+    \end{array}
+}
+
+% Common Symbols
+\newcommand*{\bplus}{\img[-0.8][0][10]{plus}}
+\newcommand*{\bminus}{\img[0.8][0][10]{minus}}
+\newcommand*{\bcross}{\img[-0.85][0][10]{cross}}
+\newcommand*{\bequals}{\img[-0.1][0][10]{equals}}
+\newcommand*{\bnequals}{\img[-0.85][0][10]{nequals}}
+\newcommand*{\bparallel}{\img[-0.85][0][7]{parallel}}
+\newcommand*{\bnparallel}{\img[-0.85][0][11]{not_parallel}}
+\newcommand*{\bperiod}{\img[-0.5][-1][3]{period}}
+\newcommand*{\bmark}{\img[-0.5][-1][3]{mark}}
+\newcommand*{\bmultiply}{\img[1][0][3]{period}}
+\newcommand*{\bsemicolon}{\img[-1.4][-1][3]{semicolon}}
+\newcommand*{\bcolon}{\img[-0.5][0][3]{colon}}
+\newcommand*{\bbcolon}{\bcolon\hspace{-1.5ex}\bcolon}
+\newcommand*{\bcomma}{\img[-1.5][-1][3]{comma}}
+\newcommand*{\btherefore}{\img[-0.5][0][10]{therefore}}
+\newcommand*{\bgt}{\img[-0.85][0][10]{greater_than}}
+\newcommand*{\blt}{\img[-0.85][0][10]{less_than}}
+\newcommand*{\bperp}{\img[0][0][15]{perpendicular}}
+
+% Common Lines
+\newcommand*{\bimg}[1]{\img[0.8][0][45]{#1}}
+\newcommand*{\redlines}{\bimg{red_lines}}
+\newcommand*{\bluelines}{\bimg{blue_lines}}
+\newcommand*{\blacklines}{\bimg{black_lines}}
+
+\newcommand*{\redline}{\img[0.8][0][30]{red_line}}
+\newcommand*{\redthinline}{\img[0.8][0][30]{red_thin_line}}
+\newcommand*{\dottedredline}{\img[0.8][0][30]{red_dotted_line}}
+\newcommand*{\blueline}{\img[0.8][0][30]{blue_line}}
+\newcommand*{\bluethinline}{\img[0.8][0][30]{blue_thin_line}}
+\newcommand*{\dottedblueline}{\img[0.8][0][30]{blue_dotted_line}}
+\newcommand*{\blackline}{\img[0.8][0][30]{black_line}}
+\newcommand*{\blackthinline}{\img[0.8][0][30]{black_thin_line}}
+\newcommand*{\blackthindottedline}{\img[0.8][0][30]{black_thin_dotted_line}}
+\newcommand*{\dottedblackline}{\img[0.8][0][30]{black_dotted_line}}
+\newcommand*{\yellowline}{\img[0.8][0][30]{yellow_line}}
+\newcommand*{\yellowthinline}{\img[0.8][0][30]{yellow_thin_line}}
+\newcommand*{\dottedyellowline}{\img[0.8][0][30]{yellow_dotted_line}}
+
+% Common Angles
+\newcommand*{\tworightangles}{\img[0][0][30]{two_right_angles}}
+
+% Common Shapes -- Book 5
+\newcommand*{\reddome}{\img[-0.8][-0.5][10][-0.5]{red_dome_icon}}
+\newcommand*{\bluedome}{\img[-0.8][-0.5][10][-0.5]{blue_dome_icon}}
+\newcommand*{\blackdome}{\img[-0.8][-0.5][10][-0.5]{black_dome_icon}}
+\newcommand*{\yellowdome}{\img[-0.8][-0.5][10][-0.5]{yellow_dome_icon}}
+
+\newcommand*{\redcircle}{\img[-0.8][-0.5][10][-0.5]{red_circle_icon}}
+\newcommand*{\bluecircle}{\img[-0.8][-0.5][10][-0.5]{blue_circle_icon}}
+\newcommand*{\blackcircle}{\img[-0.8][-0.5][10][-0.5]{black_circle_icon}}
+\newcommand*{\yellowcircle}{\img[-0.8][-0.5][10][-0.5]{yellow_circle_icon}}
+
+\newcommand*{\reddrop}{\img[-0.8][-0.5][10][-0.5]{red_drop_icon}}
+\newcommand*{\bluedrop}{\img[-0.8][-0.5][10][-0.5]{blue_drop_icon}}
+\newcommand*{\blackdrop}{\img[-0.8][-0.5][10][-0.5]{black_drop_icon}}
+\newcommand*{\yellowdrop}{\img[-0.8][-0.5][10][-0.5]{yellow_drop_icon}}
+
+\newcommand*{\redhome}{\img[-0.8][-0.5][10][-0.5]{red_home_icon}}
+\newcommand*{\bluehome}{\img[-0.8][-0.5][10][-0.5]{blue_home_icon}}
+\newcommand*{\blackhome}{\img[-0.8][-0.5][10][-0.5]{black_home_icon}}
+\newcommand*{\yellowhome}{\img[-0.8][-0.5][10][-0.5]{yellow_home_icon}}
+
+\newcommand*{\redsquare}{\img[-0.8][-0.5][10][-0.5]{red_square_icon}}
+\newcommand*{\smallredsquare}{\img[-0.8][-0.5][5][-0.5]{red_square_icon}}
+\newcommand*{\bluesquare}{\img[-0.8][-0.5][10][-0.5]{blue_square_icon}}
+\newcommand*{\bblacksquare}{\img[-0.8][-0.5][10][-0.5]{black_square_icon}}
+\newcommand*{\yellowsquare}{\img[-0.8][-0.5][10][-0.5]{yellow_square_icon}}
+\newcommand*{\transsquare}{\img[-0.8][-0.5][10][-0.5]{trans_square_icon}}
+
+\newcommand*{\reddiamond}{\img[-0.8][-0.5][8][-0.5]{red_diamond_icon}}
+\newcommand*{\bluediamond}{\img[-0.8][-0.5][8][-0.5]{blue_diamond_icon}}
+\newcommand*{\blackdiamond}{\img[-0.8][-0.5][8][-0.5]{black_diamond_icon}}
+\newcommand*{\yellowdiamond}{\img[-0.8][-0.5][8][-0.5]{yellow_diamond_icon}}
+\newcommand*{\transdiamond}{\img[-0.8][-0.5][8][-0.5]{trans_diamond_icon}}
+
+\newcommand*{\redtriangle}{\img[-0.8][-0.5][10][-0.5]{red_triangle_icon}}
+\newcommand*{\bluetriangle}{\img[-0.8][-0.5][10][-0.5]{blue_triangle_icon}}
+\newcommand*{\bblacktriangle}{\img[-0.8][-0.5][10][-0.5]{black_triangle_icon}}
+
+\newcommand*{\blackrectangle}{\img[-0.8][-0.5][10][-0.5]{black_rectangle_icon}}
+\newcommand*{\yellowrectangle}{\img[-0.8][-0.5][10][-0.5]{yellow_rectangle_icon}}
+

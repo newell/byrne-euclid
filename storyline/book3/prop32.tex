@@ -1,0 +1,54 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XXXII. Theorem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book3_proposition_32_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XXXII. THEOREM.}\phantomsection\label{book3pr32} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a right line} $\blueline$ \textit{be a tangent to a circle\\ and from the point of contact a right line} $\redline$\\ \textit{be drawn cutting the circle, the angle} $\img{bottom_yellow_angle_5}$ \textit{made}
+    \end{center}
+    \raggedright \textit{by this line with the tangent is equal to the angle} $\img{top_yellow_angle_6}$ \textit{in the alternate ſegment of the circle}.
+
+    \hfill
+
+    \hfill
+
+    \raggedright If the chord ſhould paſs through the centre, it is evident the angles are equal, for each of them is a right angle [\textsc{III.} \hyperref[book3pr16]{16}, \hyperref[book3pr31]{31}].\\
+    \hfill\\
+    But if not, draw $\blackline \bperp \blueline$ from the point of contact, it muſt paſs through the centre of the circle [\textsc{III.} \hyperref[book3pr19]{19}].
+
+    \hfill
+
+    \begin{center}
+        $\btherefore \img{black_angle_27} \bequals \img{right_angle}$ [\hyperref[book3pr31]{\textsc{III.} 31}]\\
+        $\img{top_yellow_angle_6} \bplus \img[0][0][12]{blue_angle_42} \bequals \img{right_angle} \bequals \img[0][0][30]{blue_and_yellow_angles_10}$ [\hyperref[book3pr32]{\textsc{III.} 32}]\\
+        $\btherefore \img{top_yellow_angle_6} \bequals \img{bottom_yellow_angle_5}$ [\hyperref[book1ax3]{ax. 3}].\\
+        Again $\img[0][0][30]{outlined_blue_and_yellow_angles} \bequals \img[0][0][30]{two_right_angles} \bequals \img{top_yellow_angle_6} \bplus \img[0][0][20]{red_angle_37}$ [\hyperref[book3pr22]{\textsc{III.} 22}]\\
+        \hfill\\
+        $\btherefore \img{outlined_and_blue_angles} \bequals \img[0][0][20]{red_angle_37} \bcomma$ [\hyperref[book1ax3]{ax. 3}], which is the angle in the alternate ſegment.
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+
+\end{document}

@@ -1,0 +1,57 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XXV. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XXV. THEOREM.}\phantomsection\label{book1pr25} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{two triangles have two ſides} (\hspace{-1ex}$\redline$ \textit{and}\\ $\blueline$\hspace{-1ex}) \textit{of the one reſpectively equal to two ſides}\\ (\hspace{-1ex}$\redthinline$ \textit{and} $\bluethinline$\hspace{-1ex}) \textit{of the other, but their baſes}\\
+    \end{center}
+    \raggedright \textit{unequal, the angle ſubtended by the greater baſe} (\hspace{-1ex}$\blackline$\hspace{-1ex}) \textit{of the one, muſt be greater than the angle ſubtended by the leſs baſe} (\hspace{-1ex}$\yellowline$\hspace{-1ex}) \textit{of the other}.
+
+    \hfill
+
+    \hfill
+
+    {\vspace{1ex}\begin{center}
+            $\img{yellow_angle_12} \bequals \bcomma \bgt$ or $\blt \img[0][0][17]{black_angle_7}$\\
+            $\img{yellow_angle_12}$ is not equal to $\img[0][0][17]{black_angle_7}$\\
+            for if $\img{yellow_angle_12} \bequals \img[0][0][17]{black_angle_7}$ then $\blackline \bequals \yellowline$ [\hyperref[book1pr4]{\textsc{I.} 4}]\\
+            which is contrary to the hypotheſis;
+        \end{center}}
+
+    \hfill
+
+    \begin{center}
+        $\img{yellow_angle_12}$ is not leſs than $\img[0][0][17]{black_angle_7}$\\
+        for if $\img{yellow_angle_12} \blt \img[0][0][17]{black_angle_7}$\\
+        then $\blackline \blt \yellowline$ [\hyperref[book1pr24]{\textsc{I.} 24}],\\
+        which is alſo contrary to the hypotheſis:\\
+        \hfill\\
+        $\btherefore \img{yellow_angle_12} \bgt \img[0][0][17]{black_angle_7} \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book1_proposition_25_figure}
+\end{minipage}
+
+\end{document}

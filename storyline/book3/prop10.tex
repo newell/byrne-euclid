@@ -1,0 +1,53 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{X. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION X. THEOREM.}\phantomsection\label{book3pr10} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{O}}{}NE \textit{circle} $\img[0][0][20]{blue_circle_3}$ \textit{cannot interſect another} $\img[0][0][20]{red_circle_3}$ \textit{in\\ more points than two}.
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        For if it be poſſible, let it interſect in three points; from the centre of $\img{blue_circle_2}$ draw $\blackline \bcomma \yellowline$ and $\blueline$ to the points of interſection;\\
+        $\btherefore \blackline \bequals \yellowline \bequals \blueline$ [\hyperref[book1def15]{\textsc{I.} def. 15}],\\
+        but as the circles interſect, they have not the ſame centre [\hyperref[book1pr5]{\textsc{III.} 5}]:\\
+        $\btherefore$ the aſſumed point is not the centre of $\img{red_circle_2} \bcomma$ and
+    \end{center}
+
+    \hfill
+
+    $\btherefore$ as $\blackline \bcomma \yellowline$ and $\blueline$ are drawn from a point and not the centre, they are not equal [\textsc{III.} \hyperref[book3pr7]{7}, \hyperref[book3pr8]{8}]; but it was ſhewn before that they were equal, in which is abſurd; the circles therefore do not interſect in three points.
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book3_proposition_10_figure_1}
+    \hfill\\
+    \includesvg[width=\textwidth]{book3_proposition_10_figure_2}
+\end{minipage}%
+
+\end{document}

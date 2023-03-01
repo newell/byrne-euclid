@@ -1,0 +1,111 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+\null\removelastskip\nointerlineskip\vspace*{-\baselineskip}
+
+\subsubsection{G. Theorem}
+
+\newcommand{\blueA}{{\color{cblue}{A}}}
+\newcommand{\blueB}{{\color{cblue}{B}}}
+\newcommand{\blueC}{{\color{cblue}{C}}}
+\newcommand{\blueD}{{\color{cblue}{D}}}
+\newcommand{\blueE}{{\color{cblue}{E}}}
+\newcommand{\blueF}{{\color{cblue}{F}}}
+\newcommand{\blueG}{{\color{cblue}{G}}}
+\newcommand{\blueH}{{\color{cblue}{H}}}
+
+\newcommand{\redP}{{\color{cred}{P}}}
+\newcommand{\redQ}{{\color{cred}{Q}}}
+\newcommand{\redR}{{\color{cred}{R}}}
+\newcommand{\redS}{{\color{cred}{S}}}
+\newcommand{\redT}{{\color{cred}{T}}}
+
+\newcommand{\yellowV}{{\color{cyellow}{V}}}
+\newcommand{\yellowW}{{\color{cyellow}{W}}}
+\newcommand{\yellowX}{{\color{cyellow}{X}}}
+\newcommand{\yellowY}{{\color{cyellow}{Y}}}
+\newcommand{\yellowZ}{{\color{cyellow}{Z}}}
+
+\begin{minipage}{\textwidth}
+
+    \begin{center}
+        \textit{PROPOSITION G. THEOREM.}\phantomsection\label{book5prG} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{ſeveral ratios be the ſame to ſeveral ratios, each to each, the ratio which is compounded\\ of ratios which are the ſame to the firſt ratios, each to each, ſhall be the ſame\\ to the ratio compounded of ratios which are the ſame to the other ratios, each to each}.
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        \minibox[frame]{\blueA\ \ \blueB\ \ \blueC\ \ \blueD\ \ \blueE\ \ \blueF\ \ \blueG\ \ \blueH \qquad \qquad \qquad \qquad \redP\ \ \redQ\ \ \redR\ \ \redS\ \ \redT\ \\ \textit{a}\ \, \textit{b}\, \, \textit{c}\, \, \textit{d}\, \ \textit{e}\, \ \textit{f}\, \ \textit{g}\, \ \textit{h} \qquad \qquad \qquad \qquad \yellowV\, \yellowW\,  \yellowX\,  \yellowY\,  \yellowZ}
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        $\begin{array}{l | c | r}
+                \begin{aligned}
+                    \text{If \blueA\ : \blueB\ }  & \text{:: \textit{a}\ : \textit{b} \quad} \\
+                    \text{\blueC\ : \blueD\ }     & \text{:: \textit{c}\ : \textit{d} \quad} \\
+                    \text{\blueE\ : \blueF\ }     & \text{:: \textit{e}\ : \textit{f} \quad} \\
+                    \text{and \blueG\ : \blueH\ } & \text{:: \textit{g}\ : \textit{h} \quad} \\
+                \end{aligned} &
+                \begin{aligned}
+                    \text{\quad and \blueA\ : \blueB\ } & \text{:: \redP\ : \redQ \quad} \\
+                    \text{\quad \blueC\ : \blueD\ }     & \text{:: \redQ\ : \redR \quad} \\
+                    \text{\quad \blueE\ : \blueF\ }     & \text{:: \redR\ : \redS \quad} \\
+                    \text{\quad and \blueG\ : \blueH\ } & \text{:: \redS\ : \redT \quad} \\
+                \end{aligned}                             &
+                \begin{aligned}
+                    \text{\quad \textit{a}\ : \textit{b}\ } & \text{:: \yellowV\ : \yellowW} \\
+                    \text{\quad \textit{c}\ : \textit{d}\ } & \text{:: \yellowW\ : \yellowX} \\
+                    \text{\quad \textit{e}\ : \textit{f}\ } & \text{:: \yellowX\ : \yellowY} \\
+                    \text{\quad \textit{g}\ : \textit{h}\ } & \text{:: \yellowY\ : \yellowZ} \\
+                \end{aligned}
+            \end{array}$\\
+        \qquad \ \ then \redP\ : \redT\ $\bequals$ \yellowV\ : \yellowZ.
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        $\begin{aligned} \text{For } \dfrac{\text{\redP}}{\text{\redQ}} \bequals \dfrac{\text{\blueA}}{\text{\blueB}} & \bequals \dfrac{\textit{a}}{\textit{b}}                                                                                    \bequals \dfrac{\text{\yellowV}}{\text{\yellowW}}, \\[0.5ex]
+                \dfrac{\text{\redQ}}{\text{\redR}} \bequals \dfrac{\text{\blueC}}{\text{\blueD}}             & \bequals \dfrac{\textit{c}}{\textit{d}}               \bequals \dfrac{\text{\yellowW}}{\text{\yellowX}},                                                                      \\[0.5ex]
+                \dfrac{\text{\redR}}{\text{\redS}} \bequals \dfrac{\text{\blueE}}{\text{\blueF}}             & \bequals \dfrac{\textit{e}}{\textit{f}}              \bequals \dfrac{\text{\yellowX}}{\text{\yellowY}},                                                                       \\[0.5ex]
+                \dfrac{\text{\redS}}{\text{\redT}} \bequals \dfrac{\text{\blueF}}{\text{\blueH}}             & \bequals \dfrac{\textit{g}}{\textit{h}}              \bequals \dfrac{\text{\yellowY}}{\text{\yellowZ}};                                                                       \\[0.5ex]
+                \hfill\end{aligned}$\\                                                                                                            \end{center}
+\end{minipage}
+
+\newpage
+
+\begin{minipage}{\textwidth}
+    \begin{center}
+        $\begin{aligned}
+                \text{and }\btherefore \dfrac{\text{\redP\ × \redQ\ × \redR\ × \redS}}{\text{\redQ\ × \redR\ × \redS\ × \redT}} & \bequals \dfrac{\text{\yellowV\ × \yellowW\ × \yellowX\ × \yellowY}}{\text{\yellowW\ × \yellowX\ × \yellowY\ × \yellowZ}},\end{aligned}$\\
+        \hfill\\
+        \hfill\\
+        and $\btherefore \dfrac{\text{\redP}}{\text{\redT}} \bequals \dfrac{\text{\yellowV}}{\text{\yellowZ}}$,\\
+        \hfill\\
+        or the ratio of \redP\ : \redT\ $\bequals$ \yellowV\ : \yellowZ.
+    \end{center}
+
+    \hfill
+
+    $\btherefore$ If ſeveral ratios, \&c.
+
+    \hfill Q.E.D.
+\end{minipage}
+
+\end{document}

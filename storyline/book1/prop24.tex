@@ -1,0 +1,53 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XXIV. Theorem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book1_proposition_24_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XXIV. THEOREM.}\phantomsection\label{book1pr24} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{two triangles have two ſides of one reſpectively\\ equal to two ſides of the other} (\hspace{-1ex}$\blueline$ \textit{to} $\bluethinline$\\ \textit{and} $\dottedredline$ \textit{to} $\redthinline$\hspace{-1ex}), \textit{and if one of the angles}\\
+    \end{center}
+    \vspace{1ex}
+    (\hspace{-1ex}$\img{left_top_angles}$\hspace{-1ex}) \textit{contained by} \textit{the equal ſides be greater than the other } (\hspace{-1ex}$\img[0][0][20]{right_top_angle}$\hspace{-1ex}), \textit{the ſide} (\hspace{-1ex}$\blackline$\hspace{-1ex}) \textit{which is oppoſite to the greater angle is greater than the ſide} (\hspace{-1ex}$\yellowline$\hspace{-1ex}) \textit{which is oppoſite to the leſs angle}.
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        $\begin{aligned} \text{Make } \img[0][0][20]{left_top_right_angle} & \bequals \img[0][0][20]{right_top_angle} \text{ [\hyperref[book1pr23]{\textsc{I.} 23}],} \\
+                \text{and } \redline                              & \bequals \redthinline \text{ [\hyperref[book1pr3]{\textsc{I.} 3}],}\end{aligned}$\\
+        draw $\dottedblueline$ and $\dottedblackline \bperiod$\\
+        Becauſe $\redline \bequals \dottedredline$ [\hyperref[ax1]{ax. 1.} hyp. conſt.]\\
+        $\btherefore \img[0][0][20]{blue_and_red_angles_3} \bequals \img{yellow_angle_11}$ [\hyperref[book1pr5]{\textsc{I.} 5}]\\
+        but $\img{red_angle_11} \blt \img{yellow_angle_11}$\\
+        and $\btherefore \img{red_angle_11} \blt \img{black_and_yellow_angles} \bcomma$\\
+        $\btherefore \blackline \bgt \dottedblackline$ [\hyperref[book1pr19]{\textsc{I.} 19}]\\
+        but $\dottedblackline \bequals \yellowline$ [\hyperref[book1pr4]{\textsc{I.} 4}]\\
+        $\btherefore \blackline \bgt \yellowline \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}
+
+\end{document}

@@ -1,0 +1,67 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{VIII. Problem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book4_proposition_8_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION VIII. PROBLEM.}\phantomsection\label{book4pr8} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{T}}{}O \textit{inſcribe a circle in a given ſquare}.
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        \begin{align*}
+            \text{Make} \blueline                            & \bequals \dottedblueline \bcomma                                                            \\
+            \text{and} \redline                              & \bequals \dottedredline \bcomma                                                             \\
+            \text{draw} \bimg{dotted_yellow_and_yellow_line} & \bparallel  \bimg{blue_and_dotted_blue_line_7} \bcomma                                      \\
+            \text{and} \bimg{dotted_black_and_black_line}    & \bparallel \bimg{dotted_red_and_red_line_4} \text{ [\hyperref[book1pr31]{\textsc{I.} 31}].}
+        \end{align*}
+    \end{center}
+
+    \begin{center}
+        $\btherefore \img{black_square_2}$ is a parallelogram;\\
+        and ſince $\bimg{blue_and_dotted_blue_line_7} \bequals \bimg{dotted_red_and_red_line_4}$ [hyp.]\\
+        $\blueline \bequals \dottedredline$\\
+        \hfill\\
+        $\btherefore \img{black_square_2}$ is equilateral [\hyperref[book1pr34]{\textsc{I.} 34}].
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        In like manner, it can be ſhown that\\
+        $\img{blue_square} \bequals \img{red_square_2}$ are equilateral parallelograms;\\
+        $\btherefore \dottedblackline \bequals \dottedyellowline \bequals \blackline \bequals \yellowline \bcomma$
+    \end{center}
+
+    \hfill
+
+    \raggedright and therefore if a circle be deſcribed from the concourſe of theſe lines with any one of them as radius, it will be inſcribed in the given ſquare [\hyperref[book1pr16]{\textsc{I.} 16}].
+
+    \hfill
+
+    \hfill Q.E.F.
+\end{minipage}
+
+\end{document}

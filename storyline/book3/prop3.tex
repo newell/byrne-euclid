@@ -1,0 +1,64 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{III. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION III. THEOREM.}\phantomsection\label{book3pr3} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line} (\hspace{-1ex}$\blackline$\hspace{-1ex}) \textit{drawn through the centre\\ of a circle} $\img{blue_circle_2}$ \textit{biſects a chord} (\hspace{-1ex}$\bimg{red_and_dotted_red_line_3}$\hspace{-1.5ex}) \textit{which\\ does not paſs through the centre, it is perpendicular}\\
+    \end{center}
+    \textit{to it; or, if perpendicular to it, it biſects it}.
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        Draw $\blueline$ and $\yellowline$ to the centre of the circle.
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        In $\img{left_triangle_5}$ and $\img{right_triangle_5}$\\
+        $\yellowline \bequals \blueline \bcomma \blackline$ common, and\\
+        $\redline \bequals \dottedredline \btherefore \img{black_angle_20} \bequals \img{yellow_angle_28}$ [\hyperref[book1pr8]{\textsc{I.} 8}]\\
+        and $\btherefore \bperp \bimg{red_and_dotted_red_line_3}$ [\hyperref[book1def10]{\textsc{I.} def. 10}].\\
+        Again let $\blackline \bperp \bimg{red_and_dotted_red_line_3} \bperiod$\\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        Then in $\img{left_triangle_5}$ and $\img{right_triangle_5}$\\
+        $\img{blue_angle_27} \bequals \img{red_angle_25}$ [\hyperref[book1pr5]{\textsc{I.} 5}]\\
+        $\img{black_angle_20} \bequals \img{yellow_angle_28}$ [hyp.]\\
+        and $\yellowline \bequals \blueline$\\
+        $\btherefore \redline \bequals \dottedredline$ [\hyperref[book1pr26]{\textsc{I.} 26}]\\
+        and $\btherefore \blackline$ biſects $\bimg{red_and_dotted_red_line_3} \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book3_proposition_3_figure}
+\end{minipage}%
+
+\end{document}

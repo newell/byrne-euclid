@@ -1,0 +1,58 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{I. Problem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION I. PROBLEM.}\phantomsection\label{book1pr1} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{O}}{}N \textit{a given finite ſtraight line} (\hspace{-1ex}$\blackline$\hspace{-1ex}) \textit{to deſcribe an \\ equilateral triangle.}
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        Deſcribe $\img{blue_circle_and_black_line}$ and $\img{red_circle_and_black_line}$ [\hyperref[post3]{poſtulate 3}]; \\
+        draw $\yellowline$ and $\redline$ [\hyperref[post1]{poſt. 1}], \\
+        then $\img{triangle}$ will be equilateral.
+    \end{center}
+
+    \begin{center}
+        \begin{align*}
+            \text{For } \blackline  & \bequals \yellowline \text{ [\hyperref[book1def15]{\textsc{I.} def. 15}];} \\
+            \text{and } \blackline  & \bequals \redline \text{ [\hyperref[book1def15]{\textsc{I.} def. 15}],}    \\
+            \btherefore \yellowline & \bequals \redline \text{ [\hyperref[ax1]{axiom. 1}];}
+        \end{align*}
+    \end{center}
+
+    \begin{center}
+        and therefore $\img{triangle}$ is the equilateral triangle required.
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.F.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book1_proposition_1_figure}
+\end{minipage}%
+
+\end{document}

@@ -1,0 +1,67 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XXII. Theorem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book1_proposition_22_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XXII. THEOREM.}\phantomsection\label{book1pr22} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{G}}{}IVEN \textit{three right lines} $\{\img[-0.5][-0.5]{three_dotted_lines}$ \textit{the ſum of any two\\ greater than the third, to conſtruct a triangle whoſe\\ ſides ſhall be reſpectively equal to the given lines}.
+    \end{center}
+
+    \hfill
+
+    {\vspace{-1ex}\begin{center}
+            \begin{align*}
+                \text{Aſſume } \blackline                             & \bequals \dottedblackline \text{ [\hyperref[book1pr3]{\textsc{I.} 3}].} \\
+                \myalignalign{\text{and } \redline\phantom{\ \ \ \ }} & \left.
+                \myalignalign*{\text{and } \redline\phantom{\ \ \ \ }}
+                \begin{aligned}
+                    \text{Draw } \blueline & \bequals \dottedblueline \\
+                    \text{and } \redline   & \bequals \dottedredline
+                \end{aligned}\right\} \text{ [\hyperref[book1pr2]{\textsc{I.} 2}].}
+            \end{align*}
+        \end{center}}
+
+    \hfill
+
+    \begin{center}
+        With $\blueline$ and $\redline$ as radii,\\
+        describe $\img[0][0][30]{blue_circle}$ and $\img{red_circle}$ [\hyperref[post3]{poſt. 3}];\\
+        draw $\dottedyellowline$ and $\yellowline \bcomma$\\
+        then will $\img[0][0][40]{triangle_11}$ be the triangle required.
+    \end{center}
+
+    \begin{center}
+        \[
+            \left.\begin{aligned}
+                \text{For } \blackline        & \bequals \dottedblackline \bcomma                    \\
+                \yellowline                   & \bequals \redline \bequals \dottedredline \bcomma    \\
+                \text{and } \dottedyellowline & \bequals \blueline \bequals \dottedblueline \bperiod
+            \end{aligned}\right\} \text{ [conſt.]}
+        \]
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}
+
+\end{document}

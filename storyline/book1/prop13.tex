@@ -1,0 +1,54 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XIII. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XIII. THEOREM.}\phantomsection\label{book1pr13} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{W}}{}HEN \textit{a ſtraight line} (\hspace{-1ex}$\yellowline$\hspace{-1ex}) \textit{ſtanding upon\\ another ſtraight line} (\hspace{-1ex}$\redline$\hspace{-1ex}) \textit{makes angles with it;\\ they are either two right angles or together equal to\\ two right angles}.
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        If $\yellowline$ be $\bperp$ to $\redline$ then,\\
+        $\img[0][0][30]{yellow_and_red_angles}$ and $\img[0][0][20]{blue_angle_6} \bequals \tworightangles$ [\hyperref[book1def10]{\textsc{I.} def. 10}].
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        But if $\yellowline$ be not $\bperp$ to $\redline \bcomma$\\\
+        draw $\blackline \bperp \redline \bsemicolon$ [\hyperref[book1pr11]{\textsc{I.} 11}]\\
+        $\img[0][0][20]{yellow_angle_5} \bplus \img[0][0][20]{blue_and_red_angles} \bequals \tworightangles$ [conſt.], $\img[0][0][20]{yellow_angle_5} \bequals \img[0][0][20]{blue_and_red_angles} \bequals \img[0][0][15]{red_angle_3} \bplus \img[0][0][20]{blue_angle_6}$\\
+        $\btherefore \img[0][0][20]{yellow_angle_5} \bplus \img[0][0][20]{blue_and_red_angles} \bequals \img[0][0][20]{yellow_angle_5} \bplus \img[0][0][15]{red_angle_3} \bplus \img[0][0][20]{blue_angle_6}$ [\hyperref[ax2]{ax. 2}] $\bequals \img[0][0][30]{yellow_and_red_angles} \bplus \img[0][0][20]{blue_angle_6} \bequals \tworightangles \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book1_proposition_13_figure}
+\end{minipage}
+
+\end{document}

@@ -1,0 +1,49 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XIV. Theorem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book1_proposition_14_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XIV. THEOREM.}\phantomsection\label{book1pr14} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{two ſtraight lines} (\hspace{-1ex}$\blueline$ \textit{and} $\blackline$\hspace{-1ex}), \textit{meeting\\ a third ſtraight line} (\hspace{-1ex}$\redline$\hspace{-1ex}), \textit{at the ſame point, and at oppoſite ſides of it, make with it adjacent angles} (\hspace{-1ex}$\img{yellow_angle_6}$ \textit{and} \hspace{-1ex}$\img{blue_angle_7}$\hspace{-1ex}) \textit{equal to two right angles;}\\
+    \end{center}
+    \textit{theſe ſtraight lines lie in one continuous ſtraight line}.
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        For, if poſſible, let $\yellowline \bcomma$ and not $\blackline \bcomma$\\
+        be the continuation of $\blueline \bcomma$\\
+        then $\img{yellow_angle_6} \bplus \img[0][0][20]{blue_and_red_angles_2} \bequals \tworightangles$\\
+        but by the hypotheſis $\img{yellow_angle_6} \bplus \img{blue_angle_7} \bequals \tworightangles$\\
+        $\btherefore \img[0][0][20]{blue_and_red_angles_2} \bequals \img{blue_angle_7} \bcomma$ [\hyperref[ax3]{ax. 3}]; which is abſurd [\hyperref[ax9]{ax. 9}].\\
+        $\btherefore \yellowline \bcomma$ is not the continuation of $\blueline \bcomma$ and the like may be demonſtrated of any other ſtraight line except $\blackline \bcomma$\\
+        $\btherefore \blackline$ is the continuation of $\blueline \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}
+
+\end{document}

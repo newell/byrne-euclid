@@ -1,0 +1,95 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{A. Definition}
+
+\newcommand{\redA}{{\color{cred}{A}}}
+\newcommand{\redB}{{\color{cred}{B}}}
+\newcommand{\redC}{{\color{cred}{C}}}
+\newcommand{\redD}{{\color{cred}{D}}}
+
+\newcommand{\blueE}{{\color{cblue}{E}}}
+\newcommand{\blueF}{{\color{cblue}{F}}}
+\newcommand{\blueG}{{\color{cblue}{G}}}
+\newcommand{\blueH}{{\color{cblue}{H}}}
+\newcommand{\blueK}{{\color{cblue}{K}}}
+\newcommand{\blueL}{{\color{cblue}{L}}}
+
+\newcommand{\yellowM}{{\color{cyellow}{M}}}
+\newcommand{\yellowN}{{\color{cyellow}{N}}}
+\newcommand{\yellowC}{{\color{cyellow}{C}}}
+\newcommand{\yellowD}{{\color{cyellow}{D}}}
+
+\begin{minipage}{\textwidth}
+
+    % Title
+    \begin{center}
+        \textit{DEFINITION A.}\phantomsection\label{book5defA} \\
+    \end{center}
+
+    \hfill
+
+    \raggedright To know a compound ratio:---
+
+    \hfill
+
+    When there are any number of magnitudes of the ſame kind, the firſt is ſaid to have to the laſt of them the ratio compounded of the ratio which the firſt has to the ſecond, and of the ratio which the ſecond has to the third, and of the ratio which the third has to the fourth; and ſo on, unto the laſt magnitude.
+
+    \hfill
+
+    \begin{minipage}{0.75\textwidth}
+        For example, if \redA, \redB, \redC, \redD, be four magnitudes of the ſame kind, the firſt \redA\ is ſaid to have to the last \redD\ the ratio compounded of the ratio of \redA\ to \redB, and of the ratio of \redB\ to \redC, and of the ratio of \redC\ to \redD; or, the ratio of \redA\ to \redD\ is ſaid to be compounded of the ratios of \redA\ to \redB, \redB\ to \redC, and \redC\ to \redD.
+    \end{minipage}%
+    \begin{minipage}{0.25\textwidth}
+        \hspace{4ex}$\begin{array}{|c|} \hline\\ \text{\redA}\ \text{\redB}\ \text{\redC}\ \text{\redD} \\ \text{\blueE}\ \text{\blueF}\ \text{\blueG}\ \text{\blueH}\ \text{\blueK}\ \text{\blueL} \\ \text{\yellowM}\ \text{\yellowN} \\ \\ \hline \end{array}$
+    \end{minipage}
+
+    \hfill
+
+    \hfill
+
+    And if \redA\ has to \redB\ the ſame ratio which \blueE\ has to \blueF, and \redB\ to \redC\ the ſame ratio that \blueG\ has to \blueH, and \redC\ to \redD\ the ſame that \blueK\ has to \blueL; then by this definition, \redA\ is ſaid to have to \redD\ the ratio compounded of ratios which are the ſame with the ratios of \blueE\ to \blueF, \blueG\ to \blueH, and \blueK\ to \blueL. And the ſame thing is to be underſtood when it is more briefly expreſſed by ſaying, \redA\ has to \redD\ the ratio compounded of the ratios of \blueE\ to \blueF, \blueG\ to \blueH, and \blueK\ to \blueL.
+
+    \hfill
+
+    In like manner, the ſame things being ſuppoſed; if \yellowM\ has to \yellowN\ the ſame ratio which \redA\ has to \redD, then for ſhortneſs ſake, \yellowM\ is ſaid to have to \yellowN\ the ratio compounded of the ratios of \blueE\ to \blueF, \blueG\ to \blueH, and \blueK\ to \blueL.
+
+    \hfill
+
+    This definition may be better underſtood from an arithmetical or algebraical illuſtration; for, in fact, a ratio compounded of ſeveral other ratios, is nothing more than a ratio which has four its antecedent the continued product of all the antecedents of the ratios compounded, and for its conſequent the continued product of all the conſequents of the ratios compounded.
+\end{minipage}
+
+\newpage
+
+\begin{minipage}{\textwidth}
+
+
+    \begin{center}
+        Thus, the ratio compounded of the ratios of\\
+        {\color{cred}{2}} : {\color{cred}{3}}, {\color{cyellow}{4}} : {\color{cyellow}{7}}, {\color{cblue}{6}} : {\color{cblue}{11}}, 2 : 5,\\
+        is the ratio of {\color{cred}{2}} × {\color{cyellow}{4}} × {\color{cblue}{6}} × {\color{cred}{2}} : {\color{cred}{3}} × {\color{cyellow}{7}} × {\color{cblue}{11}} × 5,\\
+        or the ratio of 96 : 1155, or 32 : 385.
+    \end{center}
+
+    \hfill
+
+    And of the magnitudes \redA, \redB, \yellowC, \yellowD, \blueE, \blueF, of the ſame kind, \redA\ : \blueF\ is the ratio compounded of the ratios of
+
+    \hfill
+
+    \begin{center}
+        \redA\ : \redB, \redB\ : \yellowC, \yellowC\ : \yellowD, \yellowD\ : \blueE, \blueE\ : \blueF;\\
+        for \redA\ × \redB\ × \yellowC\ × \yellowD\ × \blueE\ : \redB\ × \yellowC\ × \yellowD\ × \blueE\ × \blueF,\\
+        or $\dfrac{\text{\redA\ × \redB\ × \yellowC\ × \yellowD\ × \blueE}}{\text{\redB\ × \yellowC\ × \yellowD\ × \blueE\ × \blueF}} \bequals \dfrac{\text{\redA}}{\text{\blueF}}$ or the ratio of \redA\ : \blueF.
+    \end{center}
+
+    \hfill
+
+\end{minipage}
+
+\end{document}

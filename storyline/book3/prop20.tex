@@ -1,0 +1,110 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XX. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+
+    \begin{center}
+        \textit{PROPOSITION XX. THEOREM.}\phantomsection\label{book3pr20} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{T}}{}HE \textit{angle at the centre of a circle, is double the angle\\ at the circumference, when they have the ſame part\\ of the circumference for their baſe}.
+    \end{center}
+\end{minipage}
+
+\hfill
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        FIGURE I.\\
+        \hfill\\
+        Let the centre of the circle be on $\bimg{red_solid_and_dotted_line_2}$\\
+        a ſide of $\img[0][0][18]{yellow_angle_38} \bperiod$\\
+        \hfill\\
+        Becauſe $\blackline \bequals \redline \bcomma$\\
+        $\img[0][0][18]{yellow_angle_38} \bequals \img[0][0][20]{red_angle_28}$ [\hyperref[book1pr5]{\textsc{I.} 5}].\\
+        But $\img[0][0][30]{blue_angle_32} \bequals \img[0][0][18]{yellow_angle_38} \bplus \img[0][0][20]{red_angle_28} \bcomma$\\
+        $\img[0][0][30]{blue_angle_32} \bequals$ twice $\img[0][0][18]{yellow_angle_38}$ [\hyperref[book1pr32]{\textsc{I.} 32}].\\
+    \end{center}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{0pt}
+    \begin{center}
+        FIGURE I.
+    \end{center}
+    \hfill\\
+    \includesvg[width=\textwidth]{book3_proposition_20_figure_1}
+\end{minipage}%
+
+\newpage
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{0pt}
+    \begin{center}
+        FIGURE II.
+    \end{center}
+    \hfill\\
+    \includesvg[width=\textwidth]{book3_proposition_20_figure_2}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        FIGURE II.\\
+        \hfill\\
+        Let the centre be within $\img{top_red_and_yellow_angles} \bcomma$ the angle at the circumference;\\
+        draw $\blackline$ from the angular point through the centre of the circle;\\
+        then $\img[0][0][20]{top_red_angle_4} \bequals \img[0][0][27]{bottom_red_angle_4} \bcomma$ and $\img[0][0][20]{top_yellow_angle_5} \bequals \img{bottom_yellow_angle_4} \bcomma$\\
+        becauſe of the equality of the ſides [\hyperref[book1pr5]{\textsc{I.} 5}].\\
+        \hfill\\
+        Hence $\img[0][0][27]{bottom_red_angle_4} \bplus \img[0][0][20]{top_red_angle_4} \bplus \img[0][0][20]{top_yellow_angle_5} \bplus \img{bottom_yellow_angle_4} \bequals$ twice $\img{top_red_and_yellow_angles} \bperiod$\\
+        But $\img{black_angle_22} \bequals \img[0][0][20]{top_red_angle_4} \bplus \img[0][0][27]{bottom_red_angle_4} \bcomma$ and\\
+        $\img{blue_angle_33} \bequals \img[0][0][20]{top_yellow_angle_5} \bplus \img{bottom_yellow_angle_4} \bcomma$\\
+        $\btherefore \img[0][0][35]{black_and_blue_angles_2} \bequals$ twice $\img{top_red_and_yellow_angles} \bperiod$
+    \end{center}
+\end{minipage}%
+
+\hfill
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{0pt}
+    \begin{center}
+        FIGURE III.
+    \end{center}
+    \hfill\\
+    \includesvg[width=\textwidth]{book3_proposition_20_figure_3}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        FIGURE III.\\
+        \hfill\\
+        Let the centre be without $\img{red_angle_29}$ and\\
+        draw $\redline \bcomma$ the diameter.\\
+        \hfill\\
+        Becauſe $\img{blue_and_yellow_angles_8} \bequals$ twice $\img{black_and_red_angles_3} \bsemicolon$ and\\
+        $\img{blue_angle_34} \bequals$ twice $\img{black_angle_23}$ [\hyperref[book3pr20]{caſe 1}];\\
+        $\btherefore \img{yellow_angle_39} \bequals$ twice $\img{red_angle_29} \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+
+\end{document}

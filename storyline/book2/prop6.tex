@@ -1,0 +1,66 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{VI. Theorem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{12pt}
+    \includesvg[width=\textwidth]{book2_proposition_6_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION VI. THEOREM.}\phantomsection\label{book2pr6} \\
+    \end{center}
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be biſected} $\bimg{blue_and_yellow_lines}$ \textit{and produced to any point} $\bimg{red_blue_and_yellow_lines} \bcomma$ \textit{the rectangle contained by the whole line ſo increaſed, and the part produced, together with the ſquare of half the line, is equal to the ſquare of the line made up of the half, and the produced part}.
+    \end{center}
+    \[
+        \bimg{red_blue_and_yellow_lines} \bmultiply \redline \bplus \blueline^{\text{\large 2}} \bequals \bimg{red_and_blue_lines_2}^{\text{\large 2}} \bperiod
+    \]
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        Deſcribe $\img[0][0][50]{blue_red_and_yellow_rectangles}$ [\hyperref[book1pr46]{\textsc{I.} 46}], draw $\blackline$ and\\
+        \[
+            \left\{\begin{aligned}
+                \bimg{red_and_dotted_blue_lines} & \bparallel \bimg{red_and_dotted_black_lines} \\ \bimg{dotted_black_and_yellow_lines} & \bparallel \bimg{red_blue_and_yellow_lines} \\ \dottedredline & \bparallel \bimg{red_and_dotted_black_lines}
+            \end{aligned}\right\} \text{ [\hyperref[book1pr31]{\textsc{I.} 31}]}
+        \]
+        \hfill\\
+        $\img{yellow_rectangle_9} \bequals \img{yellow_rectangle_10} \bequals \img{black_rectangle_2}$ [\textsc{I.} \hyperref[book1pr36]{36}, \hyperref[book1pr43]{43}]
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        $\btherefore \img{lower_left_gnomon} \bequals \img[0][0][30]{blue_yellow_and_black_rectangles} \bequals \redline \bmultiply \bimg{red_blue_and_yellow_lines} \bsemicolon$\\
+        $\img{red_square_2} \bequals \blueline^{\text{\large 2}}$ [\hyperref[book2pr4]{\textsc{II.} 4 cor.}]\\
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        $\btherefore \img[0][0][50]{blue_red_and_yellow_rectangles} \bequals \bimg{red_and_blue_lines_2}^{\text{\large 2}} \bequals \img[0][0][35]{blue_and_red_squares_and_yellow_and_black_rectangles}$ [conſt. \hyperref[ax2]{ax. 2}]\\
+        $\btherefore \bimg{red_blue_and_yellow_lines} \bmultiply \redline \bplus \blueline^{\text{\large 2}} \bequals \bimg{red_and_blue_lines_2}^{\text{\large 2}} \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}
+
+\end{document}

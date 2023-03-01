@@ -1,0 +1,49 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{III. Problem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION III. PROBLEM.}\phantomsection\label{book1pr3} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{F}}{}ROM \textit{the greater} (\hspace{-1ex}$\blacklines$\hspace{-1ex}) \textit{of two given ſtraight\\ lines, to cut off a part equal to the leſs} (\hspace{-1ex}$\blueline$\hspace{-1ex}).
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \hfill
+
+    \raggedright Draw $\redline \bequals \blueline$ [\hyperref[book1pr2]{\textsc{I.} 2}]; deſcribe $\img{circle_and_red_line}$ [\hyperref[post3]{poſt. 3}],\\
+    then $\blueline \bequals \blackline \bperiod$
+
+    \begin{center}
+        \begin{align*}
+            \text{For} \redline   & \bequals \blackline \text{ [\hyperref[book1def15]{\textsc{I.} def. 15}],} \\
+            \text{and } \blueline & \bequals \redline \text{ [conſt.];}                                      \\
+            \btherefore \blueline & \bequals \blackline \text{ [\hyperref[ax1]{ax. 1}].}
+        \end{align*}
+    \end{center}
+
+    \hfill Q.E.F.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book1_proposition_3_figure}
+\end{minipage}
+
+\end{document}

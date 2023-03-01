@@ -1,0 +1,74 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{I. Problem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book2_proposition_1_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION I. PROBLEM.}\phantomsection\label{book2pr1} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{T}}{}HE \textit{rectangle contained by two ſtraight lines,\\ one of which is divided into any number of parts,}\\
+    \end{center}
+
+    \[
+        \bimg{blue_red_and_yellow_lines} \bmultiply \blackline \bequals \left\{\begin{aligned}\blackline & \bmultiply \blueline \\[-2ex] \bplus \blackline & \bmultiply \redline \\[-2ex] \bplus \blackline & \bmultiply \yellowline \end{aligned}\right.
+    \]
+    \raggedright \textit{is equal to the ſum of the rectangles contained by the undivided line, and the ſeveral parts of the divided line}.
+
+
+    \hfill
+
+    \begin{center}
+        Draw $\blackline \bperp \bimg{blue_red_and_yellow_lines}$ and $\bequals \blackline$ [\textsc{I.} \hyperref[book1pr2]{2}, \hyperref[book1pr3]{3}]; complete parallelograms, that is to ſay,
+    \end{center}
+
+    \begin{center}
+        \[
+            \text{Draw} \left\{\begin{aligned}\bimg{blue_red_and_yellow_dotted_lines} & \bparallel \bimg{blue_red_and_yellow_lines} \\[-1ex] \img[-0.5][0][35]{black_dotted_lines} & \bparallel \blackline \end{aligned}\right\} \text{ [\hyperref[book1pr31]{\textsc{I.} 31}]}
+        \]
+    \end{center}
+
+\end{minipage}%
+
+\hfill
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        $\img[0][0][70]{yellow_blue_and_red_rectangles} \bequals \img[0][0][29]{yellow_rectangle_2} \bplus \img[0][0][23]{blue_rectangle_2} \bplus \img[0][0][18]{red_rectangle}$\\
+        $\img[0][0][70]{yellow_blue_and_red_rectangles} \bequals \bimg{blue_red_and_yellow_lines} \bmultiply \blackline$\\
+        $\img[0][0][29]{yellow_rectangle_2} \bequals \blueline \bmultiply \blackline \bcomma \img[0][0][23]{blue_rectangle_2} \bequals \redline \bmultiply \blackline \bcomma$\\
+        $\img[0][0][18]{red_rectangle} \bequals \yellowline \bmultiply \blackline$\\
+    \end{center}
+
+    \begin{center}
+        \begin{align*}
+            \btherefore \bimg{blue_red_and_yellow_lines} \bmultiply \blackline \bequals & \blueline \bmultiply \blackline \bplus     \\[-2ex]
+                                                                                        & \redline \bmultiply \blackline \bplus      \\[-2ex]
+                                                                                        & \yellowline \bmultiply \blackline \bperiod
+        \end{align*}
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.F.
+\end{minipage}
+
+\end{document}

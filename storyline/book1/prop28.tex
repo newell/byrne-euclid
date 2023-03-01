@@ -1,0 +1,56 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XXVIII. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XXVIII. THEOREM.}\phantomsection\label{book1pr28} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line} (\hspace{-1ex}$\blackline$\hspace{-1ex}), \textit{cutting two other ſtraight\\ lines} (\hspace{-1ex}$\redline$ \textit{and} $\yellowline$\hspace{-1ex}), \textit{makes the external\\ equal the cutting line (namely}, $\img{black_angle_10} \bequals \img{bottom_blue_angle}$\\
+    \end{center}
+    \raggedright \textit{or} $\img{yellow_angle_15} \bequals \img{bottom_red_angle}$\hspace{-1ex}), \textit{ or if it makes the two internal angles at the ſame ſide} (\hspace{-1ex}$\img{bottom_red_angle}$ \textit{and} $\img{top_blue_angle} \bcomma$ \textit{or} $\img{bottom_blue_angle}$ \textit{and} $\img{top_red_angle}$\hspace{-1ex}) \textit{together equal to two right angles, thoſe two ſtraight lines are parallel}.
+
+    \hfill
+
+    \hfill
+
+    {\vspace{1ex}\begin{center}
+            Firſt, if $\img{black_angle_2} \bequals \img{bottom_blue_angle} \bcomma$ then $\img{black_angle_10} \bequals \img{top_blue_angle}$ [\hyperref[book1pr15]{\textsc{I.} 15}],\\
+            $\btherefore \img{bottom_blue_angle} \bequals \img{top_blue_angle} \btherefore \redline \bparallel \yellowline$ [\hyperref[book1pr27]{\textsc{I.} 27}].\\
+        \end{center}}
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        Secondly, if $\img{bottom_blue_angle} \bplus \img{top_red_angle} \bequals \tworightangles \bcomma$\\
+        then $\img{top_red_angle} \bplus \img{top_blue_angle} \bequals \tworightangles$ [\hyperref[book1pr13]{\textsc{I.} 13}],\\
+        $\btherefore \img{bottom_blue_angle} \bplus \img{top_red_angle} \bequals \img{top_red_angle} \bplus \img{top_blue_angle}$ [\hyperref[ax3]{ax. 3}]\\
+        $\btherefore \img{bottom_blue_angle} \bequals \img{top_blue_angle}$\\
+        $\btherefore \redline \bparallel \yellowline$ [\hyperref[book1pr27]{\textsc{I.} 27}].
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book1_proposition_28_figure}
+\end{minipage}
+
+\end{document}

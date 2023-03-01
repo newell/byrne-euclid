@@ -1,0 +1,60 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{IV. Theorem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book3_proposition_4_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION IV. THEOREM.}\phantomsection\label{book3pr4} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{in a circle two ſtraight lines cut one another,\\ which do not both paſs through the centre,\\ they do not biſect one another}.
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \vspace{1ex}\raggedright If one of the lines paſs through the centre, it is evident that it cannot be biſected by the other, which does not paſs through the centre.
+
+    \hfill
+
+    \begin{center}
+        But if neither the lines $\blackline$ or $\redline$ paſs through the centre, draw\\
+        $\dottedblackline$ from the centre to their interſection.
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        If $\blackline$ be biſected, $\dottedblackline \bperp$ to it [\hyperref[book3pr3]{\textsc{III.} 3}]\\
+        $\btherefore \img{blue_and_yellow_angles_6} \bequals \img{right_angle_2}$ and if $\redline$ be\\
+        biſected, $\dottedblackline \bperp \redline$ [\hyperref[book3pr3]{\textsc{III.} 3}]\\
+        $\begin{aligned}\btherefore \img{blue_angle_28}            & \bequals \img{right_angle_2}                                      \\
+               \text{and} \btherefore \img{blue_angle_28} & \bequals \img{blue_and_yellow_angles_6} \bsemicolon \text{a part}\end{aligned}$\\
+        equal to the whole, which is abſurd:\\
+        $\btherefore \blackline$ and $\redline$\\
+        do not biſect one another.
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+
+\end{document}

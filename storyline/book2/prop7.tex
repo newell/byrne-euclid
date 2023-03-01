@@ -1,0 +1,75 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{VII. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION VII. THEOREM.}\phantomsection\label{book2pr7} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into any two parts} $\bimg{bottom_blue_and_red_lines} \bcomma$ \textit{the ſquares of the whole line and one of the parts are equal to twice the rectangle contained by the whole line and that part, together with the ſquare of the other parts}.
+    \end{center}
+    \[
+        \begin{aligned}\bimg{bottom_blue_and_red_lines}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals & {\text{\large 2}} \bimg{bottom_blue_and_red_lines} \bmultiply \redline \\ & \bplus \blueline^{\text{\large 2}} \bperiod \end{aligned}
+    \]
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        Deſcribe $\img[0][0][50]{all_rectangles_and_squares} \bcomma$ [\hyperref[book1pr46]{\textsc{I.} 46}].\\
+        Draw $\blackline$ [\hyperref[post1]{poſt. 1}],
+        \[
+            \text{and}\left\{\begin{aligned}
+                \bimg{right_blue_and_black_dotted_lines} & \bparallel \yellowline \\[-1ex] \bimg{top_dotted_black_and_red_lines} & \bparallel \bimg{bottom_blue_and_red_lines}
+            \end{aligned}\right\} \text{ [\hyperref[book1pr31]{\textsc{I.} 31}].}
+        \]
+        \hfill\\
+        $\img[0][0][30]{yellow_rectangle_11} \bequals \img[0][0][15]{black_rectangle_3}$ [\hyperref[book1pr43]{\textsc{I.} 43}],\\
+        add $\img{blue_square} \bequals \redline^{\text{\large 2}}$ to both [\hyperref[book2pr4]{\textsc{II.} 4 cor.}]\\
+        $\img[0][0][30]{yellow_rectangle_and_blue_square} \bequals \img[0][0][10]{blue_square_and_black_rectangle} \bequals \bimg{bottom_blue_and_red_lines} \bmultiply \redline$\\
+        $\img[0][0][30]{red_square_2} \bequals \blueline^{\text{\large 2}}$ [\hyperref[book2pr4]{\textsc{II.} 4 cor.}]
+    \end{center}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book2_proposition_7_figure}
+\end{minipage}
+
+\newpage
+
+\begin{minipage}[t]{0.33\textwidth}
+    \phantom{}
+\end{minipage}%
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \[
+            \begin{aligned}
+                \btherefore \img[0][0][30]{yellow_rectangle_and_blue_square} \bplus \img[0][0][10]{blue_square_and_black_rectangle} \bplus \img[0][0][30]{red_square_2} & \bequals {\text{\large 2}} \bimg{bottom_blue_and_red_lines} \bmultiply \redline \bplus \blueline^{\text{\large 2}} \\
+                                                                                                                                                                        & \bequals \img[0][0][50]{all_rectangles_and_squares} \bplus \img{blue_square} \bsemicolon
+            \end{aligned}
+        \]
+        $\btherefore \bimg{bottom_blue_and_red_lines}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals {\text{\large 2}} \bimg{bottom_blue_and_red_lines} \bmultiply \redline \bplus \blueline^{\text{\large 2}} \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+
+\end{document}

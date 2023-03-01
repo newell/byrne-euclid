@@ -1,0 +1,71 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{IV. Theorem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{26pt}
+    \includesvg[width=\textwidth]{book2_proposition_4_figure}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION IV. THEOREM.}\phantomsection\label{book2pr4} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into any two parts}\\ $\bimg{blue_and_red_lines_2} \bcomma$ \textit{the ſquare of the whole line is equal\\ to the squares of the parts, together with twice the\\ rectangle contained by the parts}.
+    \end{center}
+
+    \[
+        \begin{aligned}\bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals & \blueline^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bplus \\ & \text{twice} \blueline \bmultiply \redline \bperiod\end{aligned}
+    \]
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        Deſcribe $\img[0][0][50]{bottom_and_right_sides_of_square_from_blue_and_red_lines}$ [\hyperref[book1pr46]{\textsc{I.} 46}]\\
+        draw $\bimg{diagonal_black_and_dotted_black_lines}$ [\hyperref[post1]{poſt. 1}],\\
+        and $\left\{\begin{aligned}\bimg{vertical_blue_and_dotted_black_lines} & \bparallel \bimg{blue_and_red_lines_2} \\[-1ex] \bimg{horizontal_red_and_dotted_red_lines} & \bparallel \bimg{blue_and_red_lines_2}\end{aligned}\right\}$ [\hyperref[book1pr31]{\textsc{I.} 31}]
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        $\img[0][0][20]{blue_angle_24} \bequals \img[0][0][30]{yellow_angle_26}$ [\hyperref[book1pr5]{\textsc{I.} 5}],\\
+        $\img[0][0][20]{blue_angle_24} \bequals \img[0][0][20]{red_angle_24}$ [\hyperref[book1pr29]{\textsc{I.} 29}]\\
+        $\btherefore \img[0][0][30]{yellow_angle_26} \bequals \img[0][0][20]{red_angle_24}$\\
+        $\btherefore$ by [\textsc{I.} \hyperref[book1pr6]{6}, \hyperref[book1pr29]{29}, \hyperref[book1pr34]{34}] $\img[0][0][50]{blue_square_with_triangle}$ is a ſquare $\bequals \blueline^{\text{\large 2}} \bperiod$
+    \end{center}
+\end{minipage}
+
+\newpage
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        For the ſame reaſons $\img[0][0][30]{red_square_with_triangle}$ is a ſquare $\bequals \redline^{\text{\large 2}} \bcomma$\\
+        $\img[0][0][31]{yellow_rectangle_5} \bequals \img[0][0][19]{yellow_rectangle_6} \bequals \blueline \bmultiply \redline$ [\hyperref[book1pr43]{\textsc{I.} 43}]\\
+        but $\img[0][0][40]{blue_square_red_square_and_yellow_rectangles} \bequals \hspace{-1ex}\img[0][0][50]{blue_square_with_triangle}\hspace{-1ex} \bplus \img[0][0][31]{yellow_rectangle_5} \bplus \img[0][0][19]{yellow_rectangle_6} \bplus \img[0][0][30]{red_square_with_triangle} \bcomma$\\
+        $\btherefore \bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals \blueline^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bplus \text{twice} \blueline \bmultiply \redline \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+
+\end{document}

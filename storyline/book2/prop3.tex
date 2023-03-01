@@ -1,0 +1,65 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{III. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION III. THEOREM.}\phantomsection\label{book2pr3} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into any two parts}\\ $\bimg{blue_and_red_lines_2} \bcomma$ \textit{the rectangle contained by the whole\\ line and either of its parts, is equal to the ſquare of\\ that part, together with the rectangle under the}
+    \end{center}
+    \textit{parts}.
+    \[
+        \begin{aligned}
+            \bimg{blue_and_red_lines_2} \bmultiply \blueline & \bequals \blueline^{\text{\large 2}} \bplus \blueline \bmultiply \redline \bcomma \text{or,} \\
+            \bimg{blue_and_red_lines_2} \bmultiply \redline  & \bequals \redline^{\text{\large 2}} \bplus \blueline \bmultiply \redline \bperiod
+        \end{aligned}
+    \]
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        Deſcribe $\img[0][0][31]{red_rectangle_3}$ [\hyperref[book1pr46]{\textsc{I.} 46}].\\
+        Complete $\img[0][0][19]{yellow_rectangle_4}$ [\hyperref[book1pr31]{\textsc{I.} 31}].
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        Then $\img[0][0][50]{red_and_yellow_rectangles} \bequals \img[0][0][31]{red_rectangle_3} \bplus \img[0][0][19]{yellow_rectangle_4} \bcomma$ but\\
+        $\img[0][0][50]{red_and_yellow_rectangles} \bequals \bimg{blue_and_red_lines_2} \bmultiply \blueline$ and\\
+        $\img[0][0][31]{red_rectangle_3} \bequals \blueline^{\text{\large 2}} \bcomma \img[0][0][19]{yellow_rectangle_4} \bequals \blueline \bmultiply \redline \bcomma$\\
+        $\btherefore \bimg{blue_and_red_lines_2} \bmultiply \blueline \bequals \blueline^{\text{\large 2}} \bplus \blueline \bmultiply \redline \bcolon$
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        In a ſimilar manner it may be readily ſhown that $\bimg{blue_and_red_lines_2} \bmultiply \redline \bequals \redline^{\text{\large 2}} \bplus \blueline \bmultiply \redline \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book2_proposition_3_figure}
+\end{minipage}%
+
+\end{document}

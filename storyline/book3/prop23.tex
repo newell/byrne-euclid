@@ -1,0 +1,50 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XXIII. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XXIII. THEOREM.}\phantomsection\label{book3pr23} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{U}}{}PON \textit{the ſame ſtraight line and upon the ſame ſide\\ of it, two ſimilar ſegments of circles cannot be\\ constructed which do not coincide}.
+    \end{center}
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        For if it be poſſible, let two ſimilar segments\\
+        $\img{blue_segment}$ and $\img{red_segment}$ be conſtructed;\\
+        draw any right line $\redline$ cutting both the ſegments,\\
+        draw $\blueline$ and $\yellowline \bperiod$\\
+        \hfill\\
+        Becauſe the ſegments are ſimilar,\\
+        $\img{yellow_angle_42} \bequals \img{blue_angle_37}$ [\hyperref[book3def10]{\textsc{III.} def. 10}],\\
+        but $\img{yellow_angle_42} \bgt \img{blue_angle_37}$ [\hyperref[book1pr16]{\textsc{I.} 16}]\\
+        which is abſurd: therefore no point in either of the ſegments falls without the other, and therefore the ſegments coincide.
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book3_proposition_23_figure}
+\end{minipage}%
+
+\end{document}

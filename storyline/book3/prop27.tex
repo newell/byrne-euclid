@@ -1,0 +1,54 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XXVII. Theorem}
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book3_proposition_27_figure_1}
+    \hfill\\
+    \includesvg[width=\textwidth]{book3_proposition_27_figure_2}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION XXVII. THEOREM.}\phantomsection\label{book3pr27} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}N \textit{equal circles}, $\img{red_circle_3}$ \textit{and} $\img{blue_circle_3}$ \textit{the angles}\\ $\img[0][0][17]{yellow_angles_2}$ \textit{and} $\img[0][0][17]{red_angles_2}$ \textit{which ſtand upon equal arches\\ are equal, whether they be at the centres or at the}\\
+    \end{center}
+    \textit{circumferences}.
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        For if it be poſſible, let one of them\\
+        $\img[0][0][17]{red_angles_2}$ be greater than the other $\img[0][0][17]{yellow_angles_2}$\\
+        and make\\
+        $\img{yellow_and_blue_angles} \bequals \img[0][0][17]{red_angles_2}$\\
+        \begin{align*}
+            \btherefore \img[0][0][40]{black_and_red_dotted_arc} & \bequals \img[0][0][40]{black_dotted_arc} \text{ [\hyperref[book3pr26]{\textsc{III.} 26}]} \\
+            \text{but} \img[0][0][40]{black_arc}                 & \bequals \img[0][0][40]{black_dotted_arc} \text{ [hyp.]}                                   \\
+            \btherefore \img[0][0][40]{black_arc}                & \bequals \img[0][0][40]{black_and_red_dotted_arc} \text{ a part equal}
+        \end{align*}
+        to the whole, which is abſurd; $\btherefore$ neither angle is greater than the other, and $\btherefore$ they are equal.
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+
+\end{document}

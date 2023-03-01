@@ -1,0 +1,62 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{VIII. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION VIII. THEOREM.}\phantomsection\label{book2pr8} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into any two parts}\\ $\bimg{blue_and_red_line} \bcomma$ \textit{the ſquare of the ſum of the whole\\ line and any one of its parts, is equal to four times\\ the rectangle contained by the whole line, and that\\}
+    \end{center}
+    \textit{part together with the ſquare of the other part}.
+    \[
+        \bimg{blue_red_and_yellow_line}^{\text{\large 2}} \bequals {\text{\large 4}} \bimg{blue_and_red_line} \bmultiply \redline \bplus \blueline^{\text{\large 2}} \bperiod
+    \]
+
+    \hfill
+
+    \begin{center}
+        Produce $\bimg{bottom_blue_and_red_lines}$ and make $\yellowline \bequals \redline$\\
+        Conſtruct $\img[0][0][50]{all_lines}$ [\hyperref[book1pr46]{\textsc{I.} 46}];\\
+        draw $\blackline \bcomma$
+        \[
+            \left.\begin{aligned}
+                \left.\begin{aligned}
+                          \bimg{blue_and_dotted_blue_line} \\[-2ex]
+                          \bimg{blue_and_dotted_black_line}
+                      \end{aligned}\right\} & \bparallel \bimg{blue_yellow_and_red_line} \\
+                \left.\begin{aligned}
+                          \bimg{dotted_black_and_red_line} \\[-2ex]
+                          \bimg{dotted_and_solid_red_line}
+                      \end{aligned}\right\} & \bparallel \bimg{blue_red_and_yellow_line} \\
+            \end{aligned}\right\} \text{ [\hyperref[book1pr31]{\textsc{I.} 31}]}
+        \]
+        \hfill\\
+        $\bimg{blue_red_and_yellow_line}^{\text{\large 2}} \bequals \yellowline^{\text{\large 2}} \bplus \bimg{blue_and_red_line}^{\text{\large 2}} \bplus {\text{\large 2}} \bimg{blue_and_red_line} \bmultiply \yellowline$ [\hyperref[book2pr4]{\textsc{II.} 4}]\\
+        $\text{but}\redline^{\text{\large 2}} \bplus \bimg{blue_and_red_line}^{\text{\large 2}} \bequals {\text{\large 2}} \bimg{blue_and_red_line} \bmultiply \redline \bplus \blueline^{\text{\large 2}}$ [\hyperref[book2pr7]{\textsc{II.} 7}]\\
+        $\btherefore \bimg{blue_red_and_yellow_line}^{\text{\large 2}} \bequals {\text{\large 4}} \bimg{blue_and_red_line} \bmultiply \redline \bplus \blueline^{\text{\large 2}} \bperiod$
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book2_proposition_8_figure}
+\end{minipage}
+
+\end{document}

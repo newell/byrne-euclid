@@ -1,0 +1,53 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{A. Theorem}
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        \textit{PROPOSITION A. THEOREM.}\phantomsection\label{book6prA} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{the right line} (\hspace{-1ex}$\dottedredline$\hspace{-1ex}) \textit{biſecting an external angle}\\ $\img{black_and_blue_angle}$ \textit{of the triangle} $\img{triangle_17}$ \textit{meet the oppoſite\\ ſide} (\hspace{-1ex}$\blueline$\hspace{-1ex}) \textit{produced, that whole produced ſide}
+    \end{center}
+    \raggedright (\hspace{-1ex}$\bimg{blue_and_dotted_blue_line_13}$\hspace{-1ex}), \textit{and its external ſegment} (\hspace{-1ex}$\dottedblueline$\hspace{-1ex}) \textit{will be proportional to the ſides} (\hspace{-1ex}$\bimg{black_and_dotted_black_line_14}$ \textit{and} $\yellowline$\hspace{-1ex}), \textit{which contain the angle adjacent to the external biſected angle}.
+
+    \hfill
+
+    \hfill
+
+    \begin{center}
+        For if $\redline$ be drawn $\bparallel \dottedredline \bcomma$\\
+        $\begin{aligned}
+                \text{then} \img{blue_angle_59}         & \bequals \img{outlined_blue_angle} \bcomma \text{[\hyperref[book1pr29]{\textsc{I.} 29}];} \\
+                                                        & \bequals \img{black_angle_45} \bcomma \text{[hyp.],}                                      \\
+                                                        & \bequals \img{yellow_angle_62} \bcomma \text{[\hyperref[book1pr29]{\textsc{I.} 29}];}     \\
+                \text{and} \btherefore \dottedblackline & \bequals \yellowline \bcomma \text{[\hyperref[book1pr6]{\textsc{I.} 6}],}\end{aligned}$\\
+        and $\bimg{black_and_dotted_black_line_14} \bcolon \yellowline \bbcolon \bimg{black_and_dotted_black_line_14} \bcolon \dottedblackline$ [\hyperref[book5pr7]{\textsc{V.} 7}];\\
+        But alſo,\\
+        $\bimg{blue_and_dotted_blue_line_13} \bcolon \dottedblueline \bbcolon \bimg{black_and_dotted_black_line_14} \bcolon \dottedblackline$ [\hyperref[book6pr2]{\textsc{VI.} 2}];\\
+        and therefore\\
+        $\bimg{blue_and_dotted_blue_line_13} \bcolon \dottedblueline \bbcolon \bimg{black_and_dotted_black_line_14} \bcolon \yellowline$ [\hyperref[book5pr11]{\textsc{V.} 11}].\\
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{40pt}
+    \includesvg[width=\textwidth]{book6_proposition_a_figure}
+\end{minipage}%
+
+\end{document}

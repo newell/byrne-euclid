@@ -1,0 +1,102 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,preview]{standalone}
+
+\input{../preamble}
+
+\begin{document}
+
+\subsubsection{XXVI. Theorem}
+
+\begin{minipage}{0.33\textwidth}
+    \phantom{}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+
+    \begin{center}
+        \textit{PROPOSITION XXVI. THEOREM.}\phantomsection\label{book1pr26} \\
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{two triangles have two angles of the one\\ reſpectively equal to two angles of the other,}\\ (\hspace{-1ex}$\img{yellow_angle_13} \bequals \img{yellow_angle_13}$ \textit{and} $\img{red_angle_12} \bequals \img{black_and_blue_angles}$\hspace{-1ex}),\\
+    \end{center}
+    \vspace{1ex}
+    \textit{and a ſide of the one equal to a ſide of the other ſimilarly placed with reſpect to the equal angles, the remaining ſides and angles are reſpectively equal to one another}.
+
+\end{minipage}%
+
+\hfill
+
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{0pt}
+    \includesvg[width=\textwidth]{book1_proposition_26_figure_1}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+
+    \begin{center}
+        CASE I.\\
+        \hfill\\
+        Let $\blueline$ and $\blueline$ which lie between the equal angles\\
+        be equal, then $\redline \bequals \redlines \bperiod$\\
+        For if it be poſſible, let one of them $\redlines$ be\\
+        greater than the other;\\
+        make $\redline \bequals \redline \bcomma$ draw $\yellowline \bperiod$
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        In $\img{case_1_left_triangle}$ and $\img{case_1_right_triangle}$ we have \\
+        $\begin{aligned} \redline \bequals \redline \bcomma \img{yellow_angle_13} & \bequals \img{yellow_angle_13} \bcomma \blueline \bequals \blueline \bsemicolon \\
+                \btherefore \img{red_angle_12}                           & \bequals \img{black_angle_8} \text{ [\hyperref[book1pr4]{\textsc{I.} 4}]}       \\
+                \text{but } \img{red_angle_12}                           & \bequals \img{black_and_blue_angles} \text{ [hyp.]}                             \\
+                \text{and therefore } \img{black_angle_8}                & \bequals \img{black_and_blue_angles} \bcomma \text{ which is abſurd;}\end{aligned}$\\
+        hence neither of the ſides $\redline$ and $\redlines$\\
+        is greater than the other; and $\btherefore$ they are equal;\\
+        $\btherefore \blackline \bequals \blackline \bcomma$ and $\img{arc_angle} \bequals \img{arc_angle} \bcomma$ [\hyperref[book1pr4]{\textsc{I.} 4}].
+    \end{center}
+\end{minipage}%
+
+\pagebreak
+
+\begin{minipage}[t]{0.64\textwidth}
+    \vspace{0pt}
+    \begin{center}
+        CASE II.\\
+        \hfill\\
+        Again, let $\redline \bequals \redline \bcomma$\\
+        which lie oppoſite the equal angles $\img{red_angle_13}$ and $\img{red_angle_13} \bperiod$\\
+        If it be poſſible, let $\bimg{blue_lines_2} \bgt \blueline \bcomma$\\
+        then take $\blueline \bequals \blueline \bcomma$ draw $\yellowline \bperiod$
+    \end{center}
+
+    \hfill
+
+    \begin{center}
+        Then in $\img{case_2_left_triangle}$ and $\img{case_2_right_triangle}$ we have $\redline \bequals \redline \bcomma$\\
+        $\blueline \bequals \blueline$ and $\img{yellow_angle_14} \bequals \img{yellow_angle_14} \bcomma$\\
+        $\btherefore \img{red_angle_13} \bequals \img{black_angle_9}$ [\hyperref[book1pr4]{\textsc{I.} 4}]\\
+        but $\img{red_angle_13} \bequals \img{red_angle_13}$ [hyp.]\\
+        $\btherefore \img{black_angle_9} \bequals \img{red_angle_13}$ which is abſurd [\hyperref[book1pr16]{\textsc{I.} 16}].
+    \end{center}
+
+    \begin{center}
+        Conſequently, neither of the ſides $\blueline$ or $\bimg{blue_lines_2}$ is greater than the other, hence they muſt be equal.\\ It follows [by \hyperref[book1pr4]{\textsc{I.} 4}] that the triangles are equal in all reſpects.
+    \end{center}
+
+    \hfill
+
+    \hfill Q.E.D.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+    \vspace{0pt}
+    \includesvg[width=\textwidth]{book1_proposition_26_figure_2}
+\end{minipage}
+
+\end{document}

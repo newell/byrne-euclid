@@ -1,0 +1,15 @@
+*~
+*.aux
+*.log
+*.pdf
+*.bak
+*.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.lof
+*.out
+*.pdf_tex
+*.zip
+*.pdf_tex
+svg-inkscape
