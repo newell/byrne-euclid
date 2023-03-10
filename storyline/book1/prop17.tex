@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,9 +8,9 @@
 
 \subsubsection{XVII. Theorem}
 
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
+\hfill
 
+\begin{minipage}[t]{0.55\textwidth}
     \begin{center}
         \textit{PROPOSITION XVII. THEOREM.}\phantomsection\label{book1pr17} \\
     \end{center}
@@ -18,30 +18,31 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{A}}{}NY \textit{of two angles of a triangle} $\img{triangle_6}$ \textit{are together\\ leſs than two right angles}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{A}}{}NY \textit{of two angles of a triangle}\\ $\img{triangle_6}$ \textit{are together leſs than}
     \end{center}
-
-    \hfill
-
-    \hfill
-
-    {\vspace{1ex}\begin{center}
-            Produce $\blackline \bcomma$ then will\\
-            $\img{red_angle_6} \bplus \img{yellow_angle_8} \bequals \tworightangles$\\
-            But $\img{yellow_angle_8} \bgt \img{blue_angle_10}$ [\hyperref[book1pr16]{\textsc{I.} 16}]\\
-            $\btherefore \img{red_angle_6} \bplus \img{blue_angle_10} \blt \tworightangles \bcomma$\\
-            \hfill \\
-            \raggedright and in the ſame manner it may be ſhown that any other two angles of the triangle taken together are leſs than two right angles.
-        \end{center}}
-
-    \hfill
-
-    \hfill Q.E.D.
+    \textit{two right angles}.
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book1_proposition_17_figure}
 \end{minipage}
+
+\hfill
+
+\hfill
+
+{\vspace{1ex}\begin{center}
+        Produce $\blackline \bcomma$ then will\\
+        $\img{red_angle_6} \bplus \img{yellow_angle_8} \bequals \tworightangles$\\
+        But $\img{yellow_angle_8} \bgt \img{blue_angle_10}$ [\hyperref[book1pr16]{\textsc{I.} 16}]\\
+        $\btherefore \img{red_angle_6} \bplus \img{blue_angle_10} \blt \tworightangles \bcomma$\\
+        \hfill \\
+        \raggedright and in the ſame manner it may be ſhown that any other two angles of the triangle taken together are leſs than two right angles.
+    \end{center}}
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}

@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,9 +8,7 @@
 
 \subsubsection{XXI. Theorem}
 
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.55\textwidth}
     \begin{center}
         \textit{PROPOSITION XXI. THEOREM.}\phantomsection\label{book1pr21} \\
     \end{center}
@@ -18,48 +16,45 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{from any point} (\hspace{-1ex}$\img{point_black_and_yellow_lines}$\hspace{-1ex}) \textit{within a triangle}\\ $\img[0][0][30]{triangle_10}$ \textit{ſtraight lines be drawn to the extremities\\ of one ſide} (\hspace{-1ex}$\dottedblueline$\hspace{-1ex}), \textit{theſe lines muſt be together}\\
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{from any point} (\hspace{-1ex}$\img{point_black_and_yellow_lines}$\hspace{-1ex}) \textit{within a triangle} $\img[0][0][30]{triangle_10}$ \textit{ſtraight}
     \end{center}
+    \textit{lines be drawn to the extremities of one ſide} (\hspace{-1ex}$\dottedblueline$\hspace{-1ex}), \textit{theſe lines muſt be together}
     \textit{leſs than the other two ſides, but muſt contain a greater angle}.
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        Produce $\blackline \bcomma$\\
-        $\blueline \bplus \redline \bgt \blacklines$ [\hyperref[book1pr20]{\textsc{I.} 20}],\\
-        add $\redlines$ to each,\\
-        $\blueline \bplus \redlines \bgt \blacklines \bplus \dottedredline$ [\hyperref[ax4]{ax. 4}].
-    \end{center}
-
-    \hfill
-
-    \begin{center}
-        In the ſame manner it may be ſhown that\\
-        $\blacklines \bplus \dottedredline \bgt \blackline \bplus \yellowline \bcomma$\\
-        $\btherefore \blueline \bplus \redlines \bgt \blackline \bplus \yellowline \bcomma$\\
-        which was to be proved.
-    \end{center}
-
-    \hfill
-
-    \begin{center}
-        $\begin{aligned}
-                \text{Again } \img{blue_angle_14}            & \bgt \img[0][0][20]{yellow_angle_10} \text{ [\hyperref[book1pr16]{\textsc{I.} 16}],} \\
-                \text{and also } \img[0][0][30]{red_angle_9} & \bgt \img{blue_angle_14} \text{ [\hyperref[book1pr16]{\textsc{I.} 16}],}             \\
-                \btherefore \img[0][0][30]{red_angle_9}      & \bgt \img[0][0][20]{yellow_angle_10} \bperiod
-            \end{aligned}$
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.D.
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book1_proposition_21_figure}
 \end{minipage}
+
+\hfill
+
+\begin{center}
+    Produce $\blackline \bcomma$\\
+    $\blueline \bplus \redline \bgt \blacklines$ [\hyperref[book1pr20]{\textsc{I.} 20}],\\
+    add $\redlines$ to each,\\
+    $\blueline \bplus \redlines \bgt \blacklines \bplus \dottedredline$ [\hyperref[ax4]{ax. 4}].
+\end{center}
+
+\begin{center}
+    In the ſame manner it may be ſhown that\\
+    $\blacklines \bplus \dottedredline \bgt \blackline \bplus \yellowline \bcomma$\\
+    $\btherefore \blueline \bplus \redlines \bgt \blackline \bplus \yellowline \bcomma$\\
+    which was to be proved.
+\end{center}
+
+\hfill
+
+\begin{center}
+    $\begin{aligned}
+            \text{Again } \img{blue_angle_14}            & \bgt \img[0][0][20]{yellow_angle_10} \text{ [\hyperref[book1pr16]{\textsc{I.} 16}],} \\
+            \text{and also } \img[0][0][30]{red_angle_9} & \bgt \img{blue_angle_14} \text{ [\hyperref[book1pr16]{\textsc{I.} 16}],}             \\
+            \btherefore \img[0][0][30]{red_angle_9}      & \bgt \img[0][0][20]{yellow_angle_10} \bperiod
+        \end{aligned}$
+\end{center}
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}
