@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,9 +8,7 @@
 
 \subsubsection{V. Theorem}
 
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.55\textwidth}
     \begin{center}
         \textit{PROPOSITION V. THEOREM.}\phantomsection\label{book1pr5} \\
     \end{center}
@@ -18,40 +16,37 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}N \textit{any iſoſceles triangle} $\img{isosceles_triangle_2}$ \textit{if the equal ſides be\\ produced, the external angles at the baſe are equal,\\ and the internal angles at the baſe are alſo equal}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}N \textit{any iſoſceles triangle} $\img{isosceles_triangle_2}$\\ \textit{if the equal ſides be produced,\\ the external angles at the baſe}\\
     \end{center}
-
-    \hfill
-
-    \hfill
-
-    \raggedright Produce $\redline \bcomma$ and $\redline \bcomma$ [\hyperref[post2]{poſt. 2}], take $\yellowline \bequals \yellowline \bcomma$ [\hyperref[book1pr3]{\textsc{I.} 3}]; draw $\blueline$ and $\blueline \bperiod$
-
-    \hfill
-
-    \begin{center}
-        Then in $\img{left_triangle}$ and $\img{right_triangle}$ we have,\\
-        $\bimg{red_and_yellow_lines} \bequals \bimg{red_and_yellow_lines}$ [conſt.],\\
-        $\img[0][0][20]{black_angle}$ common to both, and $\redline \bequals \redline$ [hyp.]\\
-        $\btherefore \img[0][0][20]{left_blue_and_yellow_angles} \bequals \img[0][0][20]{right_blue_and_yellow_angles} \bcomma \blueline \bequals \blueline$ and $\img{left_red_angle} \bequals \img{right_red_angle}$ [\hyperref[book1pr4]{\textsc{I.} 4}].
-    \end{center}
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        Again in $\img[0][0][40]{lower_left_triangle}$ and $\img[0][0][40]{lower_right_triangle}$ we have $\yellowline \bequals \yellowline \bcomma \img{left_red_angle} \bequals \img{right_red_angle}$ and $\blueline \bequals \blueline \bcomma\ \btherefore \img[-0.5]{left_yellow_angle_plus_remaining_angle} \bequals \img[-0.5]{right_yellow_angle_plus_remaining_angle}$ and $\img[-0.5]{left_yellow_angle} \bequals \img[-0.5]{right_yellow_angle}$ [\hyperref[book1pr4]{\textsc{I.} 4}] but $\img[0][0][20]{left_blue_and_yellow_angles} \bequals \img[0][0][20]{right_blue_and_yellow_angles} \bcomma\ \btherefore \img{left_blue_angle} \bequals \img{right_blue_angle}$ [\hyperref[ax3]{ax. 3}].
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.D.
+    \textit{are equal, and the internal angles at the baſe are alſo equal}.
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book1_proposition_5_figure}
 \end{minipage}
+
+\hfill
+
+\raggedright Produce $\redline \bcomma$ and $\redline \bcomma$ [\hyperref[post2]{poſt. 2}], take $\yellowline \bequals \yellowline \bcomma$ [\hyperref[book1pr3]{\textsc{I.} 3}]; draw $\blueline$ and $\blueline \bperiod$
+
+\hfill
+
+\begin{center}
+    Then in $\img{left_triangle}$ and $\img{right_triangle}$ we have,\\
+    $\bimg{red_and_yellow_lines} \bequals \bimg{red_and_yellow_lines}$ [conſt.],\\
+    $\img[0][0][20]{black_angle}$ common to both, and $\redline \bequals \redline$ [hyp.]\\
+    $\btherefore \img[0][0][20]{left_blue_and_yellow_angles} \bequals \img[0][0][20]{right_blue_and_yellow_angles} \bcomma \blueline \bequals \blueline$ and $\img{left_red_angle} \bequals \img{right_red_angle}$ [\hyperref[book1pr4]{\textsc{I.} 4}].
+\end{center}
+
+\hfill
+
+\begin{center}
+    Again in $\img[0][0][40]{lower_left_triangle}$ and $\img[0][0][40]{lower_right_triangle}$ we have $\yellowline \bequals \yellowline \bcomma \img{left_red_angle} \bequals \img{right_red_angle}$ and $\blueline \bequals \blueline \bcomma\ \btherefore \img[-0.5]{left_yellow_angle_plus_remaining_angle} \bequals \img[-0.5]{right_yellow_angle_plus_remaining_angle}$ and $\img[-0.5]{left_yellow_angle} \bequals \img[-0.5]{right_yellow_angle}$ [\hyperref[book1pr4]{\textsc{I.} 4}] but $\img[0][0][20]{left_blue_and_yellow_angles} \bequals \img[0][0][20]{right_blue_and_yellow_angles} \bcomma\ \btherefore \img{left_blue_angle} \bequals \img{right_blue_angle}$ [\hyperref[ax3]{ax. 3}].
+\end{center}
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}

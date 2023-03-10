@@ -142,6 +142,9 @@
 
 \hfill
 
+\begin{minipage}{0.33\textwidth}
+    \phantom{}
+\end{minipage}%
 \begin{minipage}{0.67\textwidth}
     \subsubsection{def. 13}
     \begin{center}
@@ -157,7 +160,7 @@
     \end{center}
 \end{minipage}
 
-\pagebreak
+\hfill
 
 \begin{minipage}{0.33\textwidth}
     \begin{center}
@@ -804,10 +807,51 @@
 
 \iconsectioninToC
 % Propositions
-\foreach \c in {1,...,48}{
-        \vspace*{\fill}
+\foreach \c in {12}{%{1,...,48}{
+        % \vspace*{\fill}
         \input{book1/prop\c.tex}
-        \vspace*{\fill}
+        % \vspace*{\fill}
+        % \vfill
         \newpage
     }
+
+% \subsubsection{I. Problem}
+
+% \begin{minipage}[t]{0.67\textwidth}
+%     \vspace{0pt}
+
+%     \begin{center}
+%         \textit{PROPOSITION I. PROBLEM.}\phantomsection\label{book1pr1} \\
+%     \end{center}
+
+%     \hfill
+
+%     \begin{center}
+%         \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{O}}{}N \textit{a given finite ſtraight line} (\hspace{-1ex}$\blackline$\hspace{-1ex})\\ \textit{to deſcribe an equilateral triangle.}
+%     \end{center}
+% \end{minipage}
+
+% \hfill
+
+% \begin{wrapfigure}{R}{0.4\textwidth}
+%     \centering
+%     \includesvg[width=0.33\textwidth]{book1_proposition_1_figure}
+% \end{wrapfigure}
+
+% Deſcribe $\img{blue_circle_and_black_line}$ and $\img{red_circle_and_black_line}$ [\hyperref[post3]{poſtulate 3}]; \\
+% draw $\yellowline$ and $\redline$ [\hyperref[post1]{poſt. 1}], \\
+% then $\img{triangle}$ will be equilateral.
+
+% \begin{align*}
+%     \text{For } \blackline  & \bequals \yellowline \text{ [\hyperref[book1def15]{\textsc{I.} def. 15}];} \\
+%     \text{and } \blackline  & \bequals \redline \text{ [\hyperref[book1def15]{\textsc{I.} def. 15}],}    \\
+%     \btherefore \yellowline & \bequals \redline \text{ [\hyperref[ax1]{axiom. 1}];}
+% \end{align*}
+
+% and therefore $\img{triangle}$ is the equilateral triangle required.
+
+% \hfill
+
+% \hfill Q.E.F.
+
 \stdsectioninToC

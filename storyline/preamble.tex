@@ -1,8 +1,6 @@
 \usepackage{standalone}
-\usepackage{lipsum}
 \usepackage{fancyhdr}
 \usepackage{xpatch}
-% \usepackage{tocloft}
 \usepackage{titletoc}
 \usepackage{setspace}
 \usepackage{minibox}
@@ -26,6 +24,15 @@
 \usepackage{svg}
 \usepackage{xr-hyper}
 \usepackage[colorlinks=true, citecolor=violet, linkcolor=black, urlcolor=black]{hyperref}
+\usepackage[
+    papersize={6.25in,9.25in},
+    margin=0.75in,
+    layoutsize={6in,9in},
+    layoutoffset={0.125in,0.125in},
+    includehead,
+    includefoot,
+    showcrop,
+]{geometry}
 
 % Set this PATH to the root directory of your repository
 \newcommand*{\MyPath}{/home/newell/code/byrne-euclid}%

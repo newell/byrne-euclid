@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,12 @@
 
 \subsubsection{X. Problem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book1_proposition_10_figure}
 \end{minipage}
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.55\textwidth}
     \begin{center}
         \textit{PROPOSITION X. PROBLEM.}\phantomsection\label{book1pr10} \\
     \end{center}
@@ -23,37 +21,29 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{T}}{}O \textit{biſect a given finite ſtraight line} (\hspace{-1ex}$\blacklines$\hspace{-1ex}).
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{T}}{}O \textit{biſect a given finite ſtraight\\ line} (\hspace{-1ex}$\blacklines$\hspace{-1ex}).
     \end{center}
-
-    \hfill
-
-    \hfill
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        Conſtruct $\img[0][0][30]{triangle_4}$ [\hyperref[book1pr1]{\textsc{I.} 1}],\\
-        draw $\redline \bcomma$ making $\img[0][0][15]{blue_angle_3} \bequals \img[0][0][15]{yellow_angle_4}$ [\hyperref[book1pr9]{\textsc{I.} 9}].
-    \end{center}
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        $\begin{aligned} \text{Then } \blackline & \bequals \dottedblackline \text{ by [\hyperref[book1pr4]{\textsc{I.} 4}],} \\
-                \text{for } \yellowline & \bequals \blueline \text{ [conſt.]}\end{aligned}$\\
-        $\img[0][0][15]{blue_angle_3} \bequals \img[0][0][15]{yellow_angle_4}$ and $\redline$ common to the two triangles.\\
-        \hfill \\
-        Therefore the given line is biſected.
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.F.
 \end{minipage}
+
+\hfill
+
+\begin{center}
+    Conſtruct $\img[0][0][30]{triangle_4}$ [\hyperref[book1pr1]{\textsc{I.} 1}],\\
+    draw $\redline \bcomma$ making $\img[0][0][15]{blue_angle_3} \bequals \img[0][0][15]{yellow_angle_4}$ [\hyperref[book1pr9]{\textsc{I.} 9}].
+\end{center}
+
+\hfill
+
+\begin{center}
+    $\begin{aligned} \text{Then } \blackline & \bequals \dottedblackline \text{ by [\hyperref[book1pr4]{\textsc{I.} 4}],} \\
+                \text{for } \yellowline & \bequals \blueline \text{ [conſt.]}\end{aligned}$\\
+    $\img[0][0][15]{blue_angle_3} \bequals \img[0][0][15]{yellow_angle_4}$ and $\redline$ common to the two triangles.\\
+    \hfill \\
+    Therefore the given line is biſected.
+\end{center}
+
+\hfill
+
+\hfill Q.E.F.
 
 \end{document}
