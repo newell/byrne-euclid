@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,9 +8,7 @@
 
 \subsubsection{XXXIV. Theorem}
 
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.55\textwidth}
     \begin{center}
         \textit{PROPOSITION XXXIV. THEOREM.}\phantomsection\label{book1pr34} \\
     \end{center}
@@ -18,38 +16,31 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{T}}{}HE \textit{oppoſite ſides and angles of any parallelogram\\ are equal, and the diagonal} (\hspace{-1ex}$\blackline$\hspace{-1ex}) \textit{divides it into\\ two equal parts}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{T}}{}HE \textit{oppoſite ſides and angles of any parallelogram are equal, and the diagonal} (\hspace{-1ex}$\blackline$\hspace{-1ex}) \textit{divides it into two equal parts}.
     \end{center}
-
-    \hfill
-
-    \hfill
-
-    \hfill
-
-    \raggedright Since $\left\{\begin{aligned}\img{blue_angle_19} & \bequals \img{yellow_angle_21} \\ \img{top_red_angle_2} & \bequals \img{bottom_red_angle_2} \end{aligned}\right\}$ [\hyperref[book1pr29]{\textsc{I.} 29}] and $\blackline$ common to the two triangles.
-
-    \begin{center}
-        \[
-            \btherefore \left\{\begin{aligned}\redline & \bequals \dottedredline \\ \yellowline & \bequals \blueline \\ \img{top_black_angle_4} & \bequals \img{bottom_black_angle_4} \end{aligned}\right\} \text{ [\hyperref[book1pr26]{\textsc{I.} 26}]}
-        \]
-        and $\img{blue_and_red_angles_4} \bequals \img{red_and_yellow_angles}$ [\hyperref[ax2]{ax. 2}]:
-    \end{center}
-
-    \hfill
-
-    \hfill
-
-    \raggedright Therefore the oppoſite ſides and angles of the parallelogram are equal: and as the triangles $\img{left_triangle_3}$ and $\img{right_triangle_3}$ are equal in every reſpect \hspace{0ex} [\hyperref[book1pr4]{\textsc{I.} 4}], the diagonal divides the parallelogram into two equal parts.
-
-    \hfill
-
-    \hfill Q.E.D.
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book1_proposition_34_figure}
 \end{minipage}
+
+\hfill
+
+% \raggedright Since $\left\{\begin{aligned}\img{blue_angle_19} & \bequals \img{yellow_angle_21} \\ \img{top_red_angle_2} & \bequals \img{bottom_red_angle_2} \end{aligned}\right\}$ [\hyperref[book1pr29]{\textsc{I.} 29}] and $\blackline$ common to the two triangles.
+
+\begin{center}
+    Since $\left\{\begin{aligned}\img{blue_angle_19} & \bequals \img{yellow_angle_21} \\ \img{top_red_angle_2} & \bequals \img{bottom_red_angle_2} \end{aligned}\right\}$ [\hyperref[book1pr29]{\textsc{I.} 29}] and $\blackline$ common to the two triangles.
+    \[
+        \btherefore \left\{\begin{aligned}\redline & \bequals \dottedredline \\ \yellowline & \bequals \blueline \\ \img{top_black_angle_4} & \bequals \img{bottom_black_angle_4} \end{aligned}\right\} \text{ [\hyperref[book1pr26]{\textsc{I.} 26}]}
+    \]
+    and $\img{blue_and_red_angles_4} \bequals \img{red_and_yellow_angles}$ [\hyperref[ax2]{ax. 2}]:
+\end{center}
+
+\raggedright Therefore the oppoſite ſides and angles of the parallelogram are equal: and as the triangles $\img{left_triangle_3}$ and $\img{right_triangle_3}$ are equal in every reſpect \hspace{0ex} [\hyperref[book1pr4]{\textsc{I.} 4}], the diagonal divides the parallelogram into two equal parts.
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}

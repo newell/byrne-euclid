@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,14 @@
 
 \subsubsection{XLIII. Theorem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\hfill
+
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book1_proposition_43_figure}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.55\textwidth}
     \begin{center}
         \textit{PROPOSITION XLIII. THEOREM.}\phantomsection\label{book1pr43} \\
     \end{center}
@@ -23,22 +23,24 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{T}}{}HE \textit{complements} $\img[0][0][30]{blue_parallelogram}$ \textit{and} $\img{black_parallelogram}$ \textit{of the\\ parallelograms which are about the diagonal\\ of a parallelogram are equal}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{T}}{}HE \textit{complements} $\img[0][0][30]{blue_parallelogram}$ \textit{and} $\img{black_parallelogram}$ \textit{of the parallelograms which are about the diagonal of a parallelogram are equal}.
     \end{center}
-
-    \hfill
-
-    \begin{center}
-        \begin{align*}
-            \img[0][0][30]{black_parallelogram_and_red_and_yellow_triangles} & \bequals \img[0][0][30]{blue_parallelogram_and_red_and_yellow_triangles} \text{ [\hyperref[book1pr34]{\textsc{I.} 34}]} \\
-            \text{and} \img[0][0][30]{bottom_red_and_yellow_triangles}       & \bequals \img[0][0][30]{top_red_and_yellow_triangles} \text{ [\hyperref[book1pr34]{\textsc{I.} 34}]}                    \\
-            \btherefore \img{black_parallelogram}                            & \bequals \img[0][0][30]{blue_parallelogram} \text{ [\hyperref[ax3]{ax. 3}].}
-        \end{align*}
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.D.
 \end{minipage}
+
+\hfill
+
+\hfill
+
+\begin{center}
+    \begin{align*}
+        \img[0][0][30]{black_parallelogram_and_red_and_yellow_triangles} & \bequals \img[0][0][30]{blue_parallelogram_and_red_and_yellow_triangles} \text{ [\hyperref[book1pr34]{\textsc{I.} 34}]} \\
+        \text{and} \img[0][0][30]{bottom_red_and_yellow_triangles}       & \bequals \img[0][0][30]{top_red_and_yellow_triangles} \text{ [\hyperref[book1pr34]{\textsc{I.} 34}]}                    \\
+        \btherefore \img{black_parallelogram}                            & \bequals \img[0][0][30]{blue_parallelogram} \text{ [\hyperref[ax3]{ax. 3}].}
+    \end{align*}
+\end{center}
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}
