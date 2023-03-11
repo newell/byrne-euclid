@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,12 @@
 
 \subsubsection{V. Theorem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{30pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{10pt}
     \includesvg[width=\textwidth]{book2_proposition_5_figure}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION V. THEOREM.}\phantomsection\label{book2pr5} \\
     \end{center}
@@ -23,54 +21,49 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided} $\bimg{bottom_red_blue_and_yellow_lines}$ \textit{into two\\ equal parts and alſo} $\bimg{bottom_red_blue_and_yellow_lines}$ \textit{into two unequal\\ parts, the rectangle contained by the unequal parts,\\ together with the ſquare of the line between the}\\
-    \end{center}
-    \raggedright \textit{points of ſection, the ſquare of the line between the points of ſection, is equal to the ſquare of half that line}
-    \[
-        \redline \bmultiply \bimg{bottom_blue_and_yellow_lines} \bplus \blueline^{\text{\large 2}} \bequals \yellowline^{\text{\large 2}} \bequals \bimg{blue_and_red_lines} \bperiod
-    \]
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        Deſcribe $\img[0][0][50]{blue_red_and_yellow_rectangles}$ [\hyperref[book1pr46]{\textsc{I.} 46}], draw $\blackline$ and
-        $\left\{\begin{aligned}
-                \bimg{red_and_dotted_black_lines} & \bparallel \bimg{red_and_dotted_blue_lines} \\[-1ex] \bimg{dotted_black_and_yellow_lines} & \bparallel \bimg{bottom_red_blue_and_yellow_lines} \\[-1ex] \dottedredline & \bparallel \bimg{red_and_dotted_blue_lines}
-            \end{aligned}\right\} \text{ [\hyperref[book1pr31]{\textsc{I.} 31}]}$
-        \[
-            \begin{aligned}
-                \img{black_rectangle}              & \bequals \img{blue_and_bottom_yellow_rectangles} \text{ [\hyperref[book1pr36]{\textsc{I.} 36}]} \\
-                \img[0][0][15]{yellow_rectangle_7} & \bequals \img[0][0][20]{yellow_rectangle_8} \text{ [\hyperref[book1pr43]{\textsc{I.} 43}]}
-            \end{aligned}
-        \]
-    \end{center}
-
-    \hfill
-
-    \begin{center}
-        $\btherefore$ [\hyperref[ax2]{ax. 2}] $\img[0][0][30]{lower_left_gnomon_rectangles} \bequals \img[0][0][30]{black_and_bottom_yellow_rectangles} \bequals \bimg{bottom_blue_and_yellow_lines} \bmultiply \redline$\\
-        but $\img{red_square_2} \bequals \blueline^{\text{\large 2}}$ [\hyperref[book2pr4]{\textsc{II.} 4 cor.}]\\
-        and $\img[0][0][50]{blue_red_and_yellow_rectangles} \bequals \bimg{blue_and_red_lines}^{\text{\large 2}}$ [conſt.]
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided} $\bimg{bottom_red_blue_and_yellow_lines}$ \textit{into two equal parts and alſo} $\bimg{bottom_red_blue_and_yellow_lines}$ \textit{into two unequal parts, the rectangle}
     \end{center}
 \end{minipage}
+\raggedright \textit{contained by the unequal parts, together with the ſquare of the line between the points of ſection, the ſquare of the line between the points of ſection, is equal to the ſquare of half that line}
+\[
+    \redline \bmultiply \bimg{bottom_blue_and_yellow_lines} \bplus \blueline^{\text{\large 2}} \bequals \yellowline^{\text{\large 2}} \bequals \bimg{blue_and_red_lines} \bperiod
+\]
 
 \hfill
 
-\pagebreak
+\begin{center}
+    Deſcribe $\img[0][0][50]{blue_red_and_yellow_rectangles}$ [\hyperref[book1pr46]{\textsc{I.} 46}], draw $\blackline$ and
+    $\left\{\begin{aligned}
+            \bimg{red_and_dotted_black_lines} & \bparallel \bimg{red_and_dotted_blue_lines} \\[-1ex] \bimg{dotted_black_and_yellow_lines} & \bparallel \bimg{bottom_red_blue_and_yellow_lines} \\[-1ex] \dottedredline & \bparallel \bimg{red_and_dotted_blue_lines}
+        \end{aligned}\right\} \text{ [\hyperref[book1pr31]{\textsc{I.} 31}]}$
+    \[
+        \begin{aligned}
+            \img{black_rectangle}              & \bequals \img{blue_and_bottom_yellow_rectangles} \text{ [\hyperref[book1pr36]{\textsc{I.} 36}]} \\
+            \img[0][0][15]{yellow_rectangle_7} & \bequals \img[0][0][20]{yellow_rectangle_8} \text{ [\hyperref[book1pr43]{\textsc{I.} 43}]}
+        \end{aligned}
+    \]
+\end{center}
 
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
+\hfill
 
-    \begin{center}
-        $\btherefore$ [\hyperref[ax2]{ax. 2}] $\img[0][0][50]{blue_red_and_yellow_rectangles} \bequals \img[0][0][40]{red_black_and_bottom_yellow_rectangles}$\\
-        $\btherefore \redline \bmultiply \bimg{bottom_blue_and_yellow_lines} \bplus \blueline^{\text{\large 2}} \bequals \yellowline^{\text{\large 2}} \bequals \bimg{blue_and_red_lines}^{\text{\large 2}} \bperiod$
-    \end{center}
+\begin{center}
+    $\btherefore$ [\hyperref[ax2]{ax. 2}] $\img[0][0][30]{lower_left_gnomon_rectangles} \bequals \img[0][0][30]{black_and_bottom_yellow_rectangles} \bequals \bimg{bottom_blue_and_yellow_lines} \bmultiply \redline$
+\end{center}
 
-    \hfill
+\begin{center}
+    but $\img{red_square_2} \bequals \blueline^{\text{\large 2}}$ [\hyperref[book2pr4]{\textsc{II.} 4 cor.}]\\
+    and $\img[0][0][50]{blue_red_and_yellow_rectangles} \bequals \bimg{blue_and_red_lines}^{\text{\large 2}}$ [conſt.]
+\end{center}
 
-    \hfill Q.E.D.
-\end{minipage}
+\hfill
+
+\begin{center}
+    $\btherefore$ [\hyperref[ax2]{ax. 2}] $\img[0][0][50]{blue_red_and_yellow_rectangles} \bequals \img[0][0][40]{red_black_and_bottom_yellow_rectangles}$\\
+    $\btherefore \redline \bmultiply \bimg{bottom_blue_and_yellow_lines} \bplus \blueline^{\text{\large 2}} \bequals \yellowline^{\text{\large 2}} \bequals \bimg{blue_and_red_lines}^{\text{\large 2}} \bperiod$
+\end{center}
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}

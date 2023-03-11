@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,12 @@
 
 \subsubsection{XI. Problem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{30pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{10pt}
     \includesvg[width=\textwidth]{book2_proposition_11_figure}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION XI. PROBLEM.}\phantomsection\label{book2pr11} \\
     \end{center}
@@ -23,44 +21,50 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{T}}{}O \textit{divide a given ſtraight line} $\bimg{red_and_dotted_red_line_2}$ \textit{in ſuch a\\ manner, that the rectangle contained by the whole\\ line and one of its parts may be equal to the ſquare\\ of the other}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{T}}{}O \textit{divide a given ſtraight line} $\bimg{red_and_dotted_red_line_2}$ \textit{in ſuch a manner, that the rectangle contained by the whole line and one of its parts may be equal to the ſquare of the other}.
     \end{center}
+
+    \hfill
+
     \[
         \bimg{red_and_dotted_red_line_2} \bmultiply \dottedredline \bequals \redline^{\text{\large 2}} \bperiod
     \]
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        Deſcribe $\img[0][0][40]{yellow_and_blue_square}$ [\hyperref[book1pr46]{\textsc{I.} 46}],\\
-        make $\blueline \bequals \dottedblueline$ [\hyperref[book1pr10]{\textsc{I.} 10}],
-        draw $\blackline \bcomma$\\
-        take $\bimg{blue_and_yellow_line} \bequals \blackline$ [\hyperref[book1pr3]{\textsc{I.} 3}],\\
-        on $\yellowline$ deſcribe $\img{blue_square}$ [\hyperref[book1pr46]{\textsc{I.} 46}].\\
-        Produce $\dottedblackline$ [\hyperref[post2]{poſt. 2}].
-    \end{center}
-
-    \hfill
-
-    \begin{center}
-        Then, [\hyperref[book2pr6]{\textsc{II.} 6}]
-        \[
-            \begin{aligned}
-                \bimg{blue_dotted_blue_and_yellow_line} \bmultiply \yellowline \bplus \blueline^{\text{\large 2}} & \bequals \img[0.75][0][50]{blue_and_yellow_line}                                               \\
-                                                                                                                  & \bequals \blackline^{\text{\large 2}}                                                          \\
-                                                                                                                  & \bequals \bimg{red_and_dotted_red_line_2}^{\text{\large 2}} \bplus \blueline^{\text{\large 2}} \\
-                \btherefore \bimg{blue_dotted_blue_and_yellow_line} \bmultiply \yellowline                        & \bequals \bimg{red_and_dotted_red_line_2}^{\text{\large 2}} \bcomma \text{or}                  \\
-            \end{aligned}
-        \]
-        $\img[0][0][15]{yellow_rectangle_and_blue_square_2} \bequals \img[0][0][40]{yellow_and_blue_square} \btherefore \img{blue_square} \bequals \img[0][0][15]{blue_rectangle_3}$ \\
-        $\btherefore \bimg{red_and_dotted_red_line_2} \bmultiply \dottedredline \bequals \redline^{\text{\large 2}} \bperiod$
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.F.
 \end{minipage}
+
+\hfill
+
+\begin{center}
+    Deſcribe $\img[0][0][40]{yellow_and_blue_square}$ [\hyperref[book1pr46]{\textsc{I.} 46}],\\
+    make $\blueline \bequals \dottedblueline$ [\hyperref[book1pr10]{\textsc{I.} 10}],
+    draw $\blackline \bcomma$\\
+    take $\bimg{blue_and_yellow_line} \bequals \blackline$ [\hyperref[book1pr3]{\textsc{I.} 3}],\\
+    on $\yellowline$ deſcribe $\img{blue_square}$ [\hyperref[book1pr46]{\textsc{I.} 46}].\\
+    Produce $\dottedblackline$ [\hyperref[post2]{poſt. 2}].
+\end{center}
+
+\begin{center}
+    Then, [\hyperref[book2pr6]{\textsc{II.} 6}]
+    \[
+        \begin{aligned}
+            \bimg{blue_dotted_blue_and_yellow_line} \bmultiply \yellowline \bplus \blueline^{\text{\large 2}} & \bequals \img[0.75][0][50]{blue_and_yellow_line}                                               \\
+                                                                                                              & \bequals \blackline^{\text{\large 2}}                                                          \\
+                                                                                                              & \bequals \bimg{red_and_dotted_red_line_2}^{\text{\large 2}} \bplus \blueline^{\text{\large 2}}
+        \end{aligned}
+    \]
+\end{center}
+
+\begin{center}
+    \[
+        \begin{aligned}
+            \btherefore \bimg{blue_dotted_blue_and_yellow_line} \bmultiply \yellowline & \bequals \bimg{red_and_dotted_red_line_2}^{\text{\large 2}} \bcomma \text{or} \\
+        \end{aligned}
+    \]
+    $\img[0][0][15]{yellow_rectangle_and_blue_square_2} \bequals \img[0][0][40]{yellow_and_blue_square} \btherefore \img{blue_square} \bequals \img[0][0][15]{blue_rectangle_3}$ \\
+    $\btherefore \bimg{red_and_dotted_red_line_2} \bmultiply \dottedredline \bequals \redline^{\text{\large 2}} \bperiod$
+\end{center}
+
+\hfill
+
+\hfill Q.E.F.
 
 \end{document}

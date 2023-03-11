@@ -18,11 +18,9 @@
     \begin{center}
         I.\phantomsection\label{book3def1}\\
         \hfill\\
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{E}}{}QUAL circles are thoſe whoſe diameters are equal.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{E}}{}QUAL circles are thoſe whoſe diameters\\ are equal.
     \end{center}
 \end{minipage}
-
-\hfill
 
 \hfill
 
@@ -54,7 +52,7 @@
     \begin{center}
         $\img[0][0][70]{book3_definition_3_figure}$
     \end{center}
-\end{minipage}%
+\end{minipage}
 
 \hfill
 
@@ -70,10 +68,13 @@
     \begin{center}
         $\img[0][0][70]{book3_definition_4_figure}$
     \end{center}
-\end{minipage}%
+\end{minipage}
 
 \hfill
 
+\begin{minipage}{0.33\textwidth}
+    \phantom{}
+\end{minipage}%
 \begin{minipage}{0.67\textwidth}
     \subsubsection{def. 5}
     \begin{center}
@@ -83,7 +84,7 @@
     \end{center}
 \end{minipage}
 
-\newpage
+\hfill
 
 \begin{minipage}{0.33\textwidth}
     \begin{center}
@@ -149,11 +150,6 @@
 
 \hfill
 
-\begin{minipage}{0.33\textwidth}
-    \begin{center}
-        $\img[0][0][70]{book3_definition_10_figure_a}$
-    \end{center}
-\end{minipage}%
 \begin{minipage}{0.67\textwidth}
     \subsubsection{def. 10}
     \begin{center}
@@ -162,34 +158,37 @@
         Similar ſegments of circles are thoſe which contain equal angles.
     \end{center}
 \end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \begin{center}
+        $\img[0][0][70]{book3_definition_10_figure_a}$
+    \end{center}
+\end{minipage}
 
 \hfill
 
-\begin{minipage}{0.33\textwidth}
-    \begin{center}
-        $\img[0][0][70]{book3_definition_10_figure_b}$
-    \end{center}
-\end{minipage}%
 \begin{minipage}{0.67\textwidth}
     \begin{center}
         \hfill\\
         Circles which have the ſame centre are called \textit{concentric circles}.
     \end{center}
 \end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \begin{center}
+        $\img[0][0][70]{book3_definition_10_figure_b}$
+    \end{center}
+\end{minipage}%
 
 \newpage
 
-\begin{minipage}{0.67\textwidth}
-    \subsection[Propositions]{\centering \scshape{\LARGE{PROPOSITIONS.}}}
-    \label{subsec:propositions}
-\end{minipage}
+\subsection[Propositions]{\centering \scshape{\LARGE{PROPOSITIONS.}}}
+\label{subsec:propositions}
+
+\pagebreak
 
 \iconsectioninToC
 % Propositions
-\foreach \c in {1,...,37}{
-        \vspace*{\fill}
+\foreach \c in {21}{%{1,...,37}{
         \input{book3/prop\c.tex}
-        \vspace*{\fill}
         \newpage
     }
 \stdsectioninToC

@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,9 +8,7 @@
 
 \subsubsection{XII. Problem}
 
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION XII. PROBLEM.}\phantomsection\label{book2pr12} \\
     \end{center}
@@ -18,40 +16,30 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}N \textit{any obtuſe angled triangle, the ſquare of the ſide ſubtending the obtuſe angle exceeds the ſum of the ſquares of the ſides containing the obtuſe angle, by twice the rectangle contained by either of theſe ſides and the produced parts of the ſame from the obtuſe angle to the perpendicular let fall on it from the oppoſite acute angle}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}N \textit{any obtuſe angled triangle, the ſquare of the ſide ſubtending the obtuſe angle exceeds the ſum of the ſquares of the ſides containing the obtuſe angle, by twice the rectangle contained by either of theſe ſides and the produced parts of the ſame from the obtuſe angle to the perpendicular let fall on it from the oppoſite acute angle}.
     \end{center}
-    \vspace{1ex}
-    \[
-        \blueline^{\text{\large 2}} \bgt \blackline^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \text{\ \ by\ \ } {\text{\large 2}} \blackline \bmultiply \dottedblackline \bperiod
-    \]
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        By [\hyperref[book2pr4]{\textsc{II.} 4}],\\
-        \vspace{1ex}
-        $\bimg{black_and_dotted_black_line_2}^{\text{\large 2}} \bequals \blackline^{\text{\large 2}} \bplus \dottedblackline^{\text{\large 2}} \bplus {\text{\large 2}} \blackline \bmultiply \dottedblackline \bcolon$\\
-        add $\yellowline^{\text{\large 2}}$ to both\\
-        $\bimg{black_and_dotted_black_line_2}^{\text{\large 2}} \bequals \yellowline^{\text{\large 2}} \bequals \blueline^{\text{\large 2}}$ [\hyperref[book1pr47]{\textsc{I.} 47}] $\bequals {\text{\large 2}} \blackline \bmultiply \dottedblackline \bplus \blackline^{\text{\large 2}} \bplus \left\{\begin{aligned}\dottedblackline^{\text{\large 2}}\\[-2ex] \yellowline^{\text{\large 2}}\end{aligned}\right\}$ or $\bplus \redline^{\text{\large 2}}$ [\hyperref[book1pr47]{\textsc{I.} 47}].
-    \end{center}
-
-    \hfill
-
-    \begin{center}
-        Therefore, $\blueline^{\text{\large 2}} \bequals {\text{\large 2}} \blackline \bmultiply \dottedblackline \bplus \blackline^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bcolon$\\
-        hence $\blueline^{\text{\large 2}} \bgt \redline^{\text{\large 2}} \bplus \blueline^{\text{\large 2}}$ by ${\text{\large 2}} \blackline \bmultiply \dottedblackline \bperiod$
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.F.
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book2_proposition_12_figure}
-\end{minipage}%
+\end{minipage}
+\[
+    \blueline^{\text{\large 2}} \bgt \blackline^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \text{\ \ by\ \ } {\text{\large 2}} \blackline \bmultiply \dottedblackline \bperiod
+\]
+
+\hfill
+
+\begin{center}
+    By [\hyperref[book2pr4]{\textsc{II.} 4}], $\bimg{black_and_dotted_black_line_2}^{\text{\large 2}} \bequals \blackline^{\text{\large 2}} \bplus \dottedblackline^{\text{\large 2}} \bplus {\text{\large 2}} \blackline \bmultiply \dottedblackline \bcolon$ add $\yellowline^{\text{\large 2}}$ to both $\bimg{black_and_dotted_black_line_2}^{\text{\large 2}} \bequals \yellowline^{\text{\large 2}} \bequals \blueline^{\text{\large 2}}$ [\hyperref[book1pr47]{\textsc{I.} 47}] $\bequals {\text{\large 2}} \blackline \bmultiply \dottedblackline \bplus \blackline^{\text{\large 2}} \bplus \left\{\begin{aligned}\dottedblackline^{\text{\large 2}}\\[-2ex] \yellowline^{\text{\large 2}}\end{aligned}\right\}$ or $\bplus \redline^{\text{\large 2}}$ [\hyperref[book1pr47]{\textsc{I.} 47}].
+\end{center}
+
+\begin{center}
+    Therefore, $\blueline^{\text{\large 2}} \bequals {\text{\large 2}} \blackline \bmultiply \dottedblackline \bplus \blackline^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bcolon$ hence $\blueline^{\text{\large 2}} \bgt \redline^{\text{\large 2}} \bplus \blueline^{\text{\large 2}}$ by ${\text{\large 2}} \blackline \bmultiply \dottedblackline \bperiod$
+\end{center}
+
+\hfill
+
+\hfill Q.E.F.
 
 \end{document}

@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,12 @@
 
 \subsubsection{IX. Theorem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book2_proposition_9_figure}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION IX. THEOREM.}\phantomsection\label{book2pr9} \\
     \end{center}
@@ -23,63 +21,56 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into two equal parts}\\ $\bimg{blue_and_red_yellow_lines} \bcomma$ \textit{and alſo into two unequal parts}\\ $\bimg{blue_yellow_and_red_lines} \bcomma$ \textit{the ſquares of the unequal parts\\ are together double the ſquares of half the line,}
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into two equal parts} $\bimg{blue_and_red_yellow_lines} \bcomma$ \textit{and alſo into two unequal parts} $\bimg{blue_yellow_and_red_lines} \bcomma$ \textit{the ſquares of the unequal}
     \end{center}
-    \raggedright \textit{and of the part between the points of ſection}.
+\end{minipage}
+\raggedright \textit{parts are together double the ſquares of half the line, and of the part between the points of ſection}.
+\[
+    \bimg{blue_and_yellow_lines_2}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals {\text{\large 2}} \blueline^{\text{\large 2}} \bplus {\text{\large 2}} \yellowline^{\text{\large 2}} \bperiod
+\]
+
+\hfill
+
+\begin{center}
+    Make $\bimg{blue_and_dotted_blue_lines} \bperp$ and $\bequals \blueline$ or $\bimg{yellow_and_red_lines_2} \bcomma$\\
+    Draw $\dottedblackline$ and $\bimg{dotted_yellow_and_black_lines} \bcomma$\\
+    $\bimg{red_and_dotted_red_lines} \bparallel \bimg{blue_and_dotted_blue_lines} \bcomma \img[0.5]{black_and_yellow_lines_2} \bparallel \bimg{blue_and_yellow_lines_2} \bcomma$ and draw $\blackline \bperiod$
+\end{center}
+
+\hfill
+
+\begin{center}
+    $\img{yellow_angle_26} \bequals \img[0][0][18]{top_yellow_angle_3}$ [\hyperref[book1pr5]{\textsc{I.} 5}] $\bequals$ half a right angle. [\hyperref[book1pr32]{\textsc{I.} 32 cor.}]\\
+    $\img{blue_angle_25} \bequals \img[0][0][18]{black_angle_16}$ [\hyperref[book1pr5]{\textsc{I.} 5}] $\bequals$ half a right angle. [\hyperref[book1pr32]{\textsc{I.} 32 cor.}]\\
+    $\btherefore \img[0][0][38]{yellow_and_red_angles_2} \bequals$ a right angle.
+\end{center}\
+
+\hfill
+
+\hfill
+
+\begin{center}
+    $\img{blue_angle_25} \bequals \img[0][0][18]{top_red_angle_3} \bequals \img{bottom_red_angle_3} \bequals \img[0][0][18]{black_angle_16}$ [\textsc{I.} \hyperref[book1pr5]{5}, \hyperref[book1pr29]{29}]
+    hence $\bimg{red_and_dotted_red_lines} \bequals \redline \bcomma \dottedblueline \bequals \img[0.5]{black_and_yellow_lines_2} \bequals \yellowline$ \mbox{[\textsc{I.} \hyperref[book1pr6]{6}, \hyperref[book1pr34]{34}]}\\
+\end{center}
+
+\hfill
+
+\begin{center}
     \[
-        \bimg{blue_and_yellow_lines_2}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals {\text{\large 2}} \blueline^{\text{\large 2}} \bplus {\text{\large 2}} \yellowline^{\text{\large 2}} \bperiod
-    \]
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        Make $\bimg{blue_and_dotted_blue_lines} \bperp$ and $\bequals \blueline$ or $\bimg{yellow_and_red_lines_2} \bcomma$\\
-        Draw $\dottedblackline$ and $\bimg{dotted_yellow_and_black_lines} \bcomma$\\
-        $\bimg{red_and_dotted_red_lines} \bparallel \bimg{blue_and_dotted_blue_lines} \bcomma \img[0.5]{black_and_yellow_lines_2} \bparallel \bimg{blue_and_yellow_lines_2} \bcomma$ and draw $\blackline \bperiod$
-    \end{center}
-
-    \hfill
-
-    \begin{center}
-        $\img{yellow_angle_26} \bequals \img[0][0][18]{top_yellow_angle_3}$ [\hyperref[book1pr5]{\textsc{I.} 5}] $\bequals$ half a right angle. [\hyperref[book1pr32]{\textsc{I.} 32 cor.}]\\
-        $\img{blue_angle_25} \bequals \img[0][0][18]{black_angle_16}$ [\hyperref[book1pr5]{\textsc{I.} 5}] $\bequals$ half a right angle. [\hyperref[book1pr32]{\textsc{I.} 32 cor.}]\\
-        $\btherefore \img[0][0][38]{yellow_and_red_angles_2} \bequals$ a right angle.
-    \end{center}\
-
-    \hfill
-
-    \begin{center}
-        $\img{blue_angle_25} \bequals \img[0][0][18]{top_red_angle_3} \bequals \img{bottom_red_angle_3} \bequals \img[0][0][18]{black_angle_16}$ [\textsc{I.} \hyperref[book1pr5]{5}, \hyperref[book1pr29]{29}]\\
-        hence $\bimg{red_and_dotted_red_lines} \bequals \redline \bcomma \dottedblueline \bequals \img[0.5]{black_and_yellow_lines_2} \bequals \yellowline$ \mbox{[\textsc{I.} \hyperref[book1pr6]{6}, \hyperref[book1pr34]{34}]}\\
-    \end{center}
-\end{minipage}
+        \blackline^{\text{\large 2}} \bequals \left\{\begin{aligned}
+            \bimg{blue_and_yellow_lines_2}^{\text{\large 2}} \bplus \bimg{red_and_dotted_red_lines}^{\text{\large 2}} \bcomma \text{ or } \redline^{\text{\large 2}} \\
+            \bequals \left\{\begin{aligned}
+                                \dottedblackline^{\text{\large 2}} & \bequals {\text{\large 2}} \blueline^{\text{\large 2}} \text{ [\hyperref[book1pr47]{\textsc{I.} 47}]} \\
+                                \bimg{dotted_black_and_black_line} & \bequals {\text{\large 2}} \yellowline^{\text{\large 2}}
+                            \end{aligned}\right.
+        \end{aligned}\right.
+    \]\\
+    $\btherefore \bimg{blue_and_yellow_lines_2}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals {\text{\large 2}} \blueline^{\text{\large 2}} \bplus {\text{\large 2}} \yellowline^{\text{\large 2}} \bperiod$
+\end{center}
 
 \hfill
 
-\hfill
-
-\pagebreak
-
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-    \begin{center}
-        \[
-            \blackline^{\text{\large 2}} \bequals \left\{\begin{aligned}
-                \bimg{blue_and_yellow_lines_2}^{\text{\large 2}} \bplus \bimg{red_and_dotted_red_lines}^{\text{\large 2}} \bcomma \text{ or } \redline^{\text{\large 2}} \\
-                \bequals \left\{\begin{aligned}
-                                    \dottedblackline^{\text{\large 2}} & \bequals {\text{\large 2}} \blueline^{\text{\large 2}} \text{ [\hyperref[book1pr47]{\textsc{I.} 47}]} \\
-                                    \bimg{dotted_black_and_black_line} & \bequals {\text{\large 2}} \yellowline^{\text{\large 2}}
-                                \end{aligned}\right.
-            \end{aligned}\right.
-        \]\\
-        $\btherefore \bimg{blue_and_yellow_lines_2}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals {\text{\large 2}} \blueline^{\text{\large 2}} \bplus {\text{\large 2}} \yellowline^{\text{\large 2}} \bperiod$
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.D.
-\end{minipage}
+\hfill Q.E.D.
 
 \end{document}

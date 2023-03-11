@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,12 @@
 
 \subsubsection{II. Theorem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book3_proposition_2_figure}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION II. THEOREM.}\phantomsection\label{book3pr2} \\
     \end{center}
@@ -23,35 +21,31 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{A}}{} \textit{ſtraight line} (\hspace{-1ex}$\redline$\hspace{-1ex}) \textit{joining two points in the\\ circumference of a circle} $\img{red_circle_2} \bcomma$ \textit{lies wholly\\ within the circle}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{A}}{} \textit{ſtraight line} (\hspace{-1ex}$\redline$\hspace{-1ex}) \textit{joining two points in the circumference of a circle} $\img{red_circle_2} \bcomma$ \textit{lies wholly within the circle}.
     \end{center}
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        Find the centre of $\img{red_circle_2}$ [\hyperref[book3pr1]{\textsc{III.} 1}];\\
-        from the centre draw $\blackline$ to any point in $\redline \bcomma$\\
-        meeting the circumference from the centre;\\
-        draw $\yellowline$ and $\blueline \bperiod$
-    \end{center}
-
-    \hfill
-
-    \begin{center}
-        Then $\img{blue_angle_26} \bequals \img{black_angle_19}$ [\hyperref[book1pr5]{\textsc{I.} 5}]\\
-        but $\img{yellow_angle_27} \bgt \img{blue_angle_26}$ or $\bgt \img{black_angle_19}$ [\hyperref[book1pr16]{\textsc{I.} 16}]\\
-        $\btherefore \yellowline \bgt \blackline$ [\hyperref[book1pr19]{\textsc{I.} 19}]\\
-        but $\yellowline \bequals \bimg{black_and_dotted_black_line} \bcomma$\\
-        $\btherefore \bimg{black_and_dotted_black_line} \bequals \bgt \blackline \bsemicolon$\\
-        $\btherefore \blackline \blt \bimg{black_and_dotted_black_line} \bsemicolon$\\
-        $\btherefore$ every point in $\redline$ lies within the circle.
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.D.
 \end{minipage}%
+
+\hfill
+
+\begin{center}
+    Find the centre of $\img{red_circle_2}$ [\hyperref[book3pr1]{\textsc{III.} 1}];\\
+    from the centre draw $\blackline$ to any point in $\redline \bcomma$\\
+    meeting the circumference from the centre;\\
+    draw $\yellowline$ and $\blueline \bperiod$
+\end{center}
+
+\begin{center}
+    Then $\img{blue_angle_26} \bequals \img{black_angle_19}$ [\hyperref[book1pr5]{\textsc{I.} 5}]\\
+    but $\img{yellow_angle_27} \bgt \img{blue_angle_26}$ or $\bgt \img{black_angle_19}$ [\hyperref[book1pr16]{\textsc{I.} 16}]\\
+    $\btherefore \yellowline \bgt \blackline$ [\hyperref[book1pr19]{\textsc{I.} 19}]\\
+    but $\yellowline \bequals \bimg{black_and_dotted_black_line} \bcomma$\\
+    $\btherefore \bimg{black_and_dotted_black_line} \bequals \bgt \blackline \bsemicolon$\\
+    $\btherefore \blackline \blt \bimg{black_and_dotted_black_line} \bsemicolon$\\
+    $\btherefore$ every point in $\redline$ lies within the circle.
+\end{center}
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}

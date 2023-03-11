@@ -3,18 +3,13 @@
 \renewcommand{\headrulewidth}{0pt}
 \fancyfoot[LE,RO]{\textsc{II.} \thepage}%
 
-\begin{minipage}{0.33\textwidth}
-  \phantom{}
-\end{minipage}%
-\begin{minipage}{0.67\textwidth}
-  \section[Book II]{\centering BOOK II.}
-  \label{sec:book2}
+\section[Book II]{\centering BOOK II.}
+\label{sec:book2}
 
-  \hfill
+\hfill
 
-  \subsection[Definitions]{\centering \scshape{\LARGE{DEFINITIONS.}}}
-  \label{subsec:definitions}
-\end{minipage}
+\subsection[Definitions]{\centering \scshape{\LARGE{DEFINITIONS.}}}
+\label{subsec:definitions}
 
 % Definitions
 \foreach \c in {1,2}{
@@ -24,20 +19,15 @@
     \newpage
   }
 
-\begin{minipage}{0.33\textwidth}
-  \phantom{}
-\end{minipage}%
-\begin{minipage}{0.67\textwidth}
-  \subsection[Propositions]{\centering \scshape{\LARGE{PROPOSITIONS.}}}
-  \label{subsec:propositions}
-\end{minipage}
+\subsection[Propositions]{\centering \scshape{\LARGE{PROPOSITIONS.}}}
+\label{subsec:propositions}
+
+\hfill
 
 \iconsectioninToC
 % Propositions
 \foreach \c in {1,...,14}{
-    \vspace*{\fill}
     \input{book2/prop\c.tex}
-    \vspace*{\fill}
     \newpage
   }
 \stdsectioninToC

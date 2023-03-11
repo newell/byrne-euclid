@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,12 @@
 
 \subsubsection{II. Theorem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book2_proposition_2_figure}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION II. THEOREM.}\phantomsection\label{book2pr2} \\
     \end{center}
@@ -23,35 +21,29 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into any two parts}\\ $\bimg{blue_and_red_lines_2} \bcomma$ \textit{the ſquare of the whole line is equal\\ to the ſum of the rectangles contained by the whole\\ line and each of its parts}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into any two parts} $\bimg{blue_and_red_lines_2} \bcomma$ \textit{the ſquare of the whole line is equal to the ſum of the rectangles contained by the whole line and each of its parts}.
     \end{center}
-
-    \[
-        \bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals \left\{\begin{aligned}\bimg{blue_and_red_lines_2} & \bmultiply \blueline \\[-2ex] \bplus \bimg{blue_and_red_lines_2} & \bmultiply \redline \end{aligned}\right.
-    \]
-
-    \hfill
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        Deſcribe $\img[0][0][50]{yellow_and_red_rectangles}$ [\hyperref[book1pr46]{\textsc{I.} 46}].\\
-        Draw $\blackline$ parallel to $\dottedblackline$ [\hyperref[book1pr31]{\textsc{I.} 31}].
-    \end{center}
-
-    \begin{center}
-        $\img[0][0][50]{yellow_and_red_rectangles} \bequals \bimg{blue_and_red_lines_2}^{\text{\large 2}}$\\
-        $\img[0][0][30]{red_rectangle_2} \bequals \blackline \bmultiply \blueline \bequals \bimg{blue_and_red_lines_2} \bmultiply \blueline$\\
-        $\img[0][0][20]{yellow_rectangle_3} \bequals \blackline \bmultiply \redline \bequals \bimg{blue_and_red_lines_2} \bmultiply \redline$\\
-        $\img[0][0][50]{yellow_and_red_rectangles} \bequals \img[0][0][30]{red_rectangle_2} \bplus \img[0][0][20]{yellow_rectangle_3}$\\
-        $\btherefore \bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals \bimg{blue_and_red_lines_2} \bmultiply \blueline \bplus \bimg{blue_and_red_lines_2} \bmultiply \redline \bperiod$
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.D.
 \end{minipage}
+\[
+    \bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals \left\{\begin{aligned}\bimg{blue_and_red_lines_2} & \bmultiply \blueline \\[-2ex] \bplus \bimg{blue_and_red_lines_2} & \bmultiply \redline \end{aligned}\right.
+\]
+
+\hfill
+
+\hfill
+
+\begin{center}
+    Deſcribe $\img[0][0][50]{yellow_and_red_rectangles}$ [\hyperref[book1pr46]{\textsc{I.} 46}].\\
+    Draw $\blackline$ parallel to $\dottedblackline$ [\hyperref[book1pr31]{\textsc{I.} 31}].
+    $\img[0][0][50]{yellow_and_red_rectangles} \bequals \bimg{blue_and_red_lines_2}^{\text{\large 2}}$\\
+    $\img[0][0][30]{red_rectangle_2} \bequals \blackline \bmultiply \blueline \bequals \bimg{blue_and_red_lines_2} \bmultiply \blueline$\\
+    $\img[0][0][20]{yellow_rectangle_3} \bequals \blackline \bmultiply \redline \bequals \bimg{blue_and_red_lines_2} \bmultiply \redline$\\
+    $\img[0][0][50]{yellow_and_red_rectangles} \bequals \img[0][0][30]{red_rectangle_2} \bplus \img[0][0][20]{yellow_rectangle_3}$\\
+    $\btherefore \bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals \bimg{blue_and_red_lines_2} \bmultiply \blueline \bplus \bimg{blue_and_red_lines_2} \bmultiply \redline \bperiod$
+\end{center}
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}
