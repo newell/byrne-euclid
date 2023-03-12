@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 \usepackage{minibox}
@@ -26,7 +26,6 @@
 \newcommand{\blueX}{{\color{cblue}{X}}}
 
 \begin{minipage}{\textwidth}
-
     \begin{center}
         \textit{PROPOSITION H. THEOREM.}\phantomsection\label{book5prH} \\
     \end{center}
@@ -36,58 +35,42 @@
     \begin{center}
         \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ratio which is compounded of ſeveral ratios be the ſame to a ratio which is compounded of ſeveral other ratios; and if one of the firſt ratios, or the ratio which is compounded of ſeveral of them, be the ſame to one of the laſt ratios, or to the ratio which is compounded of ſeveral of them; then the remaining ratio of the firſt, or, if there be more than one, the ratio compounded of the remaining ratios, ſhall be the ſame to the remaining ratio of the laſt, or if there be more than one, to the ratio compounded of theſe remaining ratios}.
     \end{center}
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        \minibox[frame,c]{\redA\ \ \redB\ \ \redC\ \ \redD\ \ \redE\ \ \redF\ \ \redG\ \ \redH \\ \blueP\ \ \blueQ\ \ \blueR\ \ \blueS\ \ \blueT\ \ \blueX}
-    \end{center}
-
-    \hfill
-
-    \hfill
-
-    \raggedright Let \redA\ : \redB, \redB\ : \redC, \redC\ : \redD, \redD\ : \redE, \redE\ : \redF, \redF\ : \redG, \redG\ : \redH, be the firſt ratios, and \blueP\ : \blueQ, \blueQ\ : \blueR, \blueR\ : \blueS, \blueS\ : \blueT, \blueT\ : \blueX, the other ratios; alſo, let \redA\ : \redH, which is compounded of the firſt ratios, be the ſame as the ratio of \blueP\ : \blueX, which is the ratio compounded of the other ratios; and let the ratio of \redA\ : \redE, which is compounded of the ratios of \redA\ : \redB, \redB\ : \redC, \redC\ : \redD, \redD\ : \redE, be the ſame as the ratio of \blueP\ : \blueR, which is compounded of the ratios \blueP\ : \blueQ, \blueQ\ : \blueR.
-
-    \hfill
-
-    Then the ratio which is compounded of the remaining firſt ratios, that is, the ratio compounded of the ratios \redE\ : \redF, \redF\ : \redG, \redG\ : \redH, that is the ratio of \redE\ : \redH, ſhall be the ſame as the ratio of \blueR\ : \blueX, which is compounded of the ratios of \blueR\ : \blueS, \blueS\ : \blueT, \blueT\ : \blueX, the remaining other ratios.
-
-    \hfill
-
-    \begin{center}
-        Becauſe $\dfrac{\text{\redA\ × \redB\ × \redC\ × \redD\ × \redE\ × \redF\ × \redG}}{\text{\redB\ × \redC\ × \redD\ × \redE\ × \redF\ × \redG\ × \redH}} \bequals \dfrac{\text{\blueP\ × \blueQ\ × \blueR\ × \blueS\ × \blueT}}{\text{\blueQ\ × \blueR\ × \blueS\ × \blueT\ × \blueX}}$,\\
-        \hfill\\
-        \hfill\\
-        or $\dfrac{\text{\redA\ × \redB\ × \redC\ × \redD}}{\text{\redB\ × \redC\ × \redD\ × \redE}} \bcross \dfrac{\text{\redE\ × \redF\ × \redG}}{\text{\redF\ × \redG\ × \redH}} \bequals \dfrac{\text{\blueP\ × \blueQ}}{\text{\blueQ\ × \blueR}} \bcross \dfrac{\text{\blueR\ × \blueS\ × \blueT}}{\text{\blueS\ × \blueT\ × \blueX}}$,\\
-        \hfill\\
-        \hfill\\
-        and $\dfrac{\text{\redA\ × \redB\ × \redC\ × \redD}}{\text{\redB\ × \redC\ × \redD\ × \redE}} \bequals \dfrac{\text{\blueP\ × \blueQ}}{\text{\blueQ\ × \blueR}}$,\\
-    \end{center}
 \end{minipage}
 
-\newpage
+\hfill
 
-\begin{minipage}{\textwidth}
-    \begin{center}
-        $\btherefore \dfrac{\text{\redE\ × \redF\ × \redG}}{\text{\redF\ × \redG\ × \redH}} \bequals \dfrac{\text{\blueR\ × \blueS\ × \blueT}}{\text{\blueS\ × \blueT\ × \blueX}}$,\\
-        \hfill\\
-        \hfill\\
-        $\btherefore \dfrac{\text{\redE}}{\text{\redH}} \bequals \dfrac{\text{\blueR}}{\text{\blueX}}$,\\
-        \hfill\\
-        \hfill\\
-        $\btherefore$ \redE\ : \redH $\bequals$ \blueR\ : \blueX.
-    \end{center}
+\hfill
 
-    \hfill
+\begin{center}
+    \minibox[frame,c]{\redA\ \ \redB\ \ \redC\ \ \redD\ \ \redE\ \ \redF\ \ \redG\ \ \redH \\ \blueP\ \ \blueQ\ \ \blueR\ \ \blueS\ \ \blueT\ \ \blueX}
+\end{center}
 
-    $\btherefore$ If a ratio which, \&c.
+\raggedright Let \redA\ : \redB, \redB\ : \redC, \redC\ : \redD, \redD\ : \redE, \redE\ : \redF, \redF\ : \redG, \redG\ : \redH, be the firſt ratios, and \blueP\ : \blueQ, \blueQ\ : \blueR, \blueR\ : \blueS, \blueS\ : \blueT, \blueT\ : \blueX, the other ratios; alſo, let \redA\ : \redH, which is compounded of the firſt ratios, be the ſame as the ratio of \blueP\ : \blueX, which is the ratio compounded of the other ratios; and let the ratio of \redA\ : \redE, which is compounded of the ratios of \redA\ : \redB, \redB\ : \redC, \redC\ : \redD, \redD\ : \redE, be the ſame as the ratio of \blueP\ : \blueR, which is compounded of the ratios \blueP\ : \blueQ, \blueQ\ : \blueR.
 
-    \hfill
+Then the ratio which is compounded of the remaining firſt ratios, that is, the ratio compounded of the ratios \redE\ : \redF, \redF\ : \redG, \redG\ : \redH, that is the ratio of \redE\ : \redH, ſhall be the ſame as the ratio of \blueR\ : \blueX, which is compounded of the ratios of \blueR\ : \blueS, \blueS\ : \blueT, \blueT\ : \blueX, the remaining other ratios.
 
-    \hfill Q.E.D.
-\end{minipage}
+\begin{center}
+    Becauſe $\dfrac{\text{\redA\ × \redB\ × \redC\ × \redD\ × \redE\ × \redF\ × \redG}}{\text{\redB\ × \redC\ × \redD\ × \redE\ × \redF\ × \redG\ × \redH}} \bequals \dfrac{\text{\blueP\ × \blueQ\ × \blueR\ × \blueS\ × \blueT}}{\text{\blueQ\ × \blueR\ × \blueS\ × \blueT\ × \blueX}}$,\\
+    \hfill\\
+    \hfill\\
+    or $\dfrac{\text{\redA\ × \redB\ × \redC\ × \redD}}{\text{\redB\ × \redC\ × \redD\ × \redE}} \bcross \dfrac{\text{\redE\ × \redF\ × \redG}}{\text{\redF\ × \redG\ × \redH}} \bequals \dfrac{\text{\blueP\ × \blueQ}}{\text{\blueQ\ × \blueR}} \bcross \dfrac{\text{\blueR\ × \blueS\ × \blueT}}{\text{\blueS\ × \blueT\ × \blueX}}$,\\
+    \hfill\\
+    \hfill\\
+    and $\dfrac{\text{\redA\ × \redB\ × \redC\ × \redD}}{\text{\redB\ × \redC\ × \redD\ × \redE}} \bequals \dfrac{\text{\blueP\ × \blueQ}}{\text{\blueQ\ × \blueR}}$,\\
+\end{center}
+
+\begin{center}
+    $\btherefore \dfrac{\text{\redE\ × \redF\ × \redG}}{\text{\redF\ × \redG\ × \redH}} \bequals \dfrac{\text{\blueR\ × \blueS\ × \blueT}}{\text{\blueS\ × \blueT\ × \blueX}}$,\\
+    \hfill\\
+    \hfill\\
+    $\btherefore \dfrac{\text{\redE}}{\text{\redH}} \bequals \dfrac{\text{\blueR}}{\text{\blueX}}$,\\
+    \hfill\\
+    \hfill\\
+    $\btherefore$ \redE\ : \redH $\bequals$ \blueR\ : \blueX.
+\end{center}
+
+\hfill
+
+$\btherefore$ If a ratio which, \&c.
 
 \end{document}

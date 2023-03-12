@@ -1,71 +1,56 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
 \begin{document}
 
+\newcommand{\redA}{{\color{cred}{A}}}
+\newcommand{\yellowB}{{\color{cyellow}{B}}}
+\newcommand{\blueC}{{\color{cblue}{C}}}
+\newcommand{\blueD}{{\color{cblue}{D}}}
+\newcommand{\redarthree}{{\color{cred}{$\textit{ar}^{\text{\normalsize 3}}$}}}
+\newcommand{\yellowartwo}{{\color{cyellow}{$\textit{ar}^{\text{\normalsize 2}}$}}}
+\newcommand{\bluear}{{\color{cblue}{\textit{ar}}}}
+\newcommand{\bluea}{{\color{cblue}{\textit{a}}}}
+\newcommand{\reda}{{\color{cred}{\textit{a}}}}
+
 \subsubsection{XI. Definition}
 
 \begin{minipage}{\textwidth}
-
     \begin{center}
         \textit{DEFINITION XI.}\phantomsection\label{book5def11} \\
     \end{center}
 
     \hfill
-
-    \newcommand{\redA}{{\color{cred}{A}}}
-    \newcommand{\yellowB}{{\color{cyellow}{B}}}
-    \newcommand{\blueC}{{\color{cblue}{C}}}
-    \newcommand{\blueD}{{\color{cblue}{D}}}
-    \newcommand{\redarthree}{{\color{cred}{$\textit{ar}^{\text{\normalsize 3}}$}}}
-    \newcommand{\yellowartwo}{{\color{cyellow}{$\textit{ar}^{\text{\normalsize 2}}$}}}
-    \newcommand{\bluear}{{\color{cblue}{\textit{ar}}}}
-    \newcommand{\bluea}{{\color{cblue}{\textit{a}}}}
-    \newcommand{\reda}{{\color{cred}{\textit{a}}}}
-
-    \raggedright W\textsc{HEN} four magnitudes are continual proportionals, the firſt is ſaid to have to the fourth the triplicate ratio of that which it has to the ſecond; and ſo on, quadruplicate, \&c. increaſing the denomination ſtill by unity, in any number of proportionals.
-    \hfill
-
-    For example, let \redA, \yellowB, \blueC, D, be four continued proportionals, that is, \redA\ : \yellowB\ :: \yellowB : \blueC\ :: \blueC\ : D; \redA\ ſaid to have to D, the triplicate ratio of \redA\ to \yellowB;
-
-    \hfill
-
-    \begin{center}
-        or $\dfrac{\text{\redA}}{\text{\blueD}} \bequals$ the cube of $\dfrac{\text{\redA}}{\text{\yellowB}}$.
-    \end{center}
-
-    \hfill
-
-    This definition will be better underſtood and applied to a greater number of magnitudes than four that are continued proportionals, as follows:---
-
-    \hfill
-
-    \begin{center}
-        Let \redarthree, \yellowartwo, \bluear, \textit{a}, be four magnitudes in continued proportion,\\
-        that is, \redarthree\ : \yellowartwo\ :: \yellowartwo\ : \bluear\ :: \bluear\ : \textit{a},\\
-        then  $\dfrac{\text{\redarthree}}{\textit{a}} \bequals \textit{r}^{\text{\normalsize 3}} \bequals$ the cube of $\dfrac{\text{\redarthree}}{{\color{cyellow}{\textit{ar}^{\text{\normalsize 3}}}}} \bequals \textit{r}$.
-    \end{center}
-
-    \hfill
-
-    Or, let $\textit{ar}^{\text{\normalsize 5}}$, $\textit{ar}^{\text{\normalsize 4}}$, $\textit{ar}^{\text{\normalsize 3}}$, $\textit{ar}^{\text{\normalsize 2}}$, \textit{ar}, \textit{a}, be ſix magnitudes in proportion, that is
-
-    \hfill
-
-    \begin{center}
-        $\textit{ar}^{\text{\normalsize 5}}$ : $\textit{ar}^{\text{\normalsize 4}}$ :: $\textit{ar}^{\text{\normalsize 4}}$ : $\textit{ar}^{\text{\normalsize 3}}$ :: $\textit{ar}^{\text{\normalsize 3}}$ : $\textit{ar}^{\text{\normalsize 2}}$ :: $\textit{ar}^{\text{\normalsize 2}}$ : \textit{ar} :: \textit{ar} : \textit{a},\\
-        then the ratio $\dfrac{\textit{ar}^{\text{\normalsize 5}}}{\textit{a}} \bequals \textit{r}^{\text{\normalsize 5}}$ the fifth power of $\dfrac{\textit{ar}^{\text{\normalsize 5}}}{\textit{ar}^{\text{\normalsize 4}}} \bequals \textit{r}$.
-    \end{center}
-
-    \hfill
-
-    Or, let \textit{a}, \textit{ar}, $\textit{ar}^{\text{\normalsize 2}}$, $\textit{ar}^{\text{\normalsize 3}}$, $\textit{ar}^{\text{\normalsize 4}}$, be five magnitudes in continued proportion; then $\dfrac{\textit{a}}{\textit{ar}^{\text{\normalsize 4}}} \bequals \dfrac{1}{\textit{r}^{\text{\normalsize 4}}} \bequals$ the fourth power of $\dfrac{\textit{a}}{\textit{ar}} \bequals \dfrac{1}{\textit{r}}$.
-
-    \hfill
-
 \end{minipage}
+
+\raggedright W\textsc{HEN} four magnitudes are continual proportionals, the firſt is ſaid to have to the fourth the triplicate ratio of that which it has to the ſecond; and ſo on, quadruplicate, \&c. increaſing the denomination ſtill by unity, in any number of proportionals.
+
+For example, let \redA, \yellowB, \blueC, D, be four continued proportionals, that is, \redA\ : \yellowB\ :: \yellowB : \blueC\ :: \blueC\ : D; \redA\ ſaid to have to D, the triplicate ratio of \redA\ to \yellowB;
+
+\begin{center}
+    or $\dfrac{\text{\redA}}{\text{\blueD}} \bequals$ the cube of $\dfrac{\text{\redA}}{\text{\yellowB}}$.
+\end{center}
+
+This definition will be better underſtood and applied to a greater number of magnitudes than four that are continued proportionals, as follows:---
+
+\begin{center}
+    Let \redarthree, \yellowartwo, \bluear, \textit{a}, be four magnitudes in continued proportion,\\
+    that is, \redarthree\ : \yellowartwo\ :: \yellowartwo\ : \bluear\ :: \bluear\ : \textit{a},\\
+    \vspace{1ex}
+    then  $\dfrac{\text{\redarthree}}{\textit{a}} \bequals \textit{r}^{\text{\normalsize 3}} \bequals$ the cube of $\dfrac{\text{\redarthree}}{{\color{cyellow}{\textit{ar}^{\text{\normalsize 3}}}}} \bequals \textit{r}$.
+\end{center}
+
+Or, let $\textit{ar}^{\text{\normalsize 5}}$, $\textit{ar}^{\text{\normalsize 4}}$, $\textit{ar}^{\text{\normalsize 3}}$, $\textit{ar}^{\text{\normalsize 2}}$, \textit{ar}, \textit{a}, be ſix magnitudes in proportion, that is
+
+\begin{center}
+    $\textit{ar}^{\text{\normalsize 5}}$ : $\textit{ar}^{\text{\normalsize 4}}$ :: $\textit{ar}^{\text{\normalsize 4}}$ : $\textit{ar}^{\text{\normalsize 3}}$ :: $\textit{ar}^{\text{\normalsize 3}}$ : $\textit{ar}^{\text{\normalsize 2}}$ :: $\textit{ar}^{\text{\normalsize 2}}$ : \textit{ar} :: \textit{ar} : \textit{a},\\
+    \vspace{1ex}
+    then the ratio $\dfrac{\textit{ar}^{\text{\normalsize 5}}}{\textit{a}} \bequals \textit{r}^{\text{\normalsize 5}}$ the fifth power of $\dfrac{\textit{ar}^{\text{\normalsize 5}}}{\textit{ar}^{\text{\normalsize 4}}} \bequals \textit{r}$.
+\end{center}
+
+Or, let \textit{a}, \textit{ar}, $\textit{ar}^{\text{\normalsize 2}}$, $\textit{ar}^{\text{\normalsize 3}}$, $\textit{ar}^{\text{\normalsize 4}}$, be five magnitudes in continued proportion; then $\dfrac{\textit{a}}{\textit{ar}^{\text{\normalsize 4}}} \bequals \dfrac{1}{\textit{r}^{\text{\normalsize 4}}} \bequals$ the fourth power of $\dfrac{\textit{a}}{\textit{ar}} \bequals \dfrac{1}{\textit{r}}$.
 
 \end{document}

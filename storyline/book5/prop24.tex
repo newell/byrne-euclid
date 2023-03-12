@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -9,7 +9,6 @@
 \subsubsection{XXIV. Theorem}
 
 \begin{minipage}{\textwidth}
-
     \begin{center}
         \textit{PROPOSITION XXIV. THEOREM.}\phantomsection\label{book5pr24} \\
     \end{center}
@@ -17,55 +16,43 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{the firſt has to the ſecond the ſame ratio which the third has to the fourth, and the\\ fifth to the ſecond the ſame which the ſixth has to the fourth, the firſt and fifth\\ together ſhall have to the ſecond the ſame ratio which the third and ſixth together\\ thave to the fourth}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{the firſt has to the ſecond the ſame ratio which the third has to the fourth, and the fifth to the ſecond the ſame which the ſixth has to the fourth, the firſt and fifth together ſhall have to the ſecond the ſame ratio which the third and ſixth together thave to the fourth}.
     \end{center}
+\end{minipage}
 
-    \hfill
+\hfill
 
-    \hfill
+\begin{center}
+    $\begin{aligned}                                           & \overset{\text{\scriptsize First.}}{\redhome} \qquad \quad &  & \overset{\text{\scriptsize Second.}}{\blackdome} \qquad &  &  & \overset{\text{\scriptsize Third.}}{\bluesquare} \qquad &  &  &  & \overset{\text{\scriptsize Fourth.}}{\yellowdiamond} \\
+                                                          & \overset{\text{\scriptsize Fiſth.}}{\reddrop} \quad        &  & \quad                                                   &  &  & \overset{\text{\scriptsize Sixth.}}{\bluecircle} \qquad &  &  &  & \qquad\end{aligned}$
+\end{center}
 
-    \begin{center}
-        $\begin{aligned}                                         & \overset{\text{\scriptsize First.}}{\redhome} \qquad \quad &  & \overset{\text{\scriptsize Second.}}{\blackdome} \qquad &  &  & \overset{\text{\scriptsize Third.}}{\bluesquare} \qquad &  &  &  & \overset{\text{\scriptsize Fourth.}}{\yellowdiamond} \\
-                                                        & \overset{\text{\scriptsize Fiſth.}}{\reddrop} \quad        &  & \quad                                                   &  &  & \overset{\text{\scriptsize Sixth.}}{\bluecircle} \qquad &  &  &  & \qquad\end{aligned}$
-    \end{center}
+\hfill
 
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        $\begin{aligned} \text{Let } \redhome \bcolon \blackdome                  & \bbcolon \bluesquare \bcolon \yellowdiamond \bcomma                     \\
+\begin{center}
+    $\begin{aligned} \text{Let } \redhome \bcolon \blackdome                  & \bbcolon \bluesquare \bcolon \yellowdiamond \bcomma                     \\
                 \text{and } \reddrop \bcolon \blackdome                  & \bbcolon \bluecircle \bcolon \yellowdiamond \bcomma                     \\
                 \text{then } \redhome \bplus \reddrop \bcolon \blackdome & \bbcolon \bluesquare \bplus \bluecircle \bcolon \yellowdiamond \bperiod\end{aligned}$
-    \end{center}
+\end{center}
 
-    \hfill
+\begin{center}
+    $\reddrop \bcolon \blackdome \bbcolon \bluecircle \bcolon \yellowdiamond$ [hyp.],\\
+    and $\blackdome \bcolon \redhome \bbcolon \yellowdiamond \bcolon \bluesquare$ [hyp.] and [\hyperref[book5def14]{invert.}],\\
+    \hfill\\
+    $\btherefore \reddrop \bcolon \redhome \bbcolon \bluecircle \bcolon \bluesquare$ [\hyperref[book5pr22]{\textsc{V.} 22}];\\
+\end{center}
 
-    \begin{center}
-        $\reddrop \bcolon \blackdome \bbcolon \bluecircle \bcolon \yellowdiamond$ [hyp.],\\
-        and $\blackdome \bcolon \redhome \bbcolon \yellowdiamond \bcolon \bluesquare$ [hyp.] and [\hyperref[book5def14]{invert.}],\\
-        \hfill\\
-        $\btherefore \reddrop \bcolon \redhome \bbcolon \bluecircle \bcolon \bluesquare$ [\hyperref[book5pr22]{\textsc{V.} 22}];\\
-    \end{center}
+\raggedright and, becauſe theſe magnitudes are proportionals, they are proportionals when taken jointly,
 
-    \raggedright and, becauſe theſe magnitudes are proportionals, they are proportionals when taken jointly,
+\begin{center}
+    $\btherefore \redhome \bplus \reddrop \bcolon \reddrop \bbcolon \bluecircle \bplus \bluesquare \bluecircle$ [\hyperref[book5pr18]{\textsc{V.} 18}],\\
+    but $\reddrop \bcolon \blackdome \bbcolon \bluecircle \bcolon \yellowdiamond$ [hyp.],\\
+    \hfill\\
+    $\btherefore \redhome \bplus \reddrop \bcolon \blackdome \bbcolon \bluecircle \bplus \bluesquare \bcolon \yellowdiamond$ [\hyperref[book5pr22]{\textsc{V.} 22}].\\
+\end{center}
 
-    \hfill
+\hfill
 
-    \begin{center}
-        $\btherefore \redhome \bplus \reddrop \bcolon \reddrop \bbcolon \bluecircle \bplus \bluesquare \bluecircle$ [\hyperref[book5pr18]{\textsc{V.} 18}],\\
-        but $\reddrop \bcolon \blackdome \bbcolon \bluecircle \bcolon \yellowdiamond$ [hyp.],\\
-        \hfill\\
-        $\btherefore \redhome \bplus \reddrop \bcolon \blackdome \bbcolon \bluecircle \bplus \bluesquare \bcolon \yellowdiamond$ [\hyperref[book5pr22]{\textsc{V.} 22}].\\
-    \end{center}
-
-    \hfill
-
-    $\btherefore$ If the firſt, \&c.
-
-    \hfill
-
-    \hfill Q.E.D.
-\end{minipage}%
+$\btherefore$ If the firſt, \&c.
 
 \end{document}

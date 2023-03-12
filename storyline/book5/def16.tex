@@ -1,49 +1,43 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
 \begin{document}
 
+\newcommand{\redA}{{\color{cred}{A}}}
+\newcommand{\blueC}{{\color{cblue}{C}}}
+\newcommand{\yellowD}{{\color{cyellow}{D}}}
+
 \subsubsection{XVI. Definition}
 
 \begin{minipage}{\textwidth}
-
     \begin{center}
         \textit{DEFINITION XVI.}\phantomsection\label{book5def16} \\
     \end{center}
 
     \hfill
-
-    \newcommand{\redA}{{\color{cred}{A}}}
-    \newcommand{\blueC}{{\color{cblue}{C}}}
-    \newcommand{\yellowD}{{\color{cyellow}{D}}}
-
-    \raggedright D\textsc{IVIDENDO}, by diviſion, when there are four proportionals, and it is inferred, that the exceſs of the firſt above the ſecond is to the ſecond, as the exceſs of the third above the fourth, is to the fourth.\\
-
-    \hfill
-
-    \begin{center}
-        Let \redA\ : B :: \blueC\ : \yellowD;\\
-        by “dividendo” it is inferred\\
-        \redA\ minus B : B :: \blueC\ minus \yellowD\ : \yellowD.
-    \end{center}
-
-    \hfill
-
-    According to the above, A is ſuppoſed to be greater than B, and \blueC\ greater than \yellowD; if this be not the caſe, but to have B greater than \redA, and \yellowD\ greater than \blueC, B and \yellowD\ can be made to ſtand as antecedents, and \redA\ and \blueC\ as conſequents, by “invertion”\\
-
-    \hfill
-
-    \begin{center}
-        B : \redA\ :: \yellowD\ : \blueC;\\
-        then, by “dividendo,” we infer\\
-        B minus \redA\ : \redA\ :: \yellowD\ minus \blueC\ : \blueC.
-    \end{center}
-
-    \hfill
-
 \end{minipage}
+
+\raggedright D\textsc{IVIDENDO}, by diviſion, when there are four proportionals, and it is inferred, that the exceſs of the firſt above the ſecond is to the ſecond, as the exceſs of the third above the fourth, is to the fourth.\\
+
+\hfill
+
+\begin{center}
+    Let \redA\ : B :: \blueC\ : \yellowD;\\
+    by “dividendo” it is inferred\\
+    \redA\ minus B : B :: \blueC\ minus \yellowD\ : \yellowD.
+\end{center}
+
+\hfill
+
+According to the above, A is ſuppoſed to be greater than B, and \blueC\ greater than \yellowD; if this be not the caſe, but to have B greater than \redA, and \yellowD\ greater than \blueC, B and \yellowD\ can be made to ſtand as antecedents, and \redA\ and \blueC\ as conſequents, by “invertion”\\
+
+\begin{center}
+    B : \redA\ :: \yellowD\ : \blueC;\\
+    then, by “dividendo,” we infer\\
+    B minus \redA\ : \redA\ :: \yellowD\ minus \blueC\ : \blueC.
+\end{center}
 
 \end{document}

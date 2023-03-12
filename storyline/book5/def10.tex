@@ -1,54 +1,46 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
 \begin{document}
 
+\newcommand{\redA}{{\color{cred}{A}}}
+\newcommand{\yellowB}{{\color{cyellow}{B}}}
+\newcommand{\blueC}{{\color{cblue}{C}}}
+\newcommand{\redartwo}{{\color{cred}{$\textit{ar}^{\text{\normalsize 2}}$}}}
+\newcommand{\blueartwo}{{\color{cblue}{$\textit{ar}^{\text{\normalsize 2}}$}}}
+\newcommand{\yellowar}{{\color{cyellow}{\textit{ar}}}}
+\newcommand{\bluea}{{\color{cblue}{\textit{a}}}}
+\newcommand{\reda}{{\color{cred}{\textit{a}}}}
+
 \subsubsection{X. Definition}
 
 \begin{minipage}{\textwidth}
-
     \begin{center}
         \textit{DEFINITION X.}\phantomsection\label{book5def10} \\
     \end{center}
 
     \hfill
-
-    \newcommand{\redA}{{\color{cred}{A}}}
-    \newcommand{\yellowB}{{\color{cyellow}{B}}}
-    \newcommand{\blueC}{{\color{cblue}{C}}}
-    \newcommand{\redartwo}{{\color{cred}{$\textit{ar}^{\text{\normalsize 2}}$}}}
-    \newcommand{\blueartwo}{{\color{cblue}{$\textit{ar}^{\text{\normalsize 2}}$}}}
-    \newcommand{\yellowar}{{\color{cyellow}{\textit{ar}}}}
-    \newcommand{\bluea}{{\color{cblue}{\textit{a}}}}
-    \newcommand{\reda}{{\color{cred}{\textit{a}}}}
-
-    \raggedright W\textsc{HEN} three magnitudes are proportionals, the firſt is ſaid to have to the third the duplicate ratio of that which it has to the ſecond.
-
-    \hfill
-
-    For example, if \redA, \yellowB, \blueC, be continued proportionals, that is \redA\ : \yellowB\ :: \yellowB\ : \blueC, \redA\ is ſaid to have to \blueC\ the duplicate ratio of \redA\ : \yellowB;
-
-    \hfill
-
-    \begin{center}
-        or $\dfrac{\text{\redA}}{\text{\blueC}} \bequals$ the ſquare of $\dfrac{\text{\redA}}{\text{\yellowB}}$.\\
-        \hfill\\
-        This property will be more readily ſeen of the quantities\\
-        \hfill\\
-        \redartwo, \yellowar, \bluea, for \redartwo\ : \yellowar\ :: \yellowar\ : \bluea;\\
-        \hfill\\
-        and $\dfrac{\text{\redartwo}}{\bluea} \bequals \textit{r}^{\text{\normalsize 2}} \bequals$ the ſquare of $\dfrac{\text{\redartwo}}{\yellowar} \bequals \text{r}$,\\
-        \hfill\\
-        or of \reda, \yellowar, \blueartwo;\\
-        \hfill\\
-        for $\dfrac{\reda}{\text{\blueartwo}} \bequals \dfrac{\text{1}}{\textit{r}^{\text{\normalsize 2}}} \bequals$ the ſquare of $\dfrac{\reda}{\yellowar} \bequals \dfrac{\text{1}}{\textit{r}}$.
-    \end{center}
-
-    \hfill
-
 \end{minipage}
+
+\raggedright W\textsc{HEN} three magnitudes are proportionals, the firſt is ſaid to have to the third the duplicate ratio of that which it has to the ſecond.
+
+For example, if \redA, \yellowB, \blueC, be continued proportionals, that is \redA\ : \yellowB\ :: \yellowB\ : \blueC, \redA\ is ſaid to have to \blueC\ the duplicate ratio of \redA\ : \yellowB;
+
+\begin{center}
+    or $\dfrac{\text{\redA}}{\text{\blueC}} \bequals$ the ſquare of $\dfrac{\text{\redA}}{\text{\yellowB}}$.\\
+    \hfill\\
+    This property will be more readily ſeen of the quantities\\
+    \hfill\\
+    \redartwo, \yellowar, \bluea, for \redartwo\ : \yellowar\ :: \yellowar\ : \bluea;\\
+    \hfill\\
+    and $\dfrac{\text{\redartwo}}{\bluea} \bequals \textit{r}^{\text{\normalsize 2}} \bequals$ the ſquare of $\dfrac{\text{\redartwo}}{\yellowar} \bequals \text{r}$,\\
+    \hfill\\
+    or of \reda, \yellowar, \blueartwo;\\
+    \hfill\\
+    for $\dfrac{\reda}{\text{\blueartwo}} \bequals \dfrac{\text{1}}{\textit{r}^{\text{\normalsize 2}}} \bequals$ the ſquare of $\dfrac{\reda}{\yellowar} \bequals \dfrac{\text{1}}{\textit{r}}$.
+\end{center}
 
 \end{document}

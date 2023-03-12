@@ -1,12 +1,10 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
 \begin{document}
-
-\subsubsection{F. Theorem}
 
 \newcommand{\redA}{{\color{cred}{A}}}
 \newcommand{\redE}{{\color{cred}{E}}}
@@ -21,8 +19,9 @@
 \newcommand{\yellowH}{{\color{cyellow}{H}}}
 \newcommand{\yellowK}{{\color{cyellow}{K}}}
 
-\begin{minipage}{\textwidth}
+\subsubsection{F. Theorem}
 
+\begin{minipage}{\textwidth}
     \begin{center}
         \textit{PROPOSITION F. THEOREM.}\phantomsection\label{book5prF} \\
     \end{center}
@@ -30,91 +29,67 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{R}}{}ATIOS \textit{which are compounded of the ſame ratios are the ſame to one another}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{R}}{}ATIOS \textit{which are compounded of the ſame ratios are the ſame\\ to one another}.
     \end{center}
+\end{minipage}
 
-    \hfill
+\hfill
 
-    \hfill
+\hfill
 
-    \hfill
-
-    \hfill
-
-    \hfill
-
-    $\begin{array}{c c}
-            \qquad \qquad \begin{aligned}\text{Let \redA\ : \yellowB\ } & \text{:: \blueF\ : \yellowG},   \\
+$\begin{array}{c c}
+        \qquad \qquad \begin{aligned}\text{Let \redA\ : \yellowB\ } & \text{:: \blueF\ : \yellowG},   \\
                \text{\yellowB\ : \yellowC\ }  & \text{:: \yellowG\ : \yellowH}, \\
                \text{\yellowC\ : \yellowD\ }  & \text{:: \yellowH\ : \yellowK}, \\
                \text{and \yellowD\ : \redE\ } & \text{:: \yellowK\ : \blueL}.   \\
-                          \end{aligned} \qquad \qquad \qquad \qquad \qquad
-            \begin{array}{|c|} \hline\\ \text{\redA}\ \text{\yellowB}\ \text{\yellowC}\ \text{\yellowD}\ \text{\redE} \\ \text{\blueF}\ \text{\yellowG}\ \text{\yellowH}\ \text{\yellowK}\ \text{\blueL} \\ \\ \hline \end{array}
-        \end{array}$
+                      \end{aligned} \qquad \qquad \qquad \qquad \qquad
+        \begin{array}{|c|} \hline\\ \text{\redA}\ \text{\yellowB}\ \text{\yellowC}\ \text{\yellowD}\ \text{\redE} \\ \text{\blueF}\ \text{\yellowG}\ \text{\yellowH}\ \text{\yellowK}\ \text{\blueL} \\ \\ \hline \end{array}
+    \end{array}$
 
-    \hfill
+\raggedright Then, the ratio which is compounded of the ratios of \redA\ : \yellowB, \yellowB\ : \yellowC, \yellowC\ : \yellowD, \yellowD\ : \redE, or the ratio of \redA\ : \redE, is the ſame as the ratio compounded of the ratios of \blueF\ : \yellowG, \yellowG\ : \yellowH, \yellowH\ : \yellowK, \yellowK\ : \blueL, or the ratio of \blueF\ : \blueL.
 
-    \raggedright Then, the ratio which is compounded of the ratios of \redA\ : \yellowB, \yellowB\ : \yellowC, \yellowC\ : \yellowD, \yellowD\ : \redE, or the ratio of \redA\ : \redE, is the ſame as the ratio compounded of the ratios of \blueF\ : \yellowG, \yellowG\ : \yellowH, \yellowH\ : \yellowK, \yellowK\ : \blueL, or the ratio of \blueF\ : \blueL.
-
-    \hfill
-
-    \begin{center}
-        $\begin{aligned} \text{For } \dfrac{\text{\redA}}{\text{\yellowB}}                                                                      & \bequals \dfrac{\text{\blueF}}{\text{\yellowG}},                                                                      \\[0.5ex]
+\begin{center}
+    $\begin{aligned} \text{For } \dfrac{\text{\redA}}{\text{\yellowB}}                                                                      & \bequals \dfrac{\text{\blueF}}{\text{\yellowG}},                                                                      \\[0.5ex]
                 \dfrac{\text{\yellowB}}{\text{\yellowC}}                                                                               & \bequals \dfrac{\text{\yellowG}}{\text{\yellowH}},                                                                    \\[0.5ex]
                 \dfrac{\text{\yellowC}}{\text{\yellowD}}                                                                               & \bequals \dfrac{\text{\yellowH}}{\text{\yellowK}},                                                                    \\[0.5ex]
                 \dfrac{\text{\yellowD}}{\text{\redE}}                                                                                  & \bequals \dfrac{\text{\yellowK}}{\text{\blueL}};                                                                      \\[0.5ex]
                 \hfill                                                                                                                                                                                                                                         \\
                 \btherefore \dfrac{\text{\redA\ × \yellowB\ × \yellowC\ × \yellowD}}{\text{\yellowB\ × \yellowC\ × \yellowD\ × \redE}} & \bequals \dfrac{\text{\blueF\ × \yellowG\ × \yellowH\ × \yellowK}}{\text{\yellowG\ × \yellowH\ × \yellowK\ × \blueL}}\end{aligned}$\\
-        \hfill\\
-        \hfill\\
-        and $\btherefore \dfrac{\text{\redA}}{\text{\redE}} \bequals \dfrac{\text{\blueF}}{\text{\blueL}}$,\\
-        \hfill\\
-        or the ratio of \redA\ : \redE\ is the ſame as the ratio of \blueF\ : \blueL.
-    \end{center}
+    \hfill\\
+    \hfill\\
+    and $\btherefore \dfrac{\text{\redA}}{\text{\redE}} \bequals \dfrac{\text{\blueF}}{\text{\blueL}}$,\\
+    \hfill\\
+    or the ratio of \redA\ : \redE\ is the ſame as the ratio of \blueF\ : \blueL.
+\end{center}
 
-    \hfill
+The ſame may be demonſtrated of any number of ratios ſo circumſtanced.
 
-    The ſame may be demonſtrated of any number of ratios ſo circumſtanced.
-\end{minipage}
-
-\newpage
-
-\begin{minipage}{\textwidth}
-    \begin{center}
-        $\begin{aligned}\text{Next, let \redA\ : \yellowB\ } & \text{:: \yellowK\ : \blueL},   \\
+\begin{center}
+    $\begin{aligned}\text{Next, let \redA\ : \yellowB\ } & \text{:: \yellowK\ : \blueL},   \\
                \text{\yellowB\ : \yellowC\ }        & \text{:: \yellowH\ : \yellowK}, \\
                \text{\yellowC\ : \yellowD\ }        & \text{:: \yellowG\ : \yellowH}, \\
                \text{\yellowD\ : \redE\ }           & \text{:: \blueF\ : \yellowG}.   \\
-            \end{aligned}$
-    \end{center}
+        \end{aligned}$
+\end{center}
 
-    \hfill
+Then the ratio which is compounded of the ratios of \redA\ : \yellowB, \yellowB\ : \yellowC, \yellowC\ : \yellowD, \yellowD\ : \redE, or the ratio of \redA\ : \redE, is the ſame as the ratio compounded of the ratios of \yellowK\ : \blueL, \yellowH\ : \yellowK, \yellowG\ : \yellowH, \blueF\ : \yellowG, or the ratio of \blueF\ : \blueL.
 
-    Then the ratio which is compounded of the ratios of \redA\ : \yellowB, \yellowB\ : \yellowC, \yellowC\ : \yellowD, \yellowD\ : \redE, or the ratio of \redA\ : \redE, is the ſame as the ratio compounded of the ratios of \yellowK\ : \blueL, \yellowH\ : \yellowK, \yellowG\ : \yellowH, \blueF\ : \yellowG, or the ratio of \blueF\ : \blueL.
-
-    \hfill
-
-    \begin{center}
-        $\begin{aligned} \text{For } \dfrac{\text{\redA}}{\text{\yellowB}}                                                                      & \bequals \dfrac{\text{\yellowK}}{\text{\blueL}},                                                                      \\[0.5ex]
+\begin{center}
+    $\begin{aligned} \text{For } \dfrac{\text{\redA}}{\text{\yellowB}}                                                                      & \bequals \dfrac{\text{\yellowK}}{\text{\blueL}},                                                                      \\[0.5ex]
                 \dfrac{\text{\yellowB}}{\text{\yellowC}}                                                                               & \bequals \dfrac{\text{\yellowH}}{\text{\yellowK}},                                                                    \\[0.5ex]
                 \dfrac{\text{\yellowC}}{\text{\yellowD}}                                                                               & \bequals \dfrac{\text{\yellowG}}{\text{\yellowH}},                                                                    \\[0.5ex]
                 \dfrac{\text{\yellowD}}{\text{\redE}}                                                                                  & \bequals \dfrac{\text{\blueF}}{\text{\yellowG}};                                                                      \\[0.5ex]
                 \hfill                                                                                                                                                                                                                                         \\
                 \btherefore \dfrac{\text{\redA\ × \yellowB\ × \yellowC\ × \yellowD}}{\text{\yellowB\ × \yellowC\ × \yellowD\ × \redE}} & \bequals \dfrac{\text{\yellowK\ × \yellowH\ × \yellowG\ × \blueF}}{\text{\blueL\ × \yellowK\ × \yellowH\ × \yellowG}}\end{aligned}$\\
-        \hfill\\
-        \hfill\\
-        and $\btherefore \dfrac{\text{\redA}}{\text{\redE}} \bequals \dfrac{\text{\blueF}}{\text{\blueL}}$,\\
-        \hfill\\
-        or the ratio of \redA\ : \redE\ is the ſame as the ratio of \blueF\ : \blueL.
-    \end{center}
+    \hfill\\
+    \hfill\\
+    and $\btherefore \dfrac{\text{\redA}}{\text{\redE}} \bequals \dfrac{\text{\blueF}}{\text{\blueL}}$,\\
+    \hfill\\
+    or the ratio of \redA\ : \redE\ is the ſame as the ratio of \blueF\ : \blueL.
+\end{center}
 
-    \hfill
+\hfill
 
-    $\btherefore$ Ratios which are compounded, \&c.
-
-    \hfill
-
-    \hfill Q.E.D.
-\end{minipage}%
+$\btherefore$ Ratios which are compounded, \&c.
 
 \end{document}
