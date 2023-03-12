@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,8 +8,9 @@
 
 \subsubsection{XXXVI. Theorem}
 
-\begin{minipage}[t]{0.64\textwidth}
+\hfill
 
+\begin{minipage}[t]{\textwidth}
     \begin{center}
         \textit{PROPOSITION XXXVI. THEOREM.}\phantomsection\label{book3pr36} \\
     \end{center}
@@ -17,28 +18,25 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{from a point without a circle two ſtraight lines be\\ drawn to it, one of which } $\blueline$ \textit{is a tangent to\\ the circle, and the other} $\bimg{black_dotted_red_and_red_line}$ \textit{cuts it; the\\ rectangle under the whole cutting line} $\bimg{black_dotted_red_and_red_line}$
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{from a point without a circle two ſtraight lines be drawn to it, one of which } $\blueline$ \textit{is a tangent to the circle, and the other} $\bimg{black_dotted_red_and_red_line}$ \textit{cuts it; the rectangle under the whole cutting line} $\bimg{black_dotted_red_and_red_line}$
     \end{center}
     \raggedright \textit{and the external ſegment} $\redline$ \textit{is equal to the ſquare of the tangent} $\blueline \bperiod$
 \end{minipage}%
 
 \hfill
 
-\begin{minipage}[t]{0.64\textwidth}
+\begin{minipage}[t]{0.54\textwidth}
     \vspace{0pt}
 
     \begin{center}
         FIGURE I.\\
         \hfill\\
-        Let $\bimg{black_dotted_red_and_red_line}$ paſs through the centre;\\
-        draw $\yellowline$ from the centre to the point of contact;\\
-        $\begin{aligned}\blueline^{\text{\large 2}}             & \bequals \bimg{dotted_red_and_red_line}^{\text{\large 2}} \text{minus} \yellowline^{\text{\large 2}} \text{ [\hyperref[book1pr47]{\textsc{I.} 47}],} \\
-               \text{or } \blueline^{\text{\large 2}}  & \bequals \bimg{dotted_red_and_red_line}^{\text{\large 2}} \text{minus} \dottedredline^{\text{\large 2}} \bcomma                                      \\
-               \btherefore \blueline^{\text{\large 2}} & \bequals \bimg{black_dotted_red_and_red_line} \bcross \redline \text{ [\hyperref[book2pr6]{\textsc{II.} 6}].}\end{aligned}$
+        \raggedright Let $\bimg{black_dotted_red_and_red_line}$ paſs through the centre; draw $\yellowline$ from the centre to the point of contact;
+        $\blueline^{\text{\large 2}} \bequals \bimg{dotted_red_and_red_line}^{\text{\large 2}}$ minus $\yellowline^{\text{\large 2}}$ [\hyperref[book1pr47]{\textsc{I.} 47}], or $\blueline^{\text{\large 2}} \bequals \bimg{dotted_red_and_red_line}^{\text{\large 2}}$ minus $\dottedredline^{\text{\large 2}} \bcomma$
     \end{center}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.33\textwidth}
+\begin{minipage}[t]{0.43\textwidth}
     \vspace{0pt}
     \begin{center}
         FIGURE I.
@@ -47,13 +45,13 @@
     \includesvg[width=\textwidth]{book3_proposition_36_figure_1}
 \end{minipage}%
 
-\hfill
+\begin{center}
+    $\btherefore \blueline^{\text{\large 2}} \bequals \bimg{black_dotted_red_and_red_line} \bcross \redline$ [\hyperref[book2pr6]{\textsc{II.} 6}].
+\end{center}
 
 \hfill
 
-\pagebreak
-
-\begin{minipage}[t]{0.33\textwidth}
+\begin{minipage}[t]{0.43\textwidth}
     \vspace{0pt}
     \begin{center}
         FIGURE II.
@@ -62,24 +60,25 @@
     \includesvg[width=\textwidth]{book3_proposition_36_figure_2}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
+\begin{minipage}[t]{0.54\textwidth}
     \vspace{0pt}
 
     \begin{center}
         FIGURE II.\\
         \hfill\\
-        If $\bimg{dotted_red_and_red_line_2}$ do not paſs through the centre,\\
-        draw $\dottedyellowline$ and $\dottedblueline \bperiod$\\
-        \hfill\\
-        $\begin{aligned}\text{Then } \bimg{dotted_red_and_red_line_2} \bcross \redline \bequals         & \blackline^{\text{\large 2}} \text{minus} \dottedblueline^{\text{\large 2}}     \\
-               \text{ [\hyperref[book2pr6]{\textsc{II.} 6}],}                                  & \text{ that is,}                                                                \\
-               \bimg{dotted_red_and_red_line_2} \bcross \redline              \bequals         & \blackline^{\text{\large 2}} \text{minus} \yellowline^{\text{\large 2}} \bcomma \\
-               \btherefore \bimg{dotted_red_and_red_line_2} \bcross \redline          \bequals & \blueline^{\text{\large 2}} \text{ [\hyperref[book3pr18]{\textsc{III.} 18}].}\end{aligned}$
+        If $\bimg{dotted_red_and_red_line_2}$ do not paſs through the centre, draw $\dottedyellowline$ and $\dottedblueline \bperiod$
     \end{center}
-
-    \hfill
-
-    \hfill Q.E.D.
 \end{minipage}%
+
+\hfill
+
+\begin{center}
+    Then $\bimg{dotted_red_and_red_line_2} \bcross \redline \bequals$ $\blackline^{\text{\large 2}}$ minus $\dottedblueline^{\text{\large 2}}$ [\hyperref[book2pr6]{\textsc{II.} 6}], that is, $\bimg{dotted_red_and_red_line_2} \bcross \redline              \bequals$ $\blackline^{\text{\large 2}}$ minus $\yellowline^{\text{\large 2}} \bcomma$\\
+    $\btherefore \bimg{dotted_red_and_red_line_2} \bcross \redline \bequals$ $\blueline^{\text{\large 2}}$ [\hyperref[book3pr18]{\textsc{III.} 18}].
+\end{center}
+
+\hfill
+
+\hfill Q.E.D.
 
 \end{document}

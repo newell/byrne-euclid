@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,8 +8,7 @@
 
 \subsubsection{XXI. Theorem}
 
-\begin{minipage}[t]{0.64\textwidth}
-
+\begin{minipage}[t]{\textwidth}
     \begin{center}
         \textit{PROPOSITION XXI. THEOREM.}\phantomsection\label{book3pr21} \\
     \end{center}
@@ -17,15 +16,13 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{T}}{}HE \textit{angles} (\hspace{-1ex}$\img{red_angle_30} \bcomma \img{blue_angle_35}$\hspace{-1ex}) \textit{in the ſame ſegment\\ of a circle are equal}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{T}}{}HE \textit{angles} (\hspace{-1ex}$\img{red_angle_30} \bcomma \img{blue_angle_35}$\hspace{-1ex}) \textit{in the ſame ſegment of a\\ circle are equal}.
     \end{center}
 \end{minipage}%
 
-\hfill
+\vspace{1.5ex}
 
-\hfill
-
-\begin{minipage}[t]{0.64\textwidth}
+\begin{minipage}[t]{0.54\textwidth}
     \vspace{0pt}
 
     \begin{center}
@@ -39,7 +36,7 @@
     \end{center}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.33\textwidth}
+\begin{minipage}[t]{0.43\textwidth}
     \vspace{0pt}
     \begin{center}
         FIGURE I.
@@ -48,9 +45,7 @@
     \includesvg[width=\textwidth]{book3_proposition_21_figure_1}
 \end{minipage}%
 
-\hfill
-
-\begin{minipage}[t]{0.64\textwidth}
+\begin{minipage}[t]{0.54\textwidth}
     \vspace{0pt}
 
     \begin{center}
@@ -62,17 +57,9 @@
         $\img{yellow_angle_41} \bequals \img{blue_angle_36}$ and $\img{red_angle_31} \bequals \img[0][0][22]{black_angle_24}$ [\hyperref[book3prop21]{caſe 1}];\\
         $\btherefore \img[0][0][40]{yellow_and_red_angles_3} \bequals \img[0][0][40]{blue_and_black_angles} \bperiod$
     \end{center}
-
-    \hfill
-
-    \hfill
-
-    \hfill
-
-    \hfill Q.E.D.
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.33\textwidth}
+\begin{minipage}[t]{0.43\textwidth}
     \vspace{0pt}
     \begin{center}
         FIGURE II.
@@ -80,5 +67,7 @@
     \hfill\\
     \includesvg[width=\textwidth]{book3_proposition_21_figure_2}
 \end{minipage}%
+
+\hfill Q.E.D.
 
 \end{document}
