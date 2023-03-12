@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,12 @@
 
 \subsubsection{II. Problem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book4_proposition_2_figure}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION II. PROBLEM.}\phantomsection\label{book4pr2} \\
     \end{center}
@@ -23,36 +21,34 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{O}}{}N \textit{a given circle} $\img[0][0][30]{black_circle}$ \textit{to inſcribe a triangle\\ equiangular to a given triangle}.
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{O}}{}N \textit{a given circle} $\img[0][0][30]{black_circle}$ \textit{to\\ inſcribe a triangle equiangular}
     \end{center}
-
-    \hfill
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        To any point of the given circle draw $\redline \bcomma$ a tangent [\hyperref[book3pr17]{\textsc{III.} 17}];\\
-        and at the point of contact\\
-        \hfill\\
-        $\begin{aligned}
-                \text{make } \img{left_blue_angle_4}                 & \bequals \img{right_blue_angle_3} \text{ [\hyperref[book1pr23]{\textsc{I.} 23}]}   \\
-                \text{and in like manner } \img{left_yellow_angle_4} & \bequals \img{right_yellow_angle_4} \bcomma \text{ and draw } \yellowline \bperiod \\
-                                                                     & \hfill                                                                             \\
-                \text{Becauſe } \img{left_blue_angle_4}              & \bequals \img{right_blue_angle_3} \text{ [conſt.]}                                 \\
-                \text{and } \img{left_blue_angle_4}                  & \bequals \img{black_angle_29} \text{ [\hyperref[book3pr32]{\textsc{III.} 32}]}     \\
-                \btherefore \img{black_angle_29}                     & \bequals \img{left_blue_angle_4} \bsemicolon \text{ alſo}                          \\
-                \img{outlined_angle_2}                               & \bequals \img{right_yellow_angle_4} \text{ for the same reaſon.}                   \\
-                \btherefore \img{left_red_angle_3}                   & \bequals \img{right_red_angle_4} \text{ [\hyperref[book1pr32]{\textsc{I.} 32}],}
-            \end{aligned}$\\
-        \hfill\\
-        and therefore the triangle inſcribed in the circle is equiangular to the given one.
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.F.
+    \vspace{1ex}
+    \textit{to a given triangle}.
 \end{minipage}
+
+\hfill
+
+\begin{center}
+    To any point of the given circle draw $\redline \bcomma$ a tangent [\hyperref[book3pr17]{\textsc{III.} 17}];\\
+    and at the point of contact\\
+    \hfill\\
+    $\begin{aligned}
+            \text{make } \img{left_blue_angle_4}                 & \bequals \img{right_blue_angle_3} \text{ [\hyperref[book1pr23]{\textsc{I.} 23}]}   \\
+            \text{and in like manner } \img{left_yellow_angle_4} & \bequals \img{right_yellow_angle_4} \bcomma \text{ and draw } \yellowline \bperiod \\
+                                                                 & \hfill                                                                             \\
+            \text{Becauſe } \img{left_blue_angle_4}              & \bequals \img{right_blue_angle_3} \text{ [conſt.]}                                 \\
+            \text{and } \img{left_blue_angle_4}                  & \bequals \img{black_angle_29} \text{ [\hyperref[book3pr32]{\textsc{III.} 32}]}     \\
+            \btherefore \img{black_angle_29}                     & \bequals \img{left_blue_angle_4} \bsemicolon \text{ alſo}                          \\
+            \img{outlined_angle_2}                               & \bequals \img{right_yellow_angle_4} \text{ for the same reaſon.}                   \\
+            \btherefore \img{left_red_angle_3}                   & \bequals \img{right_red_angle_4} \text{ [\hyperref[book1pr32]{\textsc{I.} 32}],}
+        \end{aligned}$\\
+    \hfill\\
+    and therefore the triangle inſcribed in the circle is equiangular to the given one.
+\end{center}
+
+\hfill
+
+\hfill Q.E.F.
 
 \end{document}
