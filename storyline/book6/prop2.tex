@@ -1,6 +1,6 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
-\documentclass[12pt,preview]{standalone}
+\documentclass[11pt,preview]{standalone}
 
 \input{../preamble}
 
@@ -8,14 +8,12 @@
 
 \subsubsection{II. Theorem}
 
-\begin{minipage}[t]{0.33\textwidth}
-    \vspace{40pt}
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
     \includesvg[width=\textwidth]{book6_proposition_2_figure}
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
+\begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION II. THEOREM.}\phantomsection\label{book6pr2} \\
     \end{center}
@@ -23,61 +21,46 @@
     \hfill
 
     \begin{center}
-        \raggedright \lettrine[lines=4, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line} $\blackline$ \textit{be drawn parallel to any\\ ſide} $\dottedblackline$ \textit{of a triangle, it ſhall cut the other\\ ſides, or thoſe ſides produced, into proportional}
+        \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line} $\blackline$ \textit{be drawn parallel to any ſide} $\dottedblackline$ \textit{of a triangle, it ſhall cut the other ſides, or thoſe ſides produced, into proportional ſegments. And if any ſtraight line} $\blackline$ \textit{divide the ſides of a triangle or thoſe ſides produced, into proportional ſegments, it is parallel to the remaining ſide} $\dottedblackline \bperiod$ \textit{ſegments. And if any ſtraight line} $\blackline$ \textit{divide the ſides of a triangle or thoſe ſides produced, into proportional ſegments, it is parallel to the remaining ſide} $\dottedblackline \bperiod$
     \end{center}
-    \vspace{1ex}
-    \raggedright \textit{ſegments. And if any ſtraight line} $\blackline$ \textit{divide the ſides of a triangle or thoſe ſides produced, into proportional ſegments, it is parallel to the remaining ſide} $\dottedblackline \bperiod$
-
-    \hfill
-
-    \hfill
-
-    \begin{center}
-        PART I.\\
-        \hfill\\
-        Let $\blackline \bparallel \dottedblackline \bcomma$ then ſhall\\
-        $\yellowline \bcolon \dottedredline \bbcolon \dottedyellowline \bcolon \dottedblueline \bperiod$\\
-        \hfill\\
-        Draw $\redline$ and $\blueline \bcomma$\\
-        and $\img{black_red_and_yellow_triangle} \bequals \img[0][0][32]{black_dotted_yellow_and_blue_triangle}$ [\hyperref[book1pr37]{\textsc{I.} 37}];\\
-        $\btherefore \img{black_red_and_yellow_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle} \bbcolon \img[0][0][32]{black_dotted_yellow_and_blue_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle}$ [\hyperref[book5pr7]{\textsc{V.} 7}];\\
-        but $\img{black_red_and_yellow_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle} \bbcolon \yellowline \bcolon \dottedredline$ [\hyperref[book6pr1]{\textsc{VI.} 1}],\\
-        $\btherefore \yellowline \bcolon \dottedredline \bbcolon \dottedyellowline \bcolon \dottedblueline \bperiod$ [\hyperref[book5pr11]{\textsc{V.} 11}].\\
-    \end{center}
-
-\end{minipage}%
+\end{minipage}
 
 \hfill
 
+\begin{center}
+    PART I.\\
+    \hfill\\
+    Let $\blackline \bparallel \dottedblackline \bcomma$ then ſhall\\
+    $\yellowline \bcolon \dottedredline \bbcolon \dottedyellowline \bcolon \dottedblueline \bperiod$\\
+    \hfill\\
+    Draw $\redline$ and $\blueline \bcomma$\\
+    and $\img{black_red_and_yellow_triangle} \bequals \img[0][0][32]{black_dotted_yellow_and_blue_triangle}$ [\hyperref[book1pr37]{\textsc{I.} 37}];\\
+    $\btherefore \img{black_red_and_yellow_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle} \bbcolon \img[0][0][32]{black_dotted_yellow_and_blue_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle}$ [\hyperref[book5pr7]{\textsc{V.} 7}];\\
+    but $\img{black_red_and_yellow_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle} \bbcolon \yellowline \bcolon \dottedredline$ [\hyperref[book6pr1]{\textsc{VI.} 1}],\\
+    $\btherefore \yellowline \bcolon \dottedredline \bbcolon \dottedyellowline \bcolon \dottedblueline \bperiod$ [\hyperref[book5pr11]{\textsc{V.} 11}].\\
+\end{center}
+
+\begin{center}
+    PART II.\\
+    \hfill\\
+    Let $\yellowline \bcolon \dottedredline \bbcolon \dottedyellowline \bcolon \dottedblueline \bcomma$\\
+    then $\blueline \bparallel \dottedblackline \bperiod$\\
+    \hfill\\
+    Let the ſame conſtruction remain,\\
+    $\left.\begin{aligned}
+            \text{becauſe} \yellowline \bcolon \dottedredline \bbcolon \img{black_red_and_yellow_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle} \\
+            \text{and} \dottedyellowline \bcolon \dottedblueline \bbcolon \img[0][0][32]{black_dotted_yellow_and_blue_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle}
+        \end{aligned}\right\}$ [\hyperref[book6pr1]{\textsc{VI.} 1}]\\
+
+    but $\yellowline \bcolon \dottedredline \bbcolon \dottedyellowline \bcolon \dottedblueline$ [hyp.],\\
+    $\btherefore \img{black_red_and_yellow_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle} \bbcolon \img[0][0][32]{black_dotted_yellow_and_blue_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle}$ [\hyperref[book5pr11]{\textsc{V.} 11}]\\
+    $\btherefore \img{black_red_and_yellow_triangle} \bequals \img[0][0][32]{black_dotted_yellow_and_blue_triangle}$ [\hyperref[book5pr9]{\textsc{V.} 9}];\\
+    but they are on the ſame baſe $\dottedblackline \bcomma$ and at the ſame ſide of it, and\\
+    $\btherefore \blackline \bparallel \dottedblackline$ [\hyperref[book1pr39]{\textsc{I.} 39}].
+\end{center}
+
 \hfill
 
-\pagebreak
-
-\begin{minipage}[t]{0.64\textwidth}
-    \vspace{0pt}
-
-    \begin{center}
-        PART II.\\
-        \hfill\\
-        Let $\yellowline \bcolon \dottedredline \bbcolon \dottedyellowline \bcolon \dottedblueline \bcomma$\\
-        then $\blueline \bparallel \dottedblackline \bperiod$\\
-        \hfill\\
-        Let the ſame conſtruction remain,\\
-        $\left.\begin{aligned}
-                \text{becauſe} \yellowline \bcolon \dottedredline \bbcolon \img{black_red_and_yellow_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle} \\
-                \text{and} \dottedyellowline \bcolon \dottedblueline \bbcolon \img[0][0][32]{black_dotted_yellow_and_blue_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle}
-            \end{aligned}\right\}$ [\hyperref[book6pr1]{\textsc{VI.} 1}]\\
-
-        but $\yellowline \bcolon \dottedredline \bbcolon \dottedyellowline \bcolon \dottedblueline$ [hyp.],\\
-        $\btherefore \img{black_red_and_yellow_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle} \bbcolon \img[0][0][32]{black_dotted_yellow_and_blue_triangle} \bcolon \img[0][0][17]{dotted_blue_black_dotted_red_triangle}$ [\hyperref[book5pr11]{\textsc{V.} 11}]\\
-        $\btherefore \img{black_red_and_yellow_triangle} \bequals \img[0][0][32]{black_dotted_yellow_and_blue_triangle}$ [\hyperref[book5pr9]{\textsc{V.} 9}];\\
-        but they are on the ſame baſe $\dottedblackline \bcomma$ and at the ſame ſide of it, and\\
-        $\btherefore \blackline \bparallel \dottedblackline$ [\hyperref[book1pr39]{\textsc{I.} 39}].
-    \end{center}
-
-    \hfill
-
-    \hfill Q.E.D.
-\end{minipage}%
+\hfill Q.E.D.
 
 \end{document}
