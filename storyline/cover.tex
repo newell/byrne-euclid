@@ -1,23 +1,31 @@
 % !TEX TS-program = xelatex
 % !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+
+% \documentclass[
+%     12pt,
+%     coverheight=10in, % Front Cover height
+%     coverwidth=7in, % Front Cover width
+%     spinewidth=0.718in, % Spine width
+%     % markthick=0pt,
+%     % markcolor=white,
+%     marklength=0mm,
+%     bleedwidth=0.125in,
+%     ]{bookcover}
 \documentclass[
     12pt,
-    coverheight=10in,
-    coverwidth=7in,
-    spinewidth=0.718in,
-    % markthick=0pt,
-    % markcolor=white,
-    marklength=0mm,
+    coverheight=9.236in, % Front Cover height
+    coverwidth=6.197in, % Front Cover width
+    spinewidth=0.959in, % Spine width
     bleedwidth=0.125in,
+    % marklength=0mm,
+    % markcolor=black,
+    foldingmargin,
     ]{bookcover}
 
-    % \input{preamble}
-% \usepackage{graphicx}
 \usepackage{xcolor}
 \usepackage{svg}
 \usepackage{lettrine}
 \usepackage{fontspec}
-
 
 \newcommand*{\MyPath}{/home/newell/code/byrne-euclid}
 
@@ -55,8 +63,22 @@
     %     \textcolor{red}{\textsc{Annales Mathematicae} book cover (outside)}}
 
     \bookcovercomponent{center}{spine}{
-        \rotatebox[origin=c]{-90}{\huge\bfseries
-            BYRNE'S EUCLID}}
+        \rotatebox[origin=c]{-90}{
+            \huge\bfseries BYRNE'S EUCLID
+        }
+        \hspace{10cm}\includesvg[width=50pt]{book3_proposition_22_figure}
+    }
+
+    % \begin{bookcoverelement}{center rotate}{spine}
+    %     \color{yellow!60!black}\huge\sffamily\bfseries
+    %     \contour{black}{Rose Taylor -- Gambling Systems and Strategies}
+    % \end{bookcoverelement}
+
+    % \bookcovercomponent{picture}{spine}[bottom]{
+    %     \rotatebox[origin=c]{-90}{
+    %         \includesvg{book2_proposition_22_figure}
+    %     }
+    % }
 
     \bookcovercomponent{normal}{front}[22mm,20mm,22mm,40mm]{
         \centering

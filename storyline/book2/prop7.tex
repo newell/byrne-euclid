@@ -8,6 +8,11 @@
 
 \subsubsection{VII. Theorem}
 
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
+    \includesvg[width=\textwidth]{book2_proposition_7_figure}
+\end{minipage}%
+\hfill
 \begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION VII. THEOREM.}\phantomsection\label{book2pr7} \\
@@ -19,14 +24,13 @@
         \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into any two parts} $\bimg{bottom_blue_and_red_lines} \bcomma$ \textit{the ſquares of the whole line and one of the parts are equal to twice the rectangle contained by the whole line and that part, together with the ſquare of the other parts}.
     \end{center}
 \end{minipage}%
-\hfill
-\begin{minipage}[t]{0.43\textwidth}
-    \vspace{20pt}
-    \includesvg[width=\textwidth]{book2_proposition_7_figure}
-\end{minipage}
-\[
-    \begin{aligned}\bimg{bottom_blue_and_red_lines}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals & {\text{\large 2}} \bimg{bottom_blue_and_red_lines} \bmultiply \redline & \bplus \blueline^{\text{\large 2}} \bperiod \end{aligned}
-\]
+
+\begin{center}
+    $\bimg{bottom_blue_and_red_lines}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals {\text{\large 2}} \bimg{bottom_blue_and_red_lines} \bmultiply \redline \bplus \blueline^{\text{\large 2}} \bperiod$
+\end{center}
+% \[
+%     \begin{aligned}\bimg{bottom_blue_and_red_lines}^{\text{\large 2}} \bplus \redline^{\text{\large 2}} \bequals & {\text{\large 2}} \bimg{bottom_blue_and_red_lines} \bmultiply \redline & \bplus \blueline^{\text{\large 2}} \bperiod \end{aligned}
+% \]
 
 \hfill
 
@@ -47,16 +51,10 @@
 
 \hfill
 
-% \begin{minipage}[t]{0.33\textwidth}
-%     \phantom{}
-% \end{minipage}%
-% \begin{minipage}[t]{0.64\textwidth}
-%     \vspace{0pt}
-
 \begin{center}
     \[
         \begin{aligned}
-            \btherefore \img[0][0][30]{yellow_rectangle_and_blue_square} \bplus \img[0][0][10]{blue_square_and_black_rectangle} \bplus \img[0][0][30]{red_square_2} & \bequals {\text{\large 2}} \bimg{bottom_blue_and_red_lines} \bmultiply \redline \bplus \blueline^{\text{\large 2}} \\
+            \btherefore \img[0][0][30]{yellow_rectangle_and_blue_square} \bplus \img[0][0][10]{blue_square_and_black_rectangle} \bplus \img[0][0][30]{red_square_2} & \bequals {\text{\large 2}} \bimg{bottom_blue_and_red_lines} \bmultiply \redline \hspace{-1ex}\bplus \hspace{-1ex}\blueline^{\text{\large 2}} \\
                                                                                                                                                                     & \bequals \img[0][0][50]{all_rectangles_and_squares} \bplus \img{blue_square} \bsemicolon
         \end{aligned}
     \]
@@ -66,6 +64,5 @@
 \hfill
 
 \hfill Q.E.D.
-% \end{minipage}%
 
 \end{document}

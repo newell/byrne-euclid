@@ -8,11 +8,6 @@
 
 \subsubsection{II. Theorem}
 
-\begin{minipage}[t]{0.43\textwidth}
-    \vspace{20pt}
-    \includesvg[width=\textwidth]{book2_proposition_2_figure}
-\end{minipage}%
-\hfill
 \begin{minipage}[t]{0.54\textwidth}
     \begin{center}
         \textit{PROPOSITION II. THEOREM.}\phantomsection\label{book2pr2} \\
@@ -23,7 +18,12 @@
     \begin{center}
         \raggedright \lettrine[lines=3, loversize=1, nindent=0pt]{\euclidinitials{I}}{}F \textit{a ſtraight line be divided into any two parts} $\bimg{blue_and_red_lines_2} \bcomma$ \textit{the ſquare of the whole line is equal to the ſum of the rectangles contained by the whole line and each of its parts}.
     \end{center}
-\end{minipage}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.43\textwidth}
+    \vspace{20pt}
+    \includesvg[width=\textwidth]{book2_proposition_2_figure}
+\end{minipage}%
 \[
     \bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals \left\{\begin{aligned}\bimg{blue_and_red_lines_2} & \bmultiply \blueline \\[-2ex] \bplus \bimg{blue_and_red_lines_2} & \bmultiply \redline \end{aligned}\right.
 \]
@@ -38,8 +38,14 @@
     $\img[0][0][50]{yellow_and_red_rectangles} \bequals \bimg{blue_and_red_lines_2}^{\text{\large 2}}$\\
     $\img[0][0][30]{red_rectangle_2} \bequals \blackline \bmultiply \blueline \bequals \bimg{blue_and_red_lines_2} \bmultiply \blueline$\\
     $\img[0][0][20]{yellow_rectangle_3} \bequals \blackline \bmultiply \redline \bequals \bimg{blue_and_red_lines_2} \bmultiply \redline$\\
-    $\img[0][0][50]{yellow_and_red_rectangles} \bequals \img[0][0][30]{red_rectangle_2} \bplus \img[0][0][20]{yellow_rectangle_3}$\\
-    $\btherefore \bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals \bimg{blue_and_red_lines_2} \bmultiply \blueline \bplus \bimg{blue_and_red_lines_2} \bmultiply \redline \bperiod$
+    $\img[0][0][50]{yellow_and_red_rectangles} \bequals \img[0][0][30]{red_rectangle_2} \bplus \img[0][0][20]{yellow_rectangle_3}$
+\end{center}
+
+\begin{center}
+    \begin{align*}
+        \btherefore \bimg{blue_and_red_lines_2}^{\text{\large 2}} \bequals & \bimg{blue_and_red_lines_2} \bmultiply \blueline \bplus  \\
+                                                                           & \bimg{blue_and_red_lines_2} \bmultiply \redline \bperiod
+    \end{align*}
 \end{center}
 
 \hfill
