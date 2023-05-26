@@ -1,0 +1,44 @@
+% !TEX TS-program = xelatex
+% !TEX options = -shell-escape -synctex=1 -interaction=nonstopmode -file-line-error "%DOC%"
+\documentclass[12pt,cmyk]{report}
+
+\usepackage{lettrine}
+\usepackage{fontspec}
+\usepackage{svg}
+
+\newcommand*{\MyPath}{/home/newell/code/byrne-euclid}
+
+\svgpath{{\MyPath/byrne-euclid-svg/figures/propositions/}}
+
+\setmainfont{EBGaramond-Regular.otf}[
+  BoldFont = EBGaramond-Bold.otf,
+  ItalicFont = EBGaramond-Italic.otf,
+  BoldItalicFont = EBGaramond-BoldItalic.otf,
+  SmallCapsFont = EBGaramond12-AllSC.otf,
+  Numbers = {OldStyle,Proportional},
+  Ligatures = {Discretionary},
+  RawFeature = {+ss06}
+]
+\newfontfamily\euclidinitials{EuclidInitialsnormal.ttf}
+
+\definecolor{byrne-gray}{gray}{0.6}
+
+\pagecolor{byrne-gray}
+
+\begin{document}
+\thispagestyle{empty}
+\centering
+{\Huge\bfseries BYRNE'S EUCLID}\\
+\vspace{4ex}
+{\Large\bfseries The First Six Books of the \textit{Elements} of Euclid}\\
+
+\vfill
+
+\includesvg{book1_proposition_47_figure_cover_final}
+
+\vfill
+
+\LARGE{Newell Jensen}\\
+\LARGE{2023}
+
+\end{document}
