@@ -2,7 +2,17 @@
 
 Welcome to this modern rendition of **_Byrne's Euclid_** by Oliver Byrne. Originally published in 1847, his edition of the **_Elements of Euclid_** revolutionized mathematical publishing by incorporating vibrant color illustrations to demonstrate geometric proofs. Today, we bring you a fresh take on this timeless classic, updated with modern design and layout techniques to enhance its educational impact. With easy-to-follow examples and diagrams, readers can explore Euclid's geometric theories with ease and gain a deeper understanding of mathematical concepts. This modern rendition of **_Byrne's Euclid_** is the perfect resource for anyone seeking to develop their understanding of geometry or for those looking to explore the history of mathematical publishing.
 
-## Interactive Links
+### Byrne's Original Work
+
+A scan of Byrne's original work can be found here:
+
+[![page7-457px-First_six_books_of_the_elements_of_Euclid_1847_Byrne djvu](https://github.com/user-attachments/assets/000cd873-a721-4603-8857-25991fe6fb41)](https://upload.wikimedia.org/wikipedia/commons/b/b2/First_six_books_of_the_elements_of_Euclid_1847_Byrne.djvu)
+
+## Modern Work 
+
+This modern work is interactive.
+
+### Interactive Links
 
 The digital copy has links to allow you to navigate around the PDF:
 
