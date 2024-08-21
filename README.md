@@ -1,4 +1,4 @@
-# Byrne's Euclid [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+# Byrne's Euclid [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Welcome to this modern rendition of **_Byrne's Euclid_** by Oliver Byrne. Originally published in 1847, his edition of the **_Elements of Euclid_** revolutionized mathematical publishing by incorporating vibrant color illustrations to demonstrate geometric proofs. Today, we bring you a fresh take on this timeless classic, updated with modern design and layout techniques to enhance its educational impact. With easy-to-follow examples and diagrams, readers can explore Euclid's geometric theories with ease and gain a deeper understanding of mathematical concepts. This modern rendition of **_Byrne's Euclid_** is the perfect resource for anyone seeking to develop their understanding of geometry or for those looking to explore the history of mathematical publishing.
 
